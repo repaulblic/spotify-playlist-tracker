@@ -2,7 +2,7 @@
 
 > Super cool description!<br>
 > Created by [repaulblic](https://open.spotify.com/user/repaulblic) • 163 songs, 9 hr 36 min
-<br>
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flowers Are Pretty](https://open.spotify.com/track/3KR7OrTW5huABPJNOR1mFY) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Look What I Almost Stepped In](https://open.spotify.com/album/6MUhPzikV426mVeyrbu6uE) | 03:17 |

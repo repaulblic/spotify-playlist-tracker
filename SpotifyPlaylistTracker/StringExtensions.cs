@@ -52,7 +52,7 @@ namespace SpotifyPlaylistTracker
 
             }
             sb.AppendLine($"> Created by [{playlist.owner.display_name}]({playlist.owner.external_urls.spotify}) • {songCount} songs, {GetTimeString(totalTime)}");
-            sb.AppendLine("<br>");
+            sb.AppendLine("");
             sb.AppendLine("| No. | Title | Artist(s) | Album | Length |");
             sb.AppendLine("|---|---|---|---|---|");
             sb.Append(tracksSb);

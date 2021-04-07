@@ -2,7 +2,7 @@
 
 > This is the best of ska, new and classic. Cover: Goldfinger<br>
 > Created by [Spotify](https://open.spotify.com/user/spotify) • 101 songs, 5 hr 27 min
-<br>
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wallflower](https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 02:23 |
