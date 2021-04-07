@@ -40,7 +40,15 @@ namespace SpotifyPlaylistHistory
 
             sb.AppendLine($"### [{playlist.name}]({playlist.external_urls.spotify})");
             sb.AppendLine();
-            sb.AppendLine($"> {playlist.description}<br>");
+            if (!string.IsNullOrWhiteSpace(playlist.description))
+            {
+                sb.AppendLine($"> {playlist.description}<br>");
+            }
+            else
+            {
+                sb.AppendLine($"> ");
+
+            }
             sb.AppendLine($"> Created by [{playlist.owner.display_name}]({playlist.owner.external_urls.spotify}) • {songCount} songs, {GetTimeString(totalTime)}");
             sb.AppendLine($"###### Version ID: {playlist.snapshot_id}");
             sb.AppendLine();
