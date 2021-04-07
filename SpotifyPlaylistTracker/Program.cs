@@ -27,7 +27,7 @@ namespace SpotifyPlaylistTracker
             request.AddHeader("Content-Type", "application/x-www-form-urlencoded");
             request.AddParameter("grant_type", "client_credentials");
 
-            IRestResponse<TokenResponse> response = null;
+            IRestResponse<TokenResponse> response;
             do
             {
                 response = restClient.Post<TokenResponse>(request);

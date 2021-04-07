@@ -52,8 +52,7 @@ namespace SpotifyPlaylistTracker
 
             }
             sb.AppendLine($"> Created by [{playlist.owner.display_name}]({playlist.owner.external_urls.spotify}) • {songCount} songs, {GetTimeString(totalTime)}");
-            sb.AppendLine($"###### Version ID: {playlist.snapshot_id}");
-            sb.AppendLine();
+            sb.AppendLine("<br>");
             sb.AppendLine("| No. | Title | Artist(s) | Album | Length |");
             sb.AppendLine("|---|---|---|---|---|");
             sb.Append(tracksSb);
@@ -67,10 +66,11 @@ namespace SpotifyPlaylistTracker
             {
                 playlistName = playlist.name,
                 playlistID = playlist.id,
-                versionID = playlist.snapshot_id,
                 description = playlist.description,
                 tracks = playlist.tracks.items.Select(i => i.track.ToString()).ToList()
             };
+
+            record.tracks.Sort();
 
             return JsonConvert.SerializeObject(record, Formatting.Indented);
         }
