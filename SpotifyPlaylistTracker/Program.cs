@@ -15,10 +15,14 @@ namespace SpotifyPlaylistHistory
         static void Main(string[] args)
         {
             string playlistID = "7AodoCcN7r6zCDut0GnG8g";
+            string playlistPath = Path.Combine(Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, "Playlists");
+            string prettyPath = Path.Combine(playlistPath, "Pretty");
+            string rawPath = Path.Combine(playlistPath, "Raw");
+
             RestSharp.RestClient restClient = new RestSharp.RestClient();
 
             var request = new RestRequest(tokenURL, Method.POST);
-            request.AddHeader("Authorization", "Basic ");
+            request.AddHeader("Authorization", $"Basic {args[0]}");
             request.AddHeader("Content-Type", "application/x-www-form-urlencoded");
             request.AddParameter("grant_type", "client_credentials");
 
@@ -70,27 +74,7 @@ namespace SpotifyPlaylistHistory
                 }
             }
 
-            StringBuilder sb = new StringBuilder();
-            Console.WriteLine();
-            string s = $"{ playlist.name } - By { playlist.owner.display_name}\tversion: {playlist.snapshot_id}";
-            Console.WriteLine(s);
-            Console.WriteLine(string.Concat(Enumerable.Repeat("-",s.Length)));
-
-            sb.AppendLine(s);
-            sb.AppendLine(string.Concat(Enumerable.Repeat("-", s.Length)));
-
-            int maxTitle = playlist.tracks.items.Max(i => i.track.name.Length);
-            int maxArtist = playlist.tracks.items.Max(i => string.Join(", ", i.track.artists.Select(j => j.name)).Length);
-            int maxAdded = 24;
-
-
-            foreach (var item in playlist.tracks.items)
-            {
-                Console.WriteLine(String.Format($"{{0,-{maxTitle}}} | {{1,-{maxArtist}}} | {{2,{maxAdded}}}", item.track.name, string.Join(", ", item.track.artists.Select(i => i.name)), item.added_at));
-                sb.AppendLine(String.Format($"{{0,-{maxTitle}}} | {{1,-{maxArtist}}} | {{2,{maxAdded}}}", item.track.name, string.Join(", ", item.track.artists.Select(i => i.name)), item.added_at));
-            }
-
-            File.WriteAllText($"{playlistID}.md", MDExtensions.GenerateMD(playlist));
+            File.WriteAllText( Path.Combine(prettyPath, $"{playlist.name}.md"), MDExtensions.GenerateMD(playlist));
         }
     }
 }
