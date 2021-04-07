@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
-namespace SpotifyPlaylistHistory
+namespace SpotifyPlaylistTracker
 {
-    static class MDExtensions
+    static class StringExtensions
     {
         public static string GenerateMD(Playlists playlist)
         {
@@ -57,7 +59,20 @@ namespace SpotifyPlaylistHistory
             sb.Append(tracksSb);
 
             return sb.ToString();
+        }
 
+        public static string GenerateJSON(Playlists playlist)
+        {
+            RawRecord record = new RawRecord
+            {
+                playlistName = playlist.name,
+                playlistID = playlist.id,
+                versionID = playlist.snapshot_id,
+                description = playlist.description,
+                tracks = playlist.tracks.items.Select(i => i.track.ToString()).ToList()
+            };
+
+            return JsonConvert.SerializeObject(record, Formatting.Indented);
         }
 
         private static string GetTimeString(TimeSpan ts)

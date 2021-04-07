@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SpotifyPlaylistHistory
+namespace SpotifyPlaylistTracker
 {
     public class TokenResponse
     {

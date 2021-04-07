@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace SpotifyPlaylistHistory
+namespace SpotifyPlaylistTracker
 {
     class Program
     {
@@ -44,7 +44,7 @@ namespace SpotifyPlaylistHistory
 
                 request = new RestRequest($"{playlistURL}/{id}", Method.GET);
                 request.AddHeader("Authorization", $"Bearer {response.Data.access_token}");
-                request.AddParameter("fields", "name,description,owner,snapshot_id,external_urls,tracks.items(added_at,track.name, track.track_number,track.id,track.album.name,track.duration_ms,track.album.external_urls.spotify,track.artists(name,external_urls),track.external_urls.spotify),tracks.total,tracks.next,tracks.previous");
+                request.AddParameter("fields", "id,name,description,owner,snapshot_id,external_urls,tracks.items(added_at,track.name, track.track_number,track.id,track.album.name,track.duration_ms,track.album.external_urls.spotify,track.artists(name,external_urls),track.external_urls.spotify),tracks.total,tracks.next,tracks.previous");
 
                 IRestResponse<Playlists> playlistResponse = restClient.Get<Playlists>(request);
 
@@ -78,7 +78,9 @@ namespace SpotifyPlaylistHistory
                     }
                 }
 
-                File.WriteAllText(Path.Combine(prettyPath, $"{playlist.name}.md"), MDExtensions.GenerateMD(playlist));
+                File.WriteAllText(Path.Combine(prettyPath, $"{playlist.name}.md"), StringExtensions.GenerateMD(playlist));
+                File.WriteAllText(Path.Combine(rawPath, $"{playlist.id}"), StringExtensions.GenerateJSON(playlist));
+
             }
         }
     }

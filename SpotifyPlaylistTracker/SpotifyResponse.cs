@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
-namespace SpotifyPlaylistHistory
+namespace SpotifyPlaylistTracker
 {
-    // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
     public class ExternalUrls
     {
         public string spotify { get; set; }
@@ -37,6 +37,11 @@ namespace SpotifyPlaylistHistory
         public string name { get; set; }
         public int track_number { get; set; }
         public long duration_ms { get; set; }
+
+        public override string ToString()
+        {
+            return $"{name} -- {string.Join(", ", artists.Select(i => i.name))} -- {album.name}"; 
+        }
     }
 
     public class Item
@@ -60,6 +65,7 @@ namespace SpotifyPlaylistHistory
         public string description { get; set; }
         public Owner owner { get; set; }
         public string snapshot_id { get; set; }
+        public string id { get; set; }
         public Tracks tracks { get; set; }
     }
 
