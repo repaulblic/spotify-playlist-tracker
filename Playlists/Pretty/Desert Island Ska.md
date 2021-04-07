@@ -1,7 +1,8 @@
 ### [Desert Island Ska](https://open.spotify.com/playlist/7AodoCcN7r6zCDut0GnG8g)
 
-> 
-###### Version ID: MTc1LDk1NjRhYzExNzBhOTdjOTcwNGFmMDQwMGM4NDVjOTdjZDk2YzFmNDg=
+> Super cool description!<br>
+> Created by [repaulblic](https://open.spotify.com/user/repaulblic) • 163 songs, 9 hr 36 min
+###### Version ID: MTc2LGEyZDhkODBjYTZiYTcyZDZiN2VmMWNhY2QxMTRmYzNhM2FkOWJiNTY=
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

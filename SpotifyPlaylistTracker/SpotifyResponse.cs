@@ -13,6 +13,7 @@ namespace SpotifyPlaylistHistory
     public class Owner
     {
         public string display_name { get; set; }
+        public ExternalUrls external_urls { get; set; }
     }
 
     public class Album

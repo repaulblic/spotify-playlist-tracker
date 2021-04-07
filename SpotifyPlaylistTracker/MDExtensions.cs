@@ -9,15 +9,10 @@ namespace SpotifyPlaylistHistory
         public static string GenerateMD(Playlists playlist)
         {
             StringBuilder sb = new StringBuilder();
-
-            sb.AppendLine($"### [{playlist.name}]({playlist.external_urls.spotify})");
-            sb.AppendLine();
-            sb.AppendLine($"> {playlist.description}");
-            sb.AppendLine($"###### Version ID: {playlist.snapshot_id}");
-            sb.AppendLine();
-            sb.AppendLine("| No. | Title | Artist(s) | Album | Length |");
-            sb.AppendLine("|---|---|---|---|---|");
-            int i = 1;
+            StringBuilder tracksSb = new StringBuilder();
+            
+            int songCount = 1;
+            long totalMs = 0;
 
             foreach (var item in playlist.tracks.items)
             {
@@ -25,7 +20,7 @@ namespace SpotifyPlaylistHistory
                 List<string> artists = new List<string>();
                 TimeSpan trackLength = TimeSpan.FromMilliseconds(item.track.duration_ms);
 
-                trackSB.Append($"| {i} | ");
+                trackSB.Append($"| {songCount} | ");
                 trackSB.Append($"[{item.track.name}]({item.track.external_urls.spotify}) | ");
 
                 foreach (var artist in item.track.artists)
@@ -36,12 +31,44 @@ namespace SpotifyPlaylistHistory
                 trackSB.Append($"{string.Join(", ", artists)} | ");
                 trackSB.Append($"[{item.track.album.name}]({item.track.album.external_urls.spotify}) | ");
                 trackSB.Append($"{trackLength.ToString("mm\\:ss")} |");
-                sb.AppendLine(trackSB.ToString());
-                i++;
+                tracksSb.AppendLine(trackSB.ToString());
+                songCount++;
+                totalMs += item.track.duration_ms;
             }
+
+            TimeSpan totalTime = TimeSpan.FromMilliseconds(totalMs);
+
+            sb.AppendLine($"### [{playlist.name}]({playlist.external_urls.spotify})");
+            sb.AppendLine();
+            sb.AppendLine($"> {playlist.description}<br>");
+            sb.AppendLine($"> Created by [{playlist.owner.display_name}]({playlist.owner.external_urls.spotify}) • {songCount} songs, {GetTimeString(totalTime)}");
+            sb.AppendLine($"###### Version ID: {playlist.snapshot_id}");
+            sb.AppendLine();
+            sb.AppendLine("| No. | Title | Artist(s) | Album | Length |");
+            sb.AppendLine("|---|---|---|---|---|");
+            sb.Append(tracksSb);
 
             return sb.ToString();
 
+        }
+
+        private static string GetTimeString(TimeSpan ts)
+        {
+            switch (ts.TotalMinutes)
+            {
+                case double m when m <= 10:
+                    return $"{ts.Minutes} min {ts.Seconds} sec";
+                case double m when 10 < m && m <= 60:
+                    return $"{ts.Minutes} min";
+                case double m when 60 < m && m <= 60*36:
+                    return $"{ts.Hours} hr {ts.Minutes} min";
+                case double m when 60 * 36 < m && m <= 60*48:
+                    return $"{ts.Days} day {ts.Hours} hr";
+                case double m when 60 * 48 < m:
+                    return $"{ts.Days} days {ts.Hours} hr";
+                default:
+                    return "";
+            }
         }
     }
 }

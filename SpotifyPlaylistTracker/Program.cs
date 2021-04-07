@@ -14,7 +14,8 @@ namespace SpotifyPlaylistHistory
 
         static void Main(string[] args)
         {
-            string playlistID = "7AodoCcN7r6zCDut0GnG8g";
+            var playlistIDs = File.ReadLines("PlaylistIDs.txt");
+
             string playlistPath = Path.Combine(Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, "Playlists");
             string prettyPath = Path.Combine(playlistPath, "Pretty");
             string rawPath = Path.Combine(playlistPath, "Raw");
@@ -37,44 +38,48 @@ namespace SpotifyPlaylistHistory
                 }
             } while (!response.IsSuccessful);
 
-
-            request = new RestRequest($"{playlistURL}/{playlistID}",Method.GET);
-            request.AddHeader("Authorization", $"Bearer {response.Data.access_token}");
-            request.AddParameter("fields", "name,owner.display_name,snapshot_id,external_urls,tracks.items(added_at,track.name, track.track_number,track.id,track.album.name,track.duration_ms,track.album.external_urls.spotify,track.artists(name,external_urls),track.external_urls.spotify),tracks.total,tracks.next,tracks.previous");
-
-            IRestResponse<Playlists> playlistResponse = restClient.Get<Playlists>(request);
-
-            if (!playlistResponse.IsSuccessful)
+            foreach (var playlistId in playlistIDs)
             {
-                Console.WriteLine("Get Playlist error");
-                Console.WriteLine(playlistResponse.Content);
-                return;
-            }
+                var id = playlistId.Split(':').Last();
 
-            Playlists playlist = playlistResponse.Data;
-            string next = playlistResponse.Data.tracks.next;
+                request = new RestRequest($"{playlistURL}/{id}", Method.GET);
+                request.AddHeader("Authorization", $"Bearer {response.Data.access_token}");
+                request.AddParameter("fields", "name,description,owner,snapshot_id,external_urls,tracks.items(added_at,track.name, track.track_number,track.id,track.album.name,track.duration_ms,track.album.external_urls.spotify,track.artists(name,external_urls),track.external_urls.spotify),tracks.total,tracks.next,tracks.previous");
 
-            while ( next != null)
-            {
-                var tracksRequest = new RestRequest(next, Method.GET);
-                tracksRequest.AddHeader("Authorization", $"Bearer {response.Data.access_token}");
-                IRestResponse<Tracks> tracksResponse = restClient.Get<Tracks>(tracksRequest);
+                IRestResponse<Playlists> playlistResponse = restClient.Get<Playlists>(request);
 
-                if (tracksResponse.IsSuccessful)
+                if (!playlistResponse.IsSuccessful)
                 {
-                    next = tracksResponse.Data.next;
-                    playlist.tracks.items.AddRange(tracksResponse.Data.items);
+                    Console.WriteLine("Get Playlist error");
+                    Console.WriteLine(playlistResponse.Content);
+                    return;
                 }
-                //DONT DO THIS
-                //COULD CAUSE LOOP
-                else
-                {
-                    Console.WriteLine("Error getting tracks");
-                    Console.WriteLine(tracksResponse.Content);
-                }
-            }
 
-            File.WriteAllText( Path.Combine(prettyPath, $"{playlist.name}.md"), MDExtensions.GenerateMD(playlist));
+                Playlists playlist = playlistResponse.Data;
+                string next = playlistResponse.Data.tracks.next;
+
+                while (next != null)
+                {
+                    var tracksRequest = new RestRequest(next, Method.GET);
+                    tracksRequest.AddHeader("Authorization", $"Bearer {response.Data.access_token}");
+                    IRestResponse<Tracks> tracksResponse = restClient.Get<Tracks>(tracksRequest);
+
+                    if (tracksResponse.IsSuccessful)
+                    {
+                        next = tracksResponse.Data.next;
+                        playlist.tracks.items.AddRange(tracksResponse.Data.items);
+                    }
+                    //DONT DO THIS
+                    //COULD CAUSE LOOP
+                    else
+                    {
+                        Console.WriteLine("Error getting tracks");
+                        Console.WriteLine(tracksResponse.Content);
+                    }
+                }
+
+                File.WriteAllText(Path.Combine(prettyPath, $"{playlist.name}.md"), MDExtensions.GenerateMD(playlist));
+            }
         }
     }
 }
