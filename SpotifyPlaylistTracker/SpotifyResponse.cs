@@ -67,6 +67,7 @@ namespace SpotifyPlaylistTracker
         public string snapshot_id { get; set; }
         public string id { get; set; }
         public Tracks tracks { get; set; }
+        public DateTime timeStamp { get; set; }
     }
 
 

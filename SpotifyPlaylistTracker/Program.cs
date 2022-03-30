@@ -1,5 +1,6 @@
 ﻿using RestSharp;
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -38,6 +39,8 @@ namespace SpotifyPlaylistTracker
                 }
             } while (!response.IsSuccessful);
 
+            List<ReadMeTableEntry> readMeEntries = new List<ReadMeTableEntry>();
+
             foreach (var playlistId in playlistIDs)
             {
                 var id = playlistId.Split(':').Last();
@@ -56,6 +59,7 @@ namespace SpotifyPlaylistTracker
                 }
 
                 Playlists playlist = playlistResponse.Data;
+                playlist.timeStamp = DateTime.UtcNow;
                 string next = playlistResponse.Data.tracks.next;
 
                 while (next != null)
@@ -78,10 +82,27 @@ namespace SpotifyPlaylistTracker
                     }
                 }
 
-                File.WriteAllText(Path.Combine(prettyPath, $"{playlist.id}.md"), StringExtensions.GenerateMD(playlist));
-                File.WriteAllText(Path.Combine(rawPath, $"{playlist.id}"), StringExtensions.GenerateJSON(playlist));
+                var currentRawRecord = RawRecord.RawRecordFromPlaylist(playlist);
+                var entry = StringExtensions.CreateReadMeTableEntry(playlist);
+
+                if (File.Exists(Path.Combine(rawPath, $"{playlist.id}")))
+                {
+                    string previousRawRecordString = File.ReadAllText(Path.Combine(rawPath, $"{playlist.id}"));
+                    RawRecord previousRawRecord = StringExtensions.RawRecordFromString(previousRawRecordString);
+                    if (!currentRawRecord.Equals(previousRawRecord))
+                    {
+                        entry.LastChanged = DateTime.UtcNow;
+                    }
+
+                }
+
+                readMeEntries.Add(entry);
+                File.WriteAllText(Path.Combine(prettyPath, $"{playlist.id}.md"), StringExtensions.GeneratePrettyMD(playlist));
+                File.WriteAllText(Path.Combine(rawPath, $"{playlist.id}"), StringExtensions.GenerateJSON(currentRawRecord));
 
             }
+
+            File.WriteAllText("README.md", StringExtensions.GenerateReadMe(readMeEntries));
         }
     }
 }

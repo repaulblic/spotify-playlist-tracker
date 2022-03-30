@@ -8,7 +8,7 @@ namespace SpotifyPlaylistTracker
 {
     static class StringExtensions
     {
-        public static string GenerateMD(Playlists playlist)
+        public static string GeneratePrettyMD(Playlists playlist)
         {
             StringBuilder sb = new StringBuilder();
             StringBuilder tracksSb = new StringBuilder();
@@ -52,6 +52,7 @@ namespace SpotifyPlaylistTracker
 
             }
             sb.AppendLine($"> Created by [{playlist.owner.display_name}]({playlist.owner.external_urls.spotify}) • {songCount} songs, {GetTimeString(totalTime)}");
+            sb.AppendLine($"> Last Checked: {playlist.timeStamp:u}");
             sb.AppendLine("");
             sb.AppendLine("| No. | Title | Artist(s) | Album | Length |");
             sb.AppendLine("|---|---|---|---|---|");
@@ -60,18 +61,32 @@ namespace SpotifyPlaylistTracker
             return sb.ToString();
         }
 
-        public static string GenerateJSON(Playlists playlist)
+        public static ReadMeTableEntry CreateReadMeTableEntry(Playlists playlist)
         {
-            RawRecord record = new RawRecord
+            TimeSpan totalTime = TimeSpan.FromMilliseconds(playlist.tracks.items.Sum(i => i.track.duration_ms));
+
+            ReadMeTableEntry entry = new ReadMeTableEntry()
             {
-                playlistName = playlist.name,
-                playlistID = playlist.id,
-                description = playlist.description,
-                tracks = playlist.tracks.items.Select(i => i.track.ToString()).ToList()
+                PlaylistId = playlist.id,
+                PlaylistName = playlist.name,
+                Songs = playlist.tracks.items.Count,
+                PlaylistLength = GetTimeString(totalTime)
+
             };
 
-            record.tracks.Sort();
+            return entry;
+        }
 
+        public static RawRecord RawRecordFromString(string recordString)
+        {
+            RawRecord rawRecord =  JsonConvert.DeserializeObject<RawRecord>(recordString);
+            rawRecord.tracks.Sort();
+
+            return rawRecord;
+        }
+
+        public static string GenerateJSON(RawRecord record)
+        {
             return JsonConvert.SerializeObject(record, Formatting.Indented);
         }
 
@@ -92,6 +107,31 @@ namespace SpotifyPlaylistTracker
                 default:
                     return "";
             }
+        }
+
+        internal static string GenerateReadMe(List<ReadMeTableEntry> readMeEntries)
+        {
+            StringBuilder sb = new StringBuilder();
+            StringBuilder entriesSb = new StringBuilder();
+
+            foreach (var entry in readMeEntries)
+            {
+                StringBuilder entrySB = new StringBuilder();
+                entrySB.Append($"[{entry.PlaylistName}](/Playlists/Pretty/{entry.PlaylistId}.md) | ");
+                entrySB.Append($"| {entry.Songs} | ");
+                entrySB.Append($"| {entry.PlaylistLength} | ");
+                string lastChange = entry.LastChanged != default ? entry.LastChanged.ToShortDateString() : "Unknown";
+                entrySB.Append($"| {lastChange} | ");
+                entriesSb.AppendLine(entry.ToString());
+
+            }
+
+            sb.AppendLine("## Playlists");
+            sb.AppendLine("|Playlist | Songs | Playlist Length| Last Change Date|");
+            sb.AppendLine("|---|---|---|---|");
+            sb.Append(entriesSb);
+
+            return sb.ToString();
         }
     }
 }
