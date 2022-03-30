@@ -1,0 +1,30 @@
+### [Inexcusable Bops](https://open.spotify.com/playlist/1EsozxnoOIr5u6iMfmobfh)
+
+> 
+> Created by [Hank Green](https://open.spotify.com/user/12159652660) • 24 songs, 1 hr 10 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Bianca Stratford](https://open.spotify.com/track/0uoyRcSBbBsHFpMHmYBJ0j) | [BB Bean](https://open.spotify.com/artist/6qtT7XeCxRIWLqYLN9cVlQ) | [Bianca Stratford](https://open.spotify.com/album/4FQZiC04TLMcYed1nrvqLa) | 03:39 |
+| 2 | [Sandy](https://open.spotify.com/track/2jK09xyR9psh1uhNQI40Rk) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sandy](https://open.spotify.com/album/00n7lFc5J6Hiy4o6bt45pF) | 02:17 |
+| 3 | [8 now](https://open.spotify.com/track/3lzX0mU3pfXOQRnH0ryZJR) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [food house](https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr) | 03:29 |
+| 4 | [Cigarette Ahegao](https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 03:03 |
+| 5 | [Banned From The Gucci Store - Felix Cartal Remix](https://open.spotify.com/track/2tKXPegz8xkBtUbs8LJZ1U) | [worldoftshirts](https://open.spotify.com/artist/2sAqwtdDnl6fhh15uRx7dZ), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Banned From The Gucci Store (Felix Cartal Remix)](https://open.spotify.com/album/4s9JakoXZLR0s8ODI0pfxp) | 02:00 |
+| 6 | [Crush](https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 03:36 |
+| 7 | [Yeh Yeh](https://open.spotify.com/track/3I1R501QZxedpBkmD6LGmv) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Mink Car](https://open.spotify.com/album/6irRPdmPps1PLwiA8qPans) | 02:40 |
+| 8 | [Don't Lose Sight - Live Session, Los Angeles, CA, 2021](https://open.spotify.com/track/1XHHGmuKMoASN0Q6r2q7X6) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Jam in the Van - Lawrence (Live Session, Los Angeles, CA, 2021)](https://open.spotify.com/album/64Jbv5v63M71jajoIi0vXR) | 04:53 |
+| 9 | [Who's Laughing Now](https://open.spotify.com/track/2upp8DCqGyzL4UquAoy9Uf) | [Durry](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Who's Laughing Now](https://open.spotify.com/album/7fpazXDPdgixjbdsfBzJ8u) | 03:52 |
+| 10 | [Crab Rave](https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [Crab Rave](https://open.spotify.com/album/2lppc5R9jiNgGoB7qXPWlr) | 02:41 |
+| 11 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 03:17 |
+| 12 | [Lollipop](https://open.spotify.com/track/1JAnC4VkVIbO7C6Vislnue) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 03:03 |
+| 13 | [Soul Bossa Nova](https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Big Band Bossa Nova](https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8) | 02:46 |
+| 14 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto (Original Motion Picture Soundtrack)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 03:22 |
+| 15 | [My Life Is Better With You - My Brother, My Brother and Me Podcast Theme Song](https://open.spotify.com/track/0CDc8HSuMYJSB4BcIYIZm7) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [My Life Is Better With You (My Brother, My Brother and Me Podcast Theme Song)](https://open.spotify.com/album/4QhhZrUr5jrb4HplR9o98J) | 02:33 |
+| 16 | [H.Y.C.Y.BH](https://open.spotify.com/track/0yNZ63pUbmxX0xYzZEQr2j) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 02:40 |
+| 17 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 02:42 |
+| 18 | [Uh Huh](https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 02:22 |
+| 19 | [Fvck Somebody](https://open.spotify.com/track/1GU6oaDhWaypMzfP51BYKo) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Infinitely Ordinary](https://open.spotify.com/album/74IXMUg7W8OvCjdTeCTtLx) | 03:01 |
+| 20 | [Bubble Pop!](https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 03:32 |
+| 21 | [Рыба](https://open.spotify.com/track/1rytOMtViLDF54SoUbE41r) | [Leningrad](https://open.spotify.com/artist/2a3EJeQjcAelthFGr5bzQC) | [Рыба](https://open.spotify.com/album/5WzgDN5E0QXXQcLUggN3iW) | 02:43 |
+| 22 | [Skibidi](https://open.spotify.com/track/4F4TGsDYacEbw4PLAIyJ2e) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [Antipositive, Pt. 2](https://open.spotify.com/album/0kIcx4ojwAIHwIIPPm7UnN) | 02:43 |
+| 23 | [Struttin'](https://open.spotify.com/track/4APBpdRfl41B6cFkgjpIXz) | [Thumpasaurus](https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ) | [Struttin'](https://open.spotify.com/album/4gobjLyn56gtl3BBaQPjcy) | 03:49 |
