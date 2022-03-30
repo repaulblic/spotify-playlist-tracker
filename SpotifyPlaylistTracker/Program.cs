@@ -16,9 +16,15 @@ namespace SpotifyPlaylistTracker
         {
             var playlistIDs = File.ReadLines("PlaylistIDs.txt");
 
-            string playlistPath = Path.Combine(Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, "Playlists");
+            string playlistPath = Path.Combine(System.IO.Directory.GetCurrentDirectory(), "Playlists");
             string prettyPath = Path.Combine(playlistPath, "Pretty");
             string rawPath = Path.Combine(playlistPath, "Raw");
+
+            Console.WriteLine(playlistPath);
+            Console.WriteLine(prettyPath);
+            Console.WriteLine(rawPath);
+            Console.WriteLine(args[0]);
+            Console.ReadLine();
 
             RestSharp.RestClient restClient = new RestSharp.RestClient();
 
@@ -34,6 +40,7 @@ namespace SpotifyPlaylistTracker
 
                 if (!response.IsSuccessful)
                 {
+                    Console.WriteLine(response.Content);
                     Thread.Sleep(10000);
                 }
             } while (!response.IsSuccessful);
@@ -78,7 +85,7 @@ namespace SpotifyPlaylistTracker
                     }
                 }
 
-                File.WriteAllText(Path.Combine(prettyPath, $"{playlist.name}.md"), StringExtensions.GenerateMD(playlist));
+                File.WriteAllText(Path.Combine(prettyPath, $"{playlist.id}.md"), StringExtensions.GenerateMD(playlist));
                 File.WriteAllText(Path.Combine(rawPath, $"{playlist.id}"), StringExtensions.GenerateJSON(playlist));
 
             }
