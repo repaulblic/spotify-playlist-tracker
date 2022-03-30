@@ -1,6 +1,8 @@
 on:
   push:
     branches: [ main ]
+  schedule:
+  - cron: "0 0 * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -13,6 +15,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
@@ -27,6 +32,7 @@ jobs:
         run: |
           git config --global user.name 'Github Action'
           git config --global user.email 'repaulblic@users.noreply.github.com'
-          git commit -am "Automated update."
+          git add .
+          git commit -am "Automated commit ${{ steps.date.outputs.date }}."
           git push
       
