@@ -2,7 +2,7 @@
 
 > This is the best of ska, new and classic. Cover: Goldfinger<br>
 > Created by [Spotify](https://open.spotify.com/user/spotify) • 101 songs, 5 hr 24 min
-> Last Checked: 2022-03-30 06:14:14Z
+> Last Checked: 2022-03-30 06:15:44Z
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
