@@ -25,6 +25,8 @@ jobs:
       
       - name: Commit new files
         run: |
+          git config --global user.name 'Github Action'
+          git config --global user.email 'repaulblic@users.noreply.github.com'
           git commit -am "Automated update."
           git push
       
