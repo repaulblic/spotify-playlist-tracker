@@ -21,4 +21,4 @@ jobs:
         with:
           dotnet-version: '3.1.x'
       - run: dotnet build SpotifyPlaylistTracker
-      - run: dotnet run SpotifyPlaylistTracker --${{ secrets.SPOTIFY_KEY }} 
+      - run: dotnet run --project SpotifyPlaylistTracker --${{ secrets.SPOTIFY_KEY }} 
