@@ -93,6 +93,11 @@ namespace SpotifyPlaylistTracker
                     {
                         entry.LastChanged = DateTime.UtcNow;
                     }
+                    else
+                    {
+                        entry.LastChanged = previousRawRecord.timeStamp;
+                        currentRawRecord.timeStamp = previousRawRecord.timeStamp;
+                    }
 
                 }
 
