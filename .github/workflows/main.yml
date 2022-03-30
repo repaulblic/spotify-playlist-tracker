@@ -22,3 +22,9 @@ jobs:
           dotnet-version: '3.1.x'
       - run: dotnet build SpotifyPlaylistTracker
       - run: dotnet run --project SpotifyPlaylistTracker -- ${{ secrets.SPOTIFY_KEY }} 
+      
+      - name: Commit new files
+        run: |
+          git commit -am "Automated update."
+          git push
+      
