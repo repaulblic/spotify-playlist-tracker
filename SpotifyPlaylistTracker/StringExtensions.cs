@@ -122,7 +122,7 @@ namespace SpotifyPlaylistTracker
                 entrySB.Append($"| {entry.PlaylistLength} | ");
                 string lastChange = entry.LastChanged != default ? entry.LastChanged.ToShortDateString() : "Unknown";
                 entrySB.Append($"| {lastChange} | ");
-                entriesSb.AppendLine(entry.ToString());
+                entriesSb.AppendLine(entrySB.ToString());
 
             }
 
