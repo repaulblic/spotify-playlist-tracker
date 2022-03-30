@@ -5,3 +5,12 @@ spotify:playlist:7AodoCcN7r6zCDut0GnG8g
 spotify:playlist:3MCgdDL3VM4sNHqSVJMDXO
 spotify:playlist:1EsozxnoOIr5u6iMfmobfh
 spotify:playlist:37i9dQZF1E39Gzb56luQni
+spotify:playlist:37i9dQZF1DX5Vy6DFOcx00
+spotify:playlist:7qYDPkTgFw2Z9goeMSgrVC
+spotify:playlist:4ebKOuGNfJ5g8RdtbEBHxe
+spotify:playlist:37i9dQZF1DX8hY56Fq3fM0
+spotify:playlist:5TrM2C1a4McxIlFMgxgEHi
+spotify:playlist:37i9dQZF1DX2Nc3B70tvx0
+spotify:playlist:37i9dQZF1DXcBWIGoYBM5M
+spotify:playlist:4BcXTPzIirZmyzp2jj1k5n
+spotify:playlist:37i9dQZF1DWWTdxbiocWOL
