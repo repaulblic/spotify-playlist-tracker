@@ -20,12 +20,6 @@ namespace SpotifyPlaylistTracker
             string prettyPath = Path.Combine(playlistPath, "Pretty");
             string rawPath = Path.Combine(playlistPath, "Raw");
 
-            Console.WriteLine(playlistPath);
-            Console.WriteLine(prettyPath);
-            Console.WriteLine(rawPath);
-            Console.WriteLine(args[0]);
-            Console.ReadLine();
-
             RestSharp.RestClient restClient = new RestSharp.RestClient();
 
             var request = new RestRequest(tokenURL, Method.POST);
@@ -40,7 +34,6 @@ namespace SpotifyPlaylistTracker
 
                 if (!response.IsSuccessful)
                 {
-                    Console.WriteLine(response.Content);
                     Thread.Sleep(10000);
                 }
             } while (!response.IsSuccessful);
