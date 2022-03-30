@@ -2,7 +2,6 @@
 
 > 
 > Created by [Regan Volk](https://open.spotify.com/user/1260042972) • 33 songs, 1 hr 48 min
-> Last Checked: 2022-03-30 06:15:44Z
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
