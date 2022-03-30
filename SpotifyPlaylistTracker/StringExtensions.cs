@@ -52,7 +52,6 @@ namespace SpotifyPlaylistTracker
 
             }
             sb.AppendLine($"> Created by [{playlist.owner.display_name}]({playlist.owner.external_urls.spotify}) • {songCount} songs, {GetTimeString(totalTime)}");
-            sb.AppendLine($"> Last Checked: {playlist.timeStamp:u}");
             sb.AppendLine("");
             sb.AppendLine("| No. | Title | Artist(s) | Album | Length |");
             sb.AppendLine("|---|---|---|---|---|");
@@ -71,7 +70,6 @@ namespace SpotifyPlaylistTracker
                 PlaylistName = playlist.name,
                 Songs = playlist.tracks.items.Count,
                 PlaylistLength = GetTimeString(totalTime)
-
             };
 
             return entry;
@@ -113,15 +111,16 @@ namespace SpotifyPlaylistTracker
         {
             StringBuilder sb = new StringBuilder();
             StringBuilder entriesSb = new StringBuilder();
-
-            foreach (var entry in readMeEntries)
+            
+            foreach (var entry in readMeEntries.OrderBy(i => i.PlaylistName))
             {
                 StringBuilder entrySB = new StringBuilder();
-                entrySB.Append($"[{entry.PlaylistName}](/Playlists/Pretty/{entry.PlaylistId}.md) | ");
-                entrySB.Append($"| {entry.Songs} | ");
-                entrySB.Append($"| {entry.PlaylistLength} | ");
+                string displayName = !string.IsNullOrWhiteSpace(entry.PlaylistName) ? entry.PlaylistName : "Untitled";
+                entrySB.Append($"|[{displayName}](/Playlists/Pretty/{entry.PlaylistId}.md) | ");
+                entrySB.Append($"{entry.Songs} | ");
+                entrySB.Append($"{entry.PlaylistLength} | ");
                 string lastChange = entry.LastChanged != default ? entry.LastChanged.ToShortDateString() : "Unknown";
-                entrySB.Append($"| {lastChange} | ");
+                entrySB.Append($"{lastChange} | ");
                 entriesSb.AppendLine(entrySB.ToString());
 
             }
