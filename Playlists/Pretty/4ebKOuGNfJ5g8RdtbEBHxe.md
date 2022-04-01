@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 307 songs, 8 hr 28 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 310 songs, 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,3 +311,6 @@
 | 304 | [Arrival](https://open.spotify.com/track/3t7PO6io3WtjxI2EGsjdXo) | [Harmonix College](https://open.spotify.com/artist/2tNr3XyENOmXnbigBEYNU8) | [Arrival](https://open.spotify.com/album/4m09RySHYXLPskGefiHleq) | 07:44 |
 | 305 | [Alaska](https://open.spotify.com/track/6QygYPG7Il8fhUYI0bTpsF) | [Jamie Dean](https://open.spotify.com/artist/4febqmSRFnbC6HWENbXFbt) | [Alaska](https://open.spotify.com/album/2h4JLfmP2vOvp15cblaYwn) | 04:44 |
 | 306 | [Refusal to Part Ways](https://open.spotify.com/track/6RUDXJWKDYfsmwydHsPp0z) | [Manyana](https://open.spotify.com/artist/4OCVwDfaznN2CdvpO0zFjM), [wornoc](https://open.spotify.com/artist/3FA6u7Fc0Z1QiTriBoQkoZ) | [Refusal to Part Ways](https://open.spotify.com/album/1icvqNrY5P41oJE5oxMGFx) | 04:45 |
+| 307 | [Elegant Demise](https://open.spotify.com/track/3TRWGXlbXJTpHVNJmlsTcD) | [Once Upon a Winter](https://open.spotify.com/artist/7rRn2DgengRohFRMJ7gSaE) | [Void Moments of Inertia](https://open.spotify.com/album/0zmpgu9wjnLnELL7JbaPh5) | 06:35 |
+| 308 | [Far End](https://open.spotify.com/track/2xvIN9EqMurfy0EMrSoxzP) | [Once Upon a Winter](https://open.spotify.com/artist/7rRn2DgengRohFRMJ7gSaE) | [Void Moments of Inertia](https://open.spotify.com/album/0zmpgu9wjnLnELL7JbaPh5) | 06:22 |
+| 309 | [Reboot, Reinvent](https://open.spotify.com/track/3n2CT5uP92iN1lDPAZf3Yb) | [Toothwalker](https://open.spotify.com/artist/4WCA0HpyaPjrYur3EyfRKb) | [Reboot, Reinvent](https://open.spotify.com/album/0HmjRdtyLRSdEnUImBMb3z) | 03:52 |
