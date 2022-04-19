@@ -5,15 +5,15 @@
 |[18](/Playlists/Pretty/7DrLIIvXwjSRTAaQjmZtDC.md) | 32 | 1 hr 48 min | 03/30/2022 | 
 |[Best Cover Songs](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 159 | 9 hr 8 min | 04/12/2022 | 
 |[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 309 | 8 hr 44 min | 04/01/2022 | 
-|[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 131 | 7 hr 10 min | 04/16/2022 | 
+|[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 133 | 7 hr 16 min | 04/19/2022 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 50 | 5 hr 14 min | 03/30/2022 | 
-|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 52 min | 04/17/2022 | 
+|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 46 min | 04/19/2022 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 03/30/2022 | 
-|[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 6 hr 6 min | 04/17/2022 | 
+|[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 57 min | 04/19/2022 | 
 |[Indie Pop Summer '21](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 41 | 2 hr 16 min | 03/30/2022 | 
 |[Inexcusable Bops](/Playlists/Pretty/1EsozxnoOIr5u6iMfmobfh.md) | 23 | 1 hr 10 min | 03/30/2022 | 
 |[jazz music to play in the background while cooking](/Playlists/Pretty/5TrM2C1a4McxIlFMgxgEHi.md) | 51 | 2 hr 38 min | 03/30/2022 | 
 |[Spring Cleaning 🧼🧹](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 195 | 11 hr 2 min | 03/30/2022 | 
-|[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 21 min | 04/17/2022 | 
+|[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 26 min | 04/19/2022 | 
 |[Today's Top Hits](/Playlists/Pretty/37i9dQZF1DXcBWIGoYBM5M.md) | 50 | 2 hr 36 min | 04/09/2022 | 
-|[Ultimate Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 100 | 5 hr 46 min | 04/17/2022 | 
+|[Ultimate Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 100 | 5 hr 57 min | 04/19/2022 | 
