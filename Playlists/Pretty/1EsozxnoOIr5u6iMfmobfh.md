@@ -1,7 +1,7 @@
 ### [Inexcusable Bops](https://open.spotify.com/playlist/1EsozxnoOIr5u6iMfmobfh)
 
 > 
-> Created by [Hank Green](https://open.spotify.com/user/12159652660) • 24 songs, 1 hr 10 min
+> Created by [Hank Green](https://open.spotify.com/user/12159652660) • 25 songs, 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,3 +28,4 @@
 | 21 | [Рыба](https://open.spotify.com/track/1rytOMtViLDF54SoUbE41r) | [Leningrad](https://open.spotify.com/artist/2a3EJeQjcAelthFGr5bzQC) | [Рыба](https://open.spotify.com/album/5WzgDN5E0QXXQcLUggN3iW) | 02:43 |
 | 22 | [Skibidi](https://open.spotify.com/track/4F4TGsDYacEbw4PLAIyJ2e) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [Antipositive, Pt. 2](https://open.spotify.com/album/0kIcx4ojwAIHwIIPPm7UnN) | 02:43 |
 | 23 | [Struttin'](https://open.spotify.com/track/4APBpdRfl41B6cFkgjpIXz) | [Thumpasaurus](https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ) | [Struttin'](https://open.spotify.com/album/4gobjLyn56gtl3BBaQPjcy) | 03:49 |
+| 24 | [誰が為にCHAKAPOCOは鳴る](https://open.spotify.com/track/09LbcaIcE3g9SMKIX2yWjB) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [誰が為にCHAKAPOCOは鳴る](https://open.spotify.com/album/4QsaCr3IczjIV7P1JL0uCE) | 04:32 |
