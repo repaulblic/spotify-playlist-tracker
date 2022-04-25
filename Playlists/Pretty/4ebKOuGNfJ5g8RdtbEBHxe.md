@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 310 songs, 8 hr 44 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 311 songs, 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,3 +314,4 @@
 | 307 | [Elegant Demise](https://open.spotify.com/track/3TRWGXlbXJTpHVNJmlsTcD) | [Once Upon a Winter](https://open.spotify.com/artist/7rRn2DgengRohFRMJ7gSaE) | [Void Moments of Inertia](https://open.spotify.com/album/0zmpgu9wjnLnELL7JbaPh5) | 06:35 |
 | 308 | [Far End](https://open.spotify.com/track/2xvIN9EqMurfy0EMrSoxzP) | [Once Upon a Winter](https://open.spotify.com/artist/7rRn2DgengRohFRMJ7gSaE) | [Void Moments of Inertia](https://open.spotify.com/album/0zmpgu9wjnLnELL7JbaPh5) | 06:22 |
 | 309 | [Reboot, Reinvent](https://open.spotify.com/track/3n2CT5uP92iN1lDPAZf3Yb) | [Toothwalker](https://open.spotify.com/artist/4WCA0HpyaPjrYur3EyfRKb) | [Reboot, Reinvent](https://open.spotify.com/album/0HmjRdtyLRSdEnUImBMb3z) | 03:52 |
+| 310 | [Don't Let Them Collide](https://open.spotify.com/track/7DEp73ccYO4Wkqrkrmi8bv) | [biovoid](https://open.spotify.com/artist/7vOpZKgUF236r7CEJB7d8L) | [Don't Let Them Collide](https://open.spotify.com/album/1Lahy4vmtLmX9iqhU12HnU) | 04:20 |
