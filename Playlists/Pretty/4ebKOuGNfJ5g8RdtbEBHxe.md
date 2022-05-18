@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 314 songs, 9 hr 6 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 315 songs, 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -318,3 +318,4 @@
 | 311 | [Weather Patterns](https://open.spotify.com/track/1rzPeDTKMuCfGtgq8tRoAh) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Living Rooms](https://open.spotify.com/album/0RZimcRZTdqDx8l9hpITt3) | 04:02 |
 | 312 | [Walls and Windows](https://open.spotify.com/track/59dTsMTLPwuunpQMUEZfWt) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Living Rooms](https://open.spotify.com/album/0RZimcRZTdqDx8l9hpITt3) | 03:17 |
 | 313 | [Golden Guns](https://open.spotify.com/track/1vohA1rZq3e5fz67vkORpr) | [Kokomo](https://open.spotify.com/artist/1m3zDfkzk9x6eUMjMM1e1f) | [Totem Youth](https://open.spotify.com/album/1gtwhD1PVj4I9RyX9mnO99) | 10:16 |
+| 314 | [Distorted Views](https://open.spotify.com/track/7kA8HzI6cEW5JoKXufQzAR) | [wornoc](https://open.spotify.com/artist/3FA6u7Fc0Z1QiTriBoQkoZ) | [Distorted Views](https://open.spotify.com/album/39DYeqJYrmGmmOwely6k6w) | 03:48 |
