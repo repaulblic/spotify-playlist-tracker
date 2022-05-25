@@ -1,6 +1,6 @@
 ### [jazz music to play in the background while cooking](https://open.spotify.com/playlist/5TrM2C1a4McxIlFMgxgEHi)
 
-> frank sinatra • dean martin • chet baker • ella fitzgerald • harry james | jazz and soul nataliesplaylists@gmail.com<br>
+> 
 > Created by [natalie nguyen](https://open.spotify.com/user/i02rs12f929cctl9hx84cseag) • 53 songs, 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
