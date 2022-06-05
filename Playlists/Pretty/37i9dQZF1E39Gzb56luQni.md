@@ -1,7 +1,7 @@
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E39Gzb56luQni)
 
 > Cage The Elephant, Bleachers, The Glorious Sons and more<br>
-> Created by [Spotify](https://open.spotify.com/user/spotify) • 51 songs, 2 hr 55 min
+> Created by [Spotify](https://open.spotify.com/user/spotify) • 51 songs, 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@
 | 43 | [Stars & Galaxies](https://open.spotify.com/track/04DCTRWJPjW7vE0wAZwseB) | [Carver Commodore](https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU) | [Stars & Galaxies](https://open.spotify.com/album/4USlzWutiBdOn7QwrF8ev0) | 03:28 |
 | 44 | [Stuck Between](https://open.spotify.com/track/45qkFWPAEU4DcWT3697FrP) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Stuck Between](https://open.spotify.com/album/68PBtbYEblqGqZaYx3oGap) | 02:44 |
 | 45 | [The Distance](https://open.spotify.com/track/5ZUFK4as3PAE0v45VXjmd9) | [Fever Dolls](https://open.spotify.com/artist/3KeGbFp8QkzaknOW0sLexS) | [The Distance](https://open.spotify.com/album/4ajlFQ200IMOATYnwOTzhK) | 03:58 |
-| 46 | [Drive](https://open.spotify.com/track/0xeujGRaJuomKNaRG5htma) | [The Wild Frontiers](https://open.spotify.com/artist/6MSLrBhuD58g7gSmLJ6ux7) | [Drive](https://open.spotify.com/album/2xdKwvBsXimHq6IDQxqroP) | 03:02 |
-| 47 | [Hollywood](https://open.spotify.com/track/2vnM1GudpO5GH1oOg0qgxr) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Jukebox The Ghost](https://open.spotify.com/album/3K5jW2vkunhourPeQ3DiwV) | 03:25 |
+| 46 | [Honestly](https://open.spotify.com/track/6vaYC0QW7vHOVeJZvwvVnK) | [Bantams](https://open.spotify.com/artist/01rbOvYlBIcDlEA9eQGrTA) | [Honestly](https://open.spotify.com/album/34KQTL1JrkKQ7QtjWhGDLd) | 02:32 |
+| 47 | [Drive](https://open.spotify.com/track/0xeujGRaJuomKNaRG5htma) | [The Wild Frontiers](https://open.spotify.com/artist/6MSLrBhuD58g7gSmLJ6ux7) | [Drive](https://open.spotify.com/album/2xdKwvBsXimHq6IDQxqroP) | 03:02 |
 | 48 | [Honey](https://open.spotify.com/track/1yTqSNazh5S8ErHuU1H5z6) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 03:34 |
 | 49 | [Awkward](https://open.spotify.com/track/0NHctaL3zukcg49qjxWPYx) | [Sleep State](https://open.spotify.com/artist/4YrER0Q2EfYJ3RqHfzlnSi) | [Awkward](https://open.spotify.com/album/00ohFnom4dFjyfNhfPoeTE) | 04:12 |
 | 50 | [Rollin' Around](https://open.spotify.com/track/7vqEcDc2C51DK890XZCwZC) | [Nat & Alex Wolff](https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S) | [Public Places](https://open.spotify.com/album/5J7uiZrkmOZljmO3R3osSt) | 03:37 |
