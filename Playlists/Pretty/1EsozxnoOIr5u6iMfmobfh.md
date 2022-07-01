@@ -1,7 +1,7 @@
 ### [Inexcusable Bops](https://open.spotify.com/playlist/1EsozxnoOIr5u6iMfmobfh)
 
 > 
-> Created by [Hank Green](https://open.spotify.com/user/12159652660) • 25 songs, 1 hr 15 min
+> Created by [Hank Green](https://open.spotify.com/user/12159652660) • 25 songs, 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@
 | 11 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 03:17 |
 | 12 | [Lollipop](https://open.spotify.com/track/1JAnC4VkVIbO7C6Vislnue) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 03:03 |
 | 13 | [Soul Bossa Nova](https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Big Band Bossa Nova](https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8) | 02:46 |
-| 14 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto (Original Motion Picture Soundtrack)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 03:22 |
+| 14 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto (Original Motion Picture Soundtrack)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 00:29 |
 | 15 | [My Life Is Better With You - My Brother, My Brother and Me Podcast Theme Song](https://open.spotify.com/track/0CDc8HSuMYJSB4BcIYIZm7) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [My Life Is Better With You (My Brother, My Brother and Me Podcast Theme Song)](https://open.spotify.com/album/4QhhZrUr5jrb4HplR9o98J) | 02:33 |
 | 16 | [H.Y.C.Y.BH](https://open.spotify.com/track/0yNZ63pUbmxX0xYzZEQr2j) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 02:40 |
 | 17 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 02:42 |

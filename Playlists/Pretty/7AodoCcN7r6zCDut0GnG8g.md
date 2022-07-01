@@ -1,7 +1,7 @@
 ### [Desert Island Ska](https://open.spotify.com/playlist/7AodoCcN7r6zCDut0GnG8g)
 
 > Super cool description!<br>
-> Created by [repaulblic](https://open.spotify.com/user/repaulblic) • 163 songs, 9 hr 36 min
+> Created by [repaulblic](https://open.spotify.com/user/repaulblic) • 163 songs, 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@
 | 10 | [It's a Wonderful Life](https://open.spotify.com/track/24r88lIDWrneCKvqRsCQt3) | [Bandits Of The Acoustic Revolution](https://open.spotify.com/artist/3aH99kuvOtHmg0XvQe7t8i) | [A Call to Arms](https://open.spotify.com/album/0C70nQsr5BRv8Ih8GWgePr) | 04:56 |
 | 11 | [Too Much Stereo](https://open.spotify.com/track/3YzWdVtqIwsjQFattKFOnW) | [The Urge](https://open.spotify.com/artist/3ewpPJWBH1eiTYj9cZEce2) | [Too Much Stereo](https://open.spotify.com/album/6pNZMEPhLBB5likOHMc2yC) | 03:27 |
 | 12 | [Girlfriend's Pretty](https://open.spotify.com/track/4STFswTavHrLR7BGEfSmyT) | [Suburban Legends](https://open.spotify.com/artist/3HajGyV6aBMuSobQf1xbNY) | [Day Job](https://open.spotify.com/album/0Z3mgCBgI268cSSPPYA6YI) | 04:28 |
-| 13 | [If Only for Memories](https://open.spotify.com/track/6V2biNNoIp8KS7wtR3hrk9) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 05:28 |
+| 13 | [If Only for Memories](https://open.spotify.com/track/6V2biNNoIp8KS7wtR3hrk9) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 00:29 |
 | 14 | [Bring It On](https://open.spotify.com/track/0a0eB2Wxm8iU3TbuAoovhp) | [Spiritual Rez](https://open.spotify.com/artist/2xb3Bg30YgahSrsJuscktB) | [Apocalypse Whenever](https://open.spotify.com/album/68yuqIP485RhnlASbfdUaO) | 04:49 |
 | 15 | [Unstoppable](https://open.spotify.com/track/0m0MY3xFG6OAZGeIpiKSRT) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/4fNP8J5tl75Yb9KtU7hOhZ) | 03:08 |
 | 16 | [Special Brew](https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr) | [Skankin' Pickle](https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S) | [The Green Album](https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw) | 03:11 |
@@ -33,7 +33,7 @@
 | 26 | [Mr. Smiley](https://open.spotify.com/track/4pCZhwsn1mbN8fDYe42Hl5) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude](https://open.spotify.com/album/2uvJMoMuk7mxOqHaU5PTEN) | 02:46 |
 | 27 | [You Don't Know Anything About Me](https://open.spotify.com/track/1GHBEny7Y5XkYC3qaHXYsO) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 02:44 |
 | 28 | [Worst Nite Klub](https://open.spotify.com/track/6eou6hoZOLyJqqgNSp417L) | [Starfish](https://open.spotify.com/artist/5tBfvKXmV1wEA0t52EjcyF) | [Brand New Day](https://open.spotify.com/album/22b5WeRD8N0jrqmGyxvqxO) | 03:22 |
-| 29 | [Anything](https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [Checkered Past](https://open.spotify.com/album/4RpU4zEboCRpkRxhlds9Dj) | 02:44 |
+| 29 | [Anything](https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [Checkered Past](https://open.spotify.com/album/4RpU4zEboCRpkRxhlds9Dj) | 00:29 |
 | 30 | [You](https://open.spotify.com/track/0ioAxRwyYkI1MRJBEZp4X1) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Cinema Beer Nuts](https://open.spotify.com/album/5qQuOwX2PTWy7ju1eq7ktp) | 03:59 |
 | 31 | [Everything Went Numb](https://open.spotify.com/track/2I3HfKZFH69dLwhapHrI9o) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Everything Goes Numb](https://open.spotify.com/album/1QP8LbDOWw9ZVZsbaVgtCl) | 03:29 |
 | 32 | [Losing Touch](https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp) | [Codename Colin](https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB) | [Escape from Everything](https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy) | 03:41 |
@@ -52,7 +52,7 @@
 | 45 | [Drinking for 11](https://open.spotify.com/track/5DV3KlTgn44g5jDSZcRW8e) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Consentual Selections](https://open.spotify.com/album/5DlWTt9qMZkp1wBepXCt5v) | 03:53 |
 | 46 | [On and On](https://open.spotify.com/track/2saGaQtvSp9j6c70961ZsH) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [In Black And White](https://open.spotify.com/album/2rlNRhJzEmRk3lWJ0i5qhm) | 02:17 |
 | 47 | [Keasbey Nights](https://open.spotify.com/track/3NtczDOTpcNO8ulLEVlpD7) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Keasbey Nights](https://open.spotify.com/album/30AKRqgMGNIqC5gXrSCul6) | 03:00 |
-| 48 | [Sorry I'm Not Sorry](https://open.spotify.com/track/0Mw4u65T9yresmckoafAa6) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/66a2gbwWslXC9vvc1bIxEB) | 03:06 |
+| 48 | [Sorry I'm Not Sorry](https://open.spotify.com/track/0Mw4u65T9yresmckoafAa6) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/66a2gbwWslXC9vvc1bIxEB) | 00:29 |
 | 49 | [Let It Go](https://open.spotify.com/track/2e8yaFJOfZbsttpJhcTLcc) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Let It Go](https://open.spotify.com/album/5ubvjtSzbJwZ4mv46SrIed) | 03:05 |
 | 50 | [Libriyum](https://open.spotify.com/track/7M4lhJlyieKjpi5LLhpDgw) | [Days N Daze](https://open.spotify.com/artist/3wRGr9z5I5xmmVc21fIvC6) | [Libriyum](https://open.spotify.com/album/1dIlfedX3cgKZPSwVRAUUh) | 03:24 |
 | 51 | [You Can't Have All of Me](https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Life Sucks... Let's Dance!](https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy) | 02:44 |
@@ -111,7 +111,7 @@
 | 104 | [Take Back The Power](https://open.spotify.com/track/6aPyTOZZheIVT5q1TVlRYD) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [The Interrupters (Deluxe Edition)](https://open.spotify.com/album/7d9R5yx2cq5nSuzAG8Vd0m) | 03:20 |
 | 105 | [Crystal 52](https://open.spotify.com/track/2vROMhSLvxCUYk13hqitzv) | [Jeffries Fan Club](https://open.spotify.com/artist/2R5Cc32uRkFVFA5myFnhjl) | [Nothing To Prove](https://open.spotify.com/album/4eScYUks8i5x7CqkXdvW6t) | 02:49 |
 | 106 | [She's So Cool](https://open.spotify.com/track/1zG951vjcbdKmttLWK44EZ) | [Jeffries Fan Club](https://open.spotify.com/artist/2R5Cc32uRkFVFA5myFnhjl) | [Hey Brother... Can You Spare Some Ska? Vol. 2](https://open.spotify.com/album/5UShglDHE5qgo2phfshkKc) | 03:23 |
-| 107 | [I Want More](https://open.spotify.com/track/6fiFqHLMTFROmJy8ZR5Twz) | [Jeffries Fan Club](https://open.spotify.com/artist/2R5Cc32uRkFVFA5myFnhjl) | [JFC Sucks... The Early Years](https://open.spotify.com/album/7sudmNZuj3HisMWjfYNs9y) | 04:01 |
+| 107 | [I Want More](https://open.spotify.com/track/6fiFqHLMTFROmJy8ZR5Twz) | [Jeffries Fan Club](https://open.spotify.com/artist/2R5Cc32uRkFVFA5myFnhjl) | [JFC Sucks... The Early Years](https://open.spotify.com/album/7sudmNZuj3HisMWjfYNs9y) | 00:29 |
 | 108 | [Look What Happened](https://open.spotify.com/track/2zPrdI7V4Pik4He87Nhdbl) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Anthem](https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7) | 03:06 |
 | 109 | [Only Human](https://open.spotify.com/track/34TPOSxLQu68KPc2RoFHZY) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Only Human](https://open.spotify.com/album/55hazUsJJ4GgXCmNARgFTz) | 03:18 |
 | 110 | [Beer (Song)](https://open.spotify.com/track/7fJFDK6bQTJtigSS6028v3) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Evildoers Beware!](https://open.spotify.com/album/0ZF8cAEXlbQNTF7fQM1gPe) | 03:41 |
@@ -161,9 +161,9 @@
 | 154 | [The Blonde Lead the Blind](https://open.spotify.com/track/1M6aT0VOjcXPkFmjm2yBZd) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Somewhere in the Between](https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg) | 04:49 |
 | 155 | [The Troubador](https://open.spotify.com/track/5ozXg3R6ERr9s94ilWHcFK) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [99 Songs of Revolution Vol. 1](https://open.spotify.com/album/38HGFXuY2NjAgKC9qr8Bya) | 03:33 |
 | 156 | [Me and Julio Down by the School Yard](https://open.spotify.com/track/0AxiIK13LDekg469wOuhIJ) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [99 Songs of Revolution Vol. 1](https://open.spotify.com/album/38HGFXuY2NjAgKC9qr8Bya) | 02:27 |
-| 157 | [The Hands That Thieve](https://open.spotify.com/track/0m0DAL7AJc6oo74D1OtaVJ) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 05:40 |
-| 158 | [Toe to Toe](https://open.spotify.com/track/4dBD086ylvQIRSQQvOoZSk) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 04:22 |
-| 159 | [With Any Sort of Certainty](https://open.spotify.com/track/1BvxAu9idgTJ4WSzn7dF2e) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 06:10 |
-| 160 | [They Broke Him Down](https://open.spotify.com/track/2jxpKlritYISMFNO32kUSJ) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 05:20 |
-| 161 | [Oh Me, Oh My](https://open.spotify.com/track/06DuFFtwnQUfkIRKHBAYMM) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 03:45 |
+| 157 | [The Hands That Thieve](https://open.spotify.com/track/0m0DAL7AJc6oo74D1OtaVJ) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 00:29 |
+| 158 | [Toe to Toe](https://open.spotify.com/track/4dBD086ylvQIRSQQvOoZSk) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 00:29 |
+| 159 | [With Any Sort of Certainty](https://open.spotify.com/track/1BvxAu9idgTJ4WSzn7dF2e) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 00:29 |
+| 160 | [They Broke Him Down](https://open.spotify.com/track/2jxpKlritYISMFNO32kUSJ) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 00:29 |
+| 161 | [Oh Me, Oh My](https://open.spotify.com/track/06DuFFtwnQUfkIRKHBAYMM) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 00:29 |
 | 162 | [High Fives](https://open.spotify.com/track/1EJnKmAeovWlsT078slSel) | [Suburban Legends](https://open.spotify.com/artist/3HajGyV6aBMuSobQf1xbNY) | [Rump Shaker](https://open.spotify.com/album/6YdQ4gyLGXW40StiVUqJ4R) | 04:24 |
