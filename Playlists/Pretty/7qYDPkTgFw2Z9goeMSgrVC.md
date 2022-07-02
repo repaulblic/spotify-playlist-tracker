@@ -1,7 +1,7 @@
 ### [Best Cover Songs](https://open.spotify.com/playlist/7qYDPkTgFw2Z9goeMSgrVC)
 
 > Our Favorite Cover Songs From Some Of Our Favorite Bands<br>
-> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 168 songs, 9 hr 21 min
+> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 168 songs, 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@
 | 15 | [Light Switch](https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Light Switch](https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35) | 03:08 |
 | 16 | [meet me at our spot](https://open.spotify.com/track/5uO61OvVEECw57kBcE2P2w) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [meet me at our spot](https://open.spotify.com/album/7M3V7QLqdK6ZhkzKKnfiNP) | 02:14 |
 | 17 | [Even in His Youth](https://open.spotify.com/track/2zjh9OUtIq0WKmSOoIltv3) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Even in His Youth](https://open.spotify.com/album/0AV6LwNmC5LiadtfVc4d4d) | 03:01 |
-| 18 | [Together We'll Ring in the New Year](https://open.spotify.com/track/6Th5srPV7uW43o6fxWHWTt) | [Born Without Bones](https://open.spotify.com/artist/541FGx3Aj5vHIpwFiByjFg) | [Together We'll Ring in the New Year](https://open.spotify.com/album/2bBNQ0x63Is93OuqL07rsA) | 00:29 |
+| 18 | [Together We'll Ring in the New Year](https://open.spotify.com/track/6Th5srPV7uW43o6fxWHWTt) | [Born Without Bones](https://open.spotify.com/artist/541FGx3Aj5vHIpwFiByjFg) | [Together We'll Ring in the New Year](https://open.spotify.com/album/2bBNQ0x63Is93OuqL07rsA) | 02:19 |
 | 19 | [I Miss You - Doom and Gloom](https://open.spotify.com/track/4sQpp5T4TPzC9fa9CKreV5) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [I Miss You (Doom and Gloom)](https://open.spotify.com/album/1Vk9EiUnW3N1pfyPRHur0E) | 04:02 |
 | 20 | [Get Low](https://open.spotify.com/track/485rrJ6bjYrMsND6MwCTzO) | [Shaolin G](https://open.spotify.com/artist/3OarEMX1U8mwmtCDvqFiOA) | [Get Low](https://open.spotify.com/album/33AZHw4Haj0LgxQC5f3g0U) | 01:01 |
 | 21 | [Here's Your Letter](https://open.spotify.com/track/5Jiqe1YtuSdpsSQpM6vuhT) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Disposable Life](https://open.spotify.com/album/5gqYeI142C7UdF0eD8ZRLi) | 03:12 |
@@ -58,7 +58,7 @@
 | 51 | [We Are 138](https://open.spotify.com/track/0tT3nwP43bKnhIfK6aVIoA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Through Being Ghoul](https://open.spotify.com/album/3Px8B6UkiHL0qpaorSn4EA) | 02:03 |
 | 52 | [In Your House](https://open.spotify.com/track/2pxDlPELsJufCWAbrwhLkc) | [Frankie Rose](https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo) | [Seventeen Seconds](https://open.spotify.com/album/6UjKWLTGEPQqtmMzbAPBKd) | 03:27 |
 | 53 | [Don't Dream It's Over](https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Divine Discontent](https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0) | 04:03 |
-| 54 | [Helena](https://open.spotify.com/track/2FxTrRzVWPZkoI8bYWWPUO) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Stay Emo, Pt. 1 (Acoustic)](https://open.spotify.com/album/3od9DB7YQL2vEv0ndynaB0) | 00:29 |
+| 54 | [Helena](https://open.spotify.com/track/2FxTrRzVWPZkoI8bYWWPUO) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Stay Emo, Pt. 1 (Acoustic)](https://open.spotify.com/album/3od9DB7YQL2vEv0ndynaB0) | 03:46 |
 | 55 | [THNKS FR TH MMRS](https://open.spotify.com/track/19sIRHkQIDpShLeOr7qpDu) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [THNKS FR TH MMRS](https://open.spotify.com/album/3jrTUdpr4awzbOq2k5Co6m) | 03:11 |
 | 56 | [Wish You Were Here (Pink Floyd Cover)](https://open.spotify.com/track/0jHg2stnj6Osbtd5JwJYJC) | [Elder Brother](https://open.spotify.com/artist/45V5yoo6fI5r3m7kei0onQ) | [Wish You Were Here](https://open.spotify.com/album/5Mr7D4aeD4MRYuhhP1SdCJ) | 05:38 |
 | 57 | [Clash City Rockers](https://open.spotify.com/track/4ORj8RtIwFSssRDy6QfGcT) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Ups & Downs: Early Recordings and B-Sides](https://open.spotify.com/album/2c4hI64Lg8hcNBKp3p4MTO) | 02:14 |
@@ -82,7 +82,7 @@
 | 75 | [Dancing With Myself](https://open.spotify.com/track/5ctTwDAQbEaBj16spFRWC3) | [blink-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Loose Change Soundtrack](https://open.spotify.com/album/4QV0woECH20UkNZ8RlSaIY) | 02:56 |
 | 76 | [The Seed (2.0)](https://open.spotify.com/track/2MEXL7AeAKkqRtRumaMnLs) | [Person L](https://open.spotify.com/artist/121s4JKQS6GUKg9LV7xjfv) | [Punk Goes Crunk](https://open.spotify.com/album/2z4NV96ybymRKzGLUdEKBW) | 04:22 |
 | 77 | [The Good Life](https://open.spotify.com/track/39drKhG2cmZhLauzjcoAtF) | [Just Friends](https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa) | [Split](https://open.spotify.com/album/3L7Ophm8nbkpO1xv3zBATJ) | 04:17 |
-| 78 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 00:29 |
+| 78 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 04:00 |
 | 79 | [Black Hole Sun](https://open.spotify.com/track/2uPypTCB80RFWW4q4PeLRJ) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [Punk Goes 90's](https://open.spotify.com/album/1iBdWYY7bSPdC4uJHXZ4xJ) | 04:31 |
 | 80 | [Simple Man - 2005 Remaster](https://open.spotify.com/track/4eAh9bzurTIp34TREqa8cg) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 06:20 |
 | 81 | [Hand in My Pocket](https://open.spotify.com/track/2AVJr1KU0ajD1987WRdZpq) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Hand in My Pocket](https://open.spotify.com/album/4HYhGBdWJXKqXorVN0vAee) | 03:28 |
@@ -101,7 +101,7 @@
 | 94 | [You Can't Hurry Love](https://open.spotify.com/track/3gKJJac4aaztTtduZ3P8iK) | [A Loss For Words](https://open.spotify.com/artist/0vuZyuRUkG13retcEH8lH9) | [Motown Classics](https://open.spotify.com/album/4wvC1zW5MgON5jkSVKPvWc) | 02:37 |
 | 95 | [The World Has Turned And Left Me Here](https://open.spotify.com/track/2dG4V5WG7GAyPfbaDltjt4) | [Eastwood](https://open.spotify.com/artist/5NzFVcjZdvCto9kFs2sxYf) | [The World Has Turned And Left Me Here](https://open.spotify.com/album/68FERTgDtQtmjmaSc3FI2X) | 03:13 |
 | 96 | [That Don't Impress Me Much - triple j Like A Version](https://open.spotify.com/track/1ZOK8VkScTdXrccs7hkUPq) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [That Don't Impress Me Much (triple j Like A Version)](https://open.spotify.com/album/1FUq5cHUqKxQZQZ5xhB8O9) | 04:04 |
-| 97 | [Outbound](https://open.spotify.com/track/4RX354bOkvKHHiC4u4tWpb) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Keep Shining On - A Tribute to the Music of Tim Landers](https://open.spotify.com/album/6U5gt615evjDNYbNGU0Cib) | 00:29 |
+| 97 | [Outbound](https://open.spotify.com/track/4RX354bOkvKHHiC4u4tWpb) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Keep Shining On - A Tribute to the Music of Tim Landers](https://open.spotify.com/album/6U5gt615evjDNYbNGU0Cib) | 04:33 |
 | 98 | [Torn](https://open.spotify.com/track/1NqH3H7CX9ffRcCc7bnKvS) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Torn](https://open.spotify.com/album/65MvFmasFUusRifkaL24b4) | 04:04 |
 | 99 | [Rich Girl](https://open.spotify.com/track/1gYNp8OeUFFKgxf1oiqDgH) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Have Another Ball](https://open.spotify.com/album/3lHCttYfsqsv70l8Oki7Nn) | 02:05 |
 | 100 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/1Y9QsmYQDu3S8eihWOjymf) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [With Hopes Of Starting Over](https://open.spotify.com/album/7ambh9DZCjB3oxmnC2OmOT) | 03:32 |

@@ -1,7 +1,7 @@
 ### [jazz music to play in the background while cooking](https://open.spotify.com/playlist/5TrM2C1a4McxIlFMgxgEHi)
 
 > 
-> Created by [natalie nguyen](https://open.spotify.com/user/i02rs12f929cctl9hx84cseag) • 53 songs, 2 hr 35 min
+> Created by [natalie nguyen](https://open.spotify.com/user/i02rs12f929cctl9hx84cseag) • 53 songs, 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@
 | 45 | [On an Evening in Roma](https://open.spotify.com/track/2ougPPFU6lg7Xej6OTlbAC) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX) | 03:02 |
 | 46 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 03:53 |
 | 47 | [Sway (Quien Sera)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 02:42 |
-| 48 | [That Old Feeling - Remastered](https://open.spotify.com/track/3xBEKbuWpygxpg58HFTEna) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy (Remastered)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 00:29 |
+| 48 | [That Old Feeling - Remastered](https://open.spotify.com/track/3xBEKbuWpygxpg58HFTEna) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy (Remastered)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 03:33 |
 | 49 | [When It's Sleepytime Down South](https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 05:09 |
-| 50 | [Nice 'n' Easy - Remastered](https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy (Remastered)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 00:29 |
+| 50 | [Nice 'n' Easy - Remastered](https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy (Remastered)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 02:45 |
 | 51 | [Something's Gotta Give](https://open.spotify.com/track/3krgfOQI9Szq8cF0Umm1O1) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Decca Years](https://open.spotify.com/album/653NffdK42IKzsD3goAEHg) | 02:05 |
 | 52 | [Ain't That A Kick In The Head](https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 02:27 |

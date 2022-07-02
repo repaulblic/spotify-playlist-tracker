@@ -1,7 +1,7 @@
 ### [Indie Pop Summer '21](https://open.spotify.com/playlist/4BcXTPzIirZmyzp2jj1k5n)
 
 > Your go to Indie Pop Summer playlist featurning The Band Camino, Coin, Wallows, Girl In Red, Gus Dapperton, Clairo, Lauv and more!!! Updated all the time with new songs you'll love!!! <br>
-> Created by [The Maine](https://open.spotify.com/user/the_maine) • 42 songs, 2 hr 13 min
+> Created by [The Maine](https://open.spotify.com/user/the_maine) • 42 songs, 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@
 | 15 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 04:42 |
 | 16 | [Heaven Is A Place In My Head](https://open.spotify.com/track/2UNzeZvLqe1WPUizilJh57) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [When The World Was Mine](https://open.spotify.com/album/58NiWJgl96U5wGRvwylfW5) | 03:51 |
 | 17 | [Stop Making This Hurt](https://open.spotify.com/track/32srSGuuy12hEhrD2iCIIK) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Stop Making This Hurt](https://open.spotify.com/album/6Zumf6wFEd0VHxHIUoMXhX) | 03:19 |
-| 18 | [Sticky](https://open.spotify.com/track/33cJ7PEcgnh5d9JPgJNmkn) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Sticky](https://open.spotify.com/album/0LYIyWUQ1m492tDC2K9AT0) | 00:29 |
+| 18 | [Sticky](https://open.spotify.com/track/33cJ7PEcgnh5d9JPgJNmkn) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Sticky](https://open.spotify.com/album/0LYIyWUQ1m492tDC2K9AT0) | 02:58 |
 | 19 | [1 Last Cigarette](https://open.spotify.com/track/07cZs4Bn5aMHsQMFZ7MOui) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [1 Last Cigarette](https://open.spotify.com/album/7aRJMS2Jj9O21X09ES1nus) | 03:05 |
 | 20 | [Something Has to Change](https://open.spotify.com/track/2KWI43agrQEFVLM3soOmKW) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 03:11 |
 | 21 | [Baby Blue Shades](https://open.spotify.com/track/0o4iE4nFwqY1d2JKlrcMRb) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Baby Blue Shades](https://open.spotify.com/album/0D2iqDOWfezLDJLvJrLItc) | 03:40 |
