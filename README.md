@@ -3,11 +3,11 @@
 |---|---|---|---|
 |[Untitled](/Playlists/Pretty/3MCgdDL3VM4sNHqSVJMDXO.md) | 632 | 1 day 16 hr | 08/18/2022 | 
 |[18](/Playlists/Pretty/7DrLIIvXwjSRTAaQjmZtDC.md) | 32 | 1 hr 48 min | 03/30/2022 | 
-|[Best Cover Songs](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 182 | 10 hr 25 min | 09/14/2022 | 
+|[Best Cover Songs](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 182 | 10 hr 25 min | 10/06/2022 | 
 |[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 308 | 8 hr 44 min | 09/19/2022 | 
-|[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 129 | 7 hr 22 min | 10/02/2022 | 
+|[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 133 | 7 hr 37 min | 10/06/2022 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 50 | 5 hr 17 min | 10/01/2022 | 
-|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 46 min | 10/05/2022 | 
+|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 47 min | 10/06/2022 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 03/30/2022 | 
 |[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 54 min | 10/04/2022 | 
 |[Indie Pop Summer '21](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 41 | 2 hr 16 min | 03/30/2022 | 
