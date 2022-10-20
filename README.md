@@ -7,7 +7,7 @@
 |[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 282 | 6 hr 27 min | 10/18/2022 | 
 |[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 136 | 7 hr 32 min | 10/19/2022 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 50 | 5 hr 17 min | 10/01/2022 | 
-|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 50 min | 10/19/2022 | 
+|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 54 min | 10/20/2022 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 03/30/2022 | 
 |[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 55 min | 10/19/2022 | 
 |[Indie Pop Summer '21](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 41 | 2 hr 16 min | 03/30/2022 | 
@@ -16,4 +16,4 @@
 |[Spring Cleaning 🧼🧹](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 195 | 10 hr 59 min | 09/16/2022 | 
 |[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 30 min | 10/14/2022 | 
 |[Today's Top Hits](/Playlists/Pretty/37i9dQZF1DXcBWIGoYBM5M.md) | 50 | 2 hr 31 min | 10/15/2022 | 
-|[Ultimate Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 75 | 4 hr 27 min | 10/19/2022 | 
+|[Ultimate Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 75 | 4 hr 24 min | 10/20/2022 | 
