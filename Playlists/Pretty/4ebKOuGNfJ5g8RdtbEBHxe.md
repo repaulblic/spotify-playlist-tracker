@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 283 songs, 6 hr 27 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 284 songs, 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,3 +287,4 @@
 | 280 | [Runes](https://open.spotify.com/track/2QHpxgciQp4IBKstAxpvKd) | [Deer Park Ranger](https://open.spotify.com/artist/01tD6pz0YTMXpRkFj4wuQ3) | [Runes](https://open.spotify.com/album/2dAa7B9Gbl89RXo9oBppiO) | 11:40 |
 | 281 | [Lockjaw](https://open.spotify.com/track/4LRZV2lmDWLSvVN5R8kROL) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Lockjaw](https://open.spotify.com/album/56lhq8trrQpWoRwiCznhW8) | 04:40 |
 | 282 | [L'appel du Vide](https://open.spotify.com/track/25wBspY0BQ6UrO1UZC0lfB) | [Overhead, The Albatross](https://open.spotify.com/artist/6LvUT0nQphy4BzdzKbdOpx) | [L'appel du Vide](https://open.spotify.com/album/4dJnfA41mVzK2cuQ87IdoP) | 08:05 |
+| 283 | [Secret Societies Rule The World](https://open.spotify.com/track/0LeAIyGbf91sOBuByLoxgc) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [Secret Societies Rule The World](https://open.spotify.com/album/1dlZUmKGcWqzSxwcAP76Sg) | 04:00 |
