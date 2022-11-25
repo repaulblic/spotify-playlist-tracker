@@ -1,7 +1,7 @@
 ### [Spring Cleaning 🧼🧹](https://open.spotify.com/playlist/3R4JUoD8HBVxgAXGRHp6Q9)
 
 > 
-> Created by [Ellie Lane](https://open.spotify.com/user/ellie_lane96) • 202 songs, 11 hr 19 min
+> Created by [Ellie Lane](https://open.spotify.com/user/ellie_lane96) • 203 songs, 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,3 +206,4 @@
 | 199 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 03:38 |
 | 200 | [As I Am (feat. Khalid)](https://open.spotify.com/track/6F2r4HgpJnvKDmkN6JEN6J) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 02:54 |
 | 201 | [Dream Catch Me](https://open.spotify.com/track/3vIVCdRx0jaxegLrtuGYvH) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [Hand Built By Robots](https://open.spotify.com/album/3sa5wY7P025oIRRDvolUY5) | 03:56 |
+| 202 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 03:29 |
