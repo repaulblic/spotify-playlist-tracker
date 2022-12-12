@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 285 songs, 6 hr 42 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 286 songs, 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,3 +289,4 @@
 | 282 | [Lucas I, 26​-​38](https://open.spotify.com/track/4413OAZLTiAdymiRG9tUpp) | [El Altar Del Holocausto](https://open.spotify.com/artist/6AEeXqGVaN6n3H4TNMURXT) | [- S H Ǝ -](https://open.spotify.com/album/7zLmgPKCJEL6E1qVVSigES) | 06:52 |
 | 283 | [Gransha](https://open.spotify.com/track/7b7JfeDjuuNqSZz3U25Bt8) | [Jamie Dean](https://open.spotify.com/artist/4febqmSRFnbC6HWENbXFbt) | [Gransha](https://open.spotify.com/album/1vBMMpsku08MGVZwaof8gQ) | 06:27 |
 | 284 | [Cielo Negro (Black Sky)](https://open.spotify.com/track/4SfP4StREk5YmwmUHPXvOM) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [(III)](https://open.spotify.com/album/6Ued283OOMYn1KTaheTflx) | 06:00 |
+| 285 | [Rupture](https://open.spotify.com/track/2IsW0Wa53HPZoXYUzezZxx) | [Lost in Kiev](https://open.spotify.com/artist/4VBq7oPj5Yi4Yfx4hopGY3) | [Rupture](https://open.spotify.com/album/4pmfgV1bCb8AsfrXbH7JSc) | 07:29 |
