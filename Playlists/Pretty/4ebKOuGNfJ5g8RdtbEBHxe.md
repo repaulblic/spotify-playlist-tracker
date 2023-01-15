@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 256 songs, 4 hr 17 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 257 songs, 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -260,3 +260,4 @@
 | 253 | [Ahres](https://open.spotify.com/track/0JVDwSoe7G3Mg6TFmyQzca) | [Møuntain](https://open.spotify.com/artist/4fJHzFTaZFdQMmnldgzWeM) | [Our Engines Stall](https://open.spotify.com/album/1QPD9P6AwAE5qvjfJmNKKR) | 06:15 |
 | 254 | [Hexis](https://open.spotify.com/track/7hIWzzbMFypsYqwXTUY8K9) | [Carved Into the Sun](https://open.spotify.com/artist/5g6B8BImDEAOJxGNBNJFsJ) | [The Earth Fell Away](https://open.spotify.com/album/6yU7H3vYfeXC6HQJ97oRkj) | 08:40 |
 | 255 | [Dancing Through the Darkest Clouds](https://open.spotify.com/track/6oBHb2rfhHGrFnOTWCbqpb) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [Relapse Into Silence](https://open.spotify.com/album/1iIN6vWfNu9WQak77grWxE) | 03:35 |
+| 256 | [dream is destiny](https://open.spotify.com/track/6qvfeDEiwboR8RpUCxTt54) | [No Clear Mind](https://open.spotify.com/artist/2GkzAz3xr5IasfL5ukwDb9) | [Dream is Destiny](https://open.spotify.com/album/5lUJQDYfZIdR0F6Mv6urEo) | 05:39 |
