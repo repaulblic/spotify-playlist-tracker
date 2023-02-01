@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 260 songs, 4 hr 40 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 261 songs, 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,3 +264,4 @@
 | 257 | [Nothing](https://open.spotify.com/track/5Nhx7paxxJUcH7GAI3JZ01) | [Amalunga](https://open.spotify.com/artist/0ByEY1LcMeQD7RbTmtBBOz) | [Incipience](https://open.spotify.com/album/26gb92zYZ9tzlP7OplM8Zd) | 04:55 |
 | 258 | [Welcome To The Bubble](https://open.spotify.com/track/0pLELg41hN0fK9B5FMR8DL) | [le_mol](https://open.spotify.com/artist/3Idr4pBOORO86Uriopju0D) | [Jolly](https://open.spotify.com/album/2WSaA5VzaU58EH1naI5aKg) | 04:34 |
 | 259 | [Uncertainty](https://open.spotify.com/track/6gmQWaP9DTMU0420FzUSJZ) | [Six Days Of Calm](https://open.spotify.com/artist/5JWSWO9UdShEaknC9zISmo) | [Uncertainty](https://open.spotify.com/album/76svroLj2vz5Kfd3JgCyVY) | 08:00 |
+| 260 | [Aeolist, Descend!](https://open.spotify.com/track/2a5n9Xaolzik3MFxS6v2tJ) | [Celestial Wolves](https://open.spotify.com/artist/457ino3CXw0ZlR5yvYxIis) | [Aeolist, Descend!](https://open.spotify.com/album/0tHL1oVCJJHDu0Wi59XsMn) | 10:46 |
