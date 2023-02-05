@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 262 songs, 4 hr 57 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 263 songs, 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,3 +266,4 @@
 | 259 | [Uncertainty](https://open.spotify.com/track/6gmQWaP9DTMU0420FzUSJZ) | [Six Days Of Calm](https://open.spotify.com/artist/5JWSWO9UdShEaknC9zISmo) | [Uncertainty](https://open.spotify.com/album/76svroLj2vz5Kfd3JgCyVY) | 08:00 |
 | 260 | [Aeolist, Descend!](https://open.spotify.com/track/2a5n9Xaolzik3MFxS6v2tJ) | [Celestial Wolves](https://open.spotify.com/artist/457ino3CXw0ZlR5yvYxIis) | [Aeolist, Descend!](https://open.spotify.com/album/0tHL1oVCJJHDu0Wi59XsMn) | 10:46 |
 | 261 | [Junky](https://open.spotify.com/track/4SIzLLKm7odbbu5gEBZJG2) | [Weal](https://open.spotify.com/artist/2iym1x0g4cvPODny3hnEt1) | [Undivided](https://open.spotify.com/album/3nULVqgIT8JlPWclpqRtWF) | 06:53 |
+| 262 | [Syntagma](https://open.spotify.com/track/47sHH5lpXgUGFPKCPYOosQ) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Apophenia](https://open.spotify.com/album/6GWcd9ZQN4O1NHLfHwGNmU) | 06:43 |
