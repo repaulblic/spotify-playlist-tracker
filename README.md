@@ -3,7 +3,7 @@
 |---|---|---|---|
 |[Untitled](/Playlists/Pretty/3MCgdDL3VM4sNHqSVJMDXO.md) | 632 | 1 day 16 hr | 11/10/2022 | 
 |[18](/Playlists/Pretty/7DrLIIvXwjSRTAaQjmZtDC.md) | 32 | 1 hr 48 min | 03/30/2022 | 
-|[Best Cover Songs](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 188 | 10 hr 48 min | 02/18/2023 | 
+|[Best Cover Songs](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 189 | 10 hr 51 min | 02/20/2023 | 
 |[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 264 | 5 hr 18 min | 02/15/2023 | 
 |[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 125 | 7 hr 1 min | 02/18/2023 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 50 | 5 hr 17 min | 11/14/2022 | 
@@ -16,4 +16,4 @@
 |[Spring Cleaning 🧼🧹](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 207 | 11 hr 40 min | 02/10/2023 | 
 |[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 31 min | 02/05/2023 | 
 |[Today's Top Hits](/Playlists/Pretty/37i9dQZF1DXcBWIGoYBM5M.md) | 50 | 2 hr 40 min | 02/11/2023 | 
-|[Ultimate Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 75 | 4 hr 32 min | 02/18/2023 | 
+|[Ultimate Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 75 | 4 hr 33 min | 02/20/2023 | 
