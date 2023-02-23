@@ -1,7 +1,7 @@
 ### [The Essential Ska](https://open.spotify.com/playlist/37i9dQZF1DX7WJ4yDmRK8R)
 
 > This is the best of ska, new and classic. Cover: The Interrupters<br>
-> Created by [Spotify](https://open.spotify.com/user/spotify) • 101 songs, 5 hr 31 min
+> Created by [Spotify](https://open.spotify.com/user/spotify) • 101 songs, 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@
 | 34 | [Rat Race](https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Too Much Too Young](https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB) | 03:09 |
 | 35 | [Mr. Smiley](https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude (2010 Re-Issue)](https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b) | 02:46 |
 | 36 | [We Will Fall Together](https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Somewhere in the Between](https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg) | 04:49 |
-| 37 | [Rock Fort Rock](https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 07:00 |
-| 38 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 03:46 |
-| 39 | [Wallflower](https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 02:23 |
+| 37 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 03:46 |
+| 38 | [Wallflower](https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 02:23 |
+| 39 | [Rock Fort Rock](https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 07:00 |
 | 40 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 02:41 |
 | 41 | [Road Rash](https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Duck and Cover](https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0) | 02:01 |
 | 42 | [Super Rad!](https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Fury of the Aquabats!](https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM) | 03:02 |
@@ -53,8 +53,8 @@
 | 46 | [All in Stride](https://open.spotify.com/track/49sLiyg8IcSEmtucGbSVdO) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7), [Passafire](https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ) | [Beast From The East](https://open.spotify.com/album/6qbGXpKlWDMpvFlTmbmyOh) | 04:08 |
 | 47 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker (Deluxe Edition)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 02:23 |
 | 48 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 02:18 |
-| 49 | [Wake Up](https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 03:01 |
-| 50 | [Out All Night](https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G) | [The Pietasters](https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn) | [Willis](https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY) | 03:16 |
+| 49 | [Out All Night](https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G) | [The Pietasters](https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn) | [Willis](https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY) | 03:16 |
+| 50 | [Wake Up](https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 03:01 |
 | 51 | [One More Minute](https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [A Passage In Time (Explicit Version)](https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE) | 06:28 |
 | 52 | [Social Drinker](https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 03:03 |
 | 53 | [Free Time](https://open.spotify.com/track/19FG153t1MdozcTZHi8guM) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob) | 03:01 |
@@ -101,7 +101,7 @@
 | 94 | [Stupid](https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU) | [Just Friends](https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa) | [Stupid](https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c) | 03:13 |
 | 95 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 03:43 |
 | 96 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 05:43 |
-| 97 | [Special Brew](https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr) | [Skankin' Pickle](https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S) | [The Green Album](https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw) | 03:11 |
-| 98 | [Dreamcatcher](https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK) | [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Strange Creatures - EP](https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm) | 04:14 |
+| 97 | [Dreamcatcher](https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK) | [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Strange Creatures - EP](https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm) | 04:14 |
+| 98 | [Special Brew](https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr) | [Skankin' Pickle](https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S) | [The Green Album](https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw) | 03:11 |
 | 99 | [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 03:49 |
-| 100 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 02:21 |
+| 100 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 03:14 |
