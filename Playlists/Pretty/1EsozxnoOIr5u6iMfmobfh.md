@@ -1,7 +1,7 @@
 ### [Inexcusable Bops](https://open.spotify.com/playlist/1EsozxnoOIr5u6iMfmobfh)
 
 > 
-> Created by [Hank Green](https://open.spotify.com/user/12159652660) • 26 songs, 1 hr 19 min
+> Created by [Hank Green](https://open.spotify.com/user/12159652660) • 27 songs, 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,3 +30,4 @@
 | 23 | [Struttin'](https://open.spotify.com/track/4APBpdRfl41B6cFkgjpIXz) | [Thumpasaurus](https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ) | [Struttin'](https://open.spotify.com/album/4gobjLyn56gtl3BBaQPjcy) | 03:49 |
 | 24 | [誰が為にCHAKAPOCOは鳴る](https://open.spotify.com/track/09LbcaIcE3g9SMKIX2yWjB) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [誰が為にCHAKAPOCOは鳴る](https://open.spotify.com/album/4QsaCr3IczjIV7P1JL0uCE) | 04:32 |
 | 25 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 03:58 |
+| 26 | [Pathaka Guddi - Drill Remix](https://open.spotify.com/track/2dEhqOahFZgiCFA3V3M9Lp) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV), [Syned Beats](https://open.spotify.com/artist/1gKICB8ubSPQoWNCFZyrsT) | [Pathaka Guddi (Drill Remix)](https://open.spotify.com/album/7jyclFOozqAnRM8kb3FH9J) | 03:09 |
