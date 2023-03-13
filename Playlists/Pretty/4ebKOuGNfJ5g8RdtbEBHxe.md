@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 265 songs, 5 hr 21 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 268 songs, 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,6 +266,9 @@
 | 259 | [Junky](https://open.spotify.com/track/4SIzLLKm7odbbu5gEBZJG2) | [Weal](https://open.spotify.com/artist/2iym1x0g4cvPODny3hnEt1) | [Undivided](https://open.spotify.com/album/3nULVqgIT8JlPWclpqRtWF) | 06:53 |
 | 260 | [Syntagma](https://open.spotify.com/track/47sHH5lpXgUGFPKCPYOosQ) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Apophenia](https://open.spotify.com/album/6GWcd9ZQN4O1NHLfHwGNmU) | 06:43 |
 | 261 | [Magik](https://open.spotify.com/track/0kuRZfnraTXD8p8Qr4FMKA) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Sirens](https://open.spotify.com/album/0rJ9KcNjZ8MjYBuviSzMmV) | 06:41 |
-| 262 | [The Letters We'll Never Send](https://open.spotify.com/track/4HrZYWhVwy6oOzn5BUPjIv) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [The Letters We'll Never Send](https://open.spotify.com/album/1X72RQSH32yVaSlTvrIlsL) | 06:50 |
-| 263 | [Sunrise, Sunset](https://open.spotify.com/track/3a0eXDhVy8YyUwuAvQr3re) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Sunrise, Sunset](https://open.spotify.com/album/6U1Fx7y5SQH6K7ePuvtq6G) | 05:41 |
-| 264 | [Dawn](https://open.spotify.com/track/4iFsoiMTiNe3biSd2KDB0f) | [Macondø](https://open.spotify.com/artist/3AMsytygv9oykgHdVToSgm) | [II](https://open.spotify.com/album/1WdUCXStO7dGLx276FMVAB) | 05:15 |
+| 262 | [Sunrise, Sunset](https://open.spotify.com/track/3a0eXDhVy8YyUwuAvQr3re) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Sunrise, Sunset](https://open.spotify.com/album/6U1Fx7y5SQH6K7ePuvtq6G) | 05:41 |
+| 263 | [Dawn](https://open.spotify.com/track/4iFsoiMTiNe3biSd2KDB0f) | [Macondø](https://open.spotify.com/artist/3AMsytygv9oykgHdVToSgm) | [II](https://open.spotify.com/album/1WdUCXStO7dGLx276FMVAB) | 05:15 |
+| 264 | [I, the Ache](https://open.spotify.com/track/63BZPD66VgYc4X5y7b6QUr) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [Eviscerate Soul](https://open.spotify.com/album/32yMJFCBjQMypDCqTDJVkE) | 06:28 |
+| 265 | [I Promise You](https://open.spotify.com/track/3AI43JQUCbQ8hBrIfBkf3g) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [Non​-​Album Tracks](https://open.spotify.com/album/3IeDHKuxv4d7bkssAdCd6d) | 02:59 |
+| 266 | [We're Falling Through Space, You and Me](https://open.spotify.com/track/2KOgG9hZLwcKLxlExUxt3K) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [We're Falling Through Space, You and Me](https://open.spotify.com/album/3664JKpf9hCnspD3JZfcZH) | 03:50 |
+| 267 | [Paper Eyes to Take Cover](https://open.spotify.com/track/6yz3cAky5LTDCddVQmjGAt) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [Blind](https://open.spotify.com/album/1cTSR3yxifLuTUFpBxUjUS) | 08:26 |
