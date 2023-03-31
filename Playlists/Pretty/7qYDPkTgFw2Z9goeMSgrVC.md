@@ -1,7 +1,7 @@
 ### [Best Cover Songs](https://open.spotify.com/playlist/7qYDPkTgFw2Z9goeMSgrVC)
 
 > Our Favorite Cover Songs From Some Of Our Favorite Bands<br>
-> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 193 songs, 11 hr 1 min
+> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 194 songs, 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@
 | 19 | [Society](https://open.spotify.com/track/79B02VYY1sEL3G9bkzaikT) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Dead Formats, Vol. 1](https://open.spotify.com/album/1yDX36KU1tisE2krMDRP1v) | 03:23 |
 | 20 | [Sad But True](https://open.spotify.com/track/6XKtqDicwqQd5MNjzukYa1) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Sad But True](https://open.spotify.com/album/2rNulMEj7so0c7ztxCArHF) | 05:22 |
 | 21 | [Nightmare](https://open.spotify.com/track/6MuQeCRSAR95pY5WAhfAWm) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Bowser's Mixtape](https://open.spotify.com/album/0MEvBPRyTH2IEzHZQ4Bf6S) | 06:05 |
-| 22 | [Anti-Hero](https://open.spotify.com/track/0qS5cQibRPxORt0Ixpt9cG) | [Speak Low](https://open.spotify.com/artist/7dTlDQGBnl0lY4Yindh1GT) | [Anti-Hero](https://open.spotify.com/album/24ZmfQA62pLH8ZahZEenru) | 03:29 |
+| 22 | [Territorial Pissings](https://open.spotify.com/track/4mogarjy9YpP87lfjadMp5) | [VIAL](https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf) | [Territorial Pissings](https://open.spotify.com/album/6uNzXm2hjxtRxEUPKgSPxM) | 02:22 |
 | 23 | [Something Like That - Pop Punk Cover](https://open.spotify.com/track/75xmRzTOaSrldjcTcimQdE) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA), [Ryan Scott Graham](https://open.spotify.com/artist/4goa0eLNaGxDcbhVcG7KM3) | [Something Like That / Secrets](https://open.spotify.com/album/0VtreAEeBIYvfIeSima8Bq) | 03:01 |
 | 24 | [Someday I Suppose](https://open.spotify.com/track/6MTU028XXsHteIsOt7mZYk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Dead Formats, Vol. 1](https://open.spotify.com/album/1TPl6PVlGQupN649FEReG1) | 03:30 |
 | 25 | [Santeria](https://open.spotify.com/track/7tDLBNxA38dFoM1evzUTD5) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Dead Formats, Vol. 1](https://open.spotify.com/album/1TPl6PVlGQupN649FEReG1) | 03:50 |
@@ -197,3 +197,4 @@
 | 190 | [Tainted Love](https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4), [NOCTURN](https://open.spotify.com/artist/0U8NYuumNlHvaXwMAvu87K) | [Tainted Love](https://open.spotify.com/album/3obOuWdKKDTA5toHFQhQ0z) | 03:24 |
 | 191 | [Losing My Religion](https://open.spotify.com/track/4kl9TOroSishgTL2tAPA7l) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac), [Songs That Saved My Life](https://open.spotify.com/artist/5iSHjwO8V2QSAerrusSe3i) | [Songs That Saved My Life](https://open.spotify.com/album/7Dj6cHlK5TOe3s6hdUkxSQ) | 04:29 |
 | 192 | [Every Breath You Take](https://open.spotify.com/track/6vSrveqaBMifDzS9yirNQh) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [¡Policia! a Tribute to the Police](https://open.spotify.com/album/5GE0TFqdEApgbBmFrWh7XS) | 05:58 |
+| 193 | [Anti-Hero](https://open.spotify.com/track/0qS5cQibRPxORt0Ixpt9cG) | [Speak Low](https://open.spotify.com/artist/7dTlDQGBnl0lY4Yindh1GT) | [Anti-Hero](https://open.spotify.com/album/24ZmfQA62pLH8ZahZEenru) | 03:29 |
