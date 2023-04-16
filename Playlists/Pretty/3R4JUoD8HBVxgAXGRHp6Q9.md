@@ -1,7 +1,7 @@
-### [](https://open.spotify.com/playlist/3R4JUoD8HBVxgAXGRHp6Q9)
+### [Spring Cleaning 🧽 ](https://open.spotify.com/playlist/3R4JUoD8HBVxgAXGRHp6Q9)
 
 > 
-> Created by [Ellie Lane](https://open.spotify.com/user/ellie_lane96) • 210 songs, 11 hr 47 min
+> Created by [Ellie Lane](https://open.spotify.com/user/ellie_lane96) • 211 songs, 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,3 +214,4 @@
 | 207 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 03:20 |
 | 208 | [Anti-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 03:20 |
 | 209 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under (Deluxe)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 03:09 |
+| 210 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 02:33 |
