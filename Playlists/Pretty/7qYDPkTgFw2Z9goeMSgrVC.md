@@ -1,7 +1,7 @@
 ### [Best Cover Songs](https://open.spotify.com/playlist/7qYDPkTgFw2Z9goeMSgrVC)
 
 > Our Favorite Cover Songs From Some Of Our Favorite Bands<br>
-> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 194 songs, 11 hr 4 min
+> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 195 songs, 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,3 +198,4 @@
 | 191 | [Losing My Religion](https://open.spotify.com/track/4kl9TOroSishgTL2tAPA7l) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac), [Songs That Saved My Life](https://open.spotify.com/artist/5iSHjwO8V2QSAerrusSe3i) | [Songs That Saved My Life](https://open.spotify.com/album/7Dj6cHlK5TOe3s6hdUkxSQ) | 04:29 |
 | 192 | [Every Breath You Take](https://open.spotify.com/track/6vSrveqaBMifDzS9yirNQh) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [¡Policia! a Tribute to the Police](https://open.spotify.com/album/5GE0TFqdEApgbBmFrWh7XS) | 05:58 |
 | 193 | [Anti-Hero](https://open.spotify.com/track/0qS5cQibRPxORt0Ixpt9cG) | [Speak Low](https://open.spotify.com/artist/7dTlDQGBnl0lY4Yindh1GT) | [Anti-Hero](https://open.spotify.com/album/24ZmfQA62pLH8ZahZEenru) | 03:29 |
+| 194 | [DON'T CHA](https://open.spotify.com/track/3fknP7A3p23jjScGPVW7Qe) | [THE DEV](https://open.spotify.com/artist/5wwviFABtIwG8zE0LRDYDU) | [DON'T CHA](https://open.spotify.com/album/1FdqqkyZ22hud0jcDoejnL) | 03:57 |
