@@ -7,7 +7,7 @@
 |[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 271 | 5 hr 58 min | 05/13/2023 | 
 |[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 126 | 6 hr 37 min | 05/23/2023 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 50 | 5 hr 17 min | 03/01/2023 | 
-|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 57 min | 05/23/2023 | 
+|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 49 min | 05/24/2023 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 03/30/2022 | 
 |[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 52 min | 05/23/2023 | 
 |[Indie Pop Summer '21](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 41 | 2 hr 16 min | 03/30/2022 | 
