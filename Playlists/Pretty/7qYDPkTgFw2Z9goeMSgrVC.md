@@ -1,7 +1,7 @@
-### [Best Cover Songs](https://open.spotify.com/playlist/7qYDPkTgFw2Z9goeMSgrVC)
+### [The Best Cover Songs](https://open.spotify.com/playlist/7qYDPkTgFw2Z9goeMSgrVC)
 
 > Our Favorite Cover Songs From Some Of Our Favorite Bands<br>
-> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 197 songs, 11 hr 16 min
+> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 198 songs, 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,3 +201,4 @@
 | 194 | [Every Breath You Take](https://open.spotify.com/track/6vSrveqaBMifDzS9yirNQh) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [¡Policia! a Tribute to the Police](https://open.spotify.com/album/5GE0TFqdEApgbBmFrWh7XS) | 05:58 |
 | 195 | [Anti-Hero](https://open.spotify.com/track/0qS5cQibRPxORt0Ixpt9cG) | [Speak Low](https://open.spotify.com/artist/7dTlDQGBnl0lY4Yindh1GT) | [Anti-Hero](https://open.spotify.com/album/24ZmfQA62pLH8ZahZEenru) | 03:29 |
 | 196 | [DON'T CHA](https://open.spotify.com/track/3fknP7A3p23jjScGPVW7Qe) | [THE DEV](https://open.spotify.com/artist/5wwviFABtIwG8zE0LRDYDU) | [DON'T CHA](https://open.spotify.com/album/1FdqqkyZ22hud0jcDoejnL) | 03:57 |
+| 197 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 02:14 |
