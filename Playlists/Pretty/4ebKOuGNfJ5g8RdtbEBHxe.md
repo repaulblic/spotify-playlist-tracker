@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 274 songs, 6 hr 8 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 275 songs, 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,3 +278,4 @@
 | 271 | [Apophenia](https://open.spotify.com/track/5DqLS8HAuxEKDbI66Tf63k) | [Where Mermaids Drown](https://open.spotify.com/artist/3Q4FVct3GXGPi44mH5mP6J) | [Reminisce](https://open.spotify.com/album/0YHgMSPsqgiGQb84GJqek5) | 05:23 |
 | 272 | [Humbëtirë Kaltëremë](https://open.spotify.com/track/6fNY2nsIw1benJJaYsHnIs) | [Fovea Stellaris](https://open.spotify.com/artist/3wOC4ddi1fqSQCYbKLRgI3) | [Humbëtirë Kaltëremë](https://open.spotify.com/album/5FCyDezioL3C2HLl91iXM1) | 05:36 |
 | 273 | [If They Only Knew](https://open.spotify.com/track/6NZ1lxj5yAkox4heBciq1j) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [If They Only Knew](https://open.spotify.com/album/4JYxMORHy3dp87IqKvJM5E) | 03:55 |
+| 274 | [All That Glitters Is Not Gold](https://open.spotify.com/track/19YgpZDdTKmxLWCblVL0Br) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [The World & Everything In It](https://open.spotify.com/album/5HC8TbYw4gWIz1V3HrLNHT) | 06:13 |
