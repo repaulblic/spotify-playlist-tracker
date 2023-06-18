@@ -1,7 +1,7 @@
-### [](https://open.spotify.com/playlist/3MCgdDL3VM4sNHqSVJMDXO)
+### [Songs That Excite The White Folk](https://open.spotify.com/playlist/3MCgdDL3VM4sNHqSVJMDXO)
 
 > 
-> Created by [nstelter25](https://open.spotify.com/user/nstelter25) • 633 songs, 1 day 16 hr
+> Created by [nstelter25](https://open.spotify.com/user/nstelter25) • 629 songs, 1 day 15 hr
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -628,12 +628,8 @@
 | 621 | [I Like It](https://open.spotify.com/track/4nVyHATevhl5RC6Qmoko5H) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Euphoria (Standard US/Latin version)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 03:51 |
 | 622 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are (Platinum Edition)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 03:51 |
 | 623 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 03:28 |
-| 624 | [Boyfriend](https://open.spotify.com/track/6TJBU8omwRS6neLLFCsYTX) | [Tyler Cassidy](https://open.spotify.com/artist/0PzvHyRUSw6pCcWi9BYfKk) | [Piano Songs](https://open.spotify.com/album/3x21YSiB6NvqQdUA5PmAoq) | 03:42 |
-| 625 | [DONTTRUSTME](https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 03:12 |
-| 626 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration (double disc version)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 04:00 |
-| 627 | [Fresh Eyes](https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb) | 03:18 |
-| 628 | [Keep Your Head Up](https://open.spotify.com/track/4Jz4bjXeiF2SXVj9P4YfY5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Andy Grammer](https://open.spotify.com/album/2c93mTBuqEHQMiyg53P69R) | 03:09 |
-| 629 | [Friends In Low Places](https://open.spotify.com/track/7vmKy94WT1pGBYs2fmfWwl) | [Country Music Masters](https://open.spotify.com/artist/6MKgKtYya1yJfm5VMPocm5) | [The Greatest Hits - Volume 1 - Garth Brooks Tribute](https://open.spotify.com/album/5XJFfbFSxFmZsluDdzs9I7) | 04:18 |
-| 630 | [House Drunk](https://open.spotify.com/track/4VcDgdrjo3GIj7GlTevI23) | [Josh Logan](https://open.spotify.com/artist/5IF68hkV9cR8Jnyc2sahZ4) | [House Drunk](https://open.spotify.com/album/3IKCPtUlbd4d2z07L1oYu0) | 03:14 |
-| 631 | [Talk Southern to Me](https://open.spotify.com/track/30vLruaPmL7maBULGMnA1b) | [Josh Logan](https://open.spotify.com/artist/5IF68hkV9cR8Jnyc2sahZ4) | [Talk Southern to Me](https://open.spotify.com/album/5ayqCJJPRnyQwU8LHV7UX5) | 02:43 |
-| 632 | [That's What Family's For](https://open.spotify.com/track/5wdsEMkkpv66MqBZfTMQTH) | [Josh Logan](https://open.spotify.com/artist/5IF68hkV9cR8Jnyc2sahZ4) | [That's What Family's For](https://open.spotify.com/album/5py5GRoxnVVWl7Kl3i8D51) | 03:02 |
+| 624 | [DONTTRUSTME](https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 03:12 |
+| 625 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration (double disc version)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 04:00 |
+| 626 | [Fresh Eyes](https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb) | 03:18 |
+| 627 | [Keep Your Head Up](https://open.spotify.com/track/4Jz4bjXeiF2SXVj9P4YfY5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Andy Grammer](https://open.spotify.com/album/2c93mTBuqEHQMiyg53P69R) | 03:09 |
+| 628 | [Friends In Low Places](https://open.spotify.com/track/7vmKy94WT1pGBYs2fmfWwl) | [Country Music Masters](https://open.spotify.com/artist/6MKgKtYya1yJfm5VMPocm5) | [The Greatest Hits - Volume 1 - Garth Brooks Tribute](https://open.spotify.com/album/5XJFfbFSxFmZsluDdzs9I7) | 04:18 |
