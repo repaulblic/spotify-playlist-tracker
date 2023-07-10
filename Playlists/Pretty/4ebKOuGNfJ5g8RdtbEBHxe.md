@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 275 songs, 6 hr 15 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 276 songs, 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,3 +279,4 @@
 | 272 | [If They Only Knew](https://open.spotify.com/track/6NZ1lxj5yAkox4heBciq1j) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [If They Only Knew](https://open.spotify.com/album/4JYxMORHy3dp87IqKvJM5E) | 03:55 |
 | 273 | [All That Glitters Is Not Gold](https://open.spotify.com/track/19YgpZDdTKmxLWCblVL0Br) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [The World & Everything In It](https://open.spotify.com/album/5HC8TbYw4gWIz1V3HrLNHT) | 06:13 |
 | 274 | [A Rush of Something, Somewhere](https://open.spotify.com/track/6kD7MKhaRqXkpl8NSsv5Ty) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [A Rush of Something, Somewhere](https://open.spotify.com/album/7CL0uKIXuF1VAy6QvvaaWD) | 04:44 |
+| 275 | [Ouroboros](https://open.spotify.com/track/3WANe5gkKJvOoVQ5nvYI7j) | [FORT](https://open.spotify.com/artist/6z1KGbnKxBGbJ6fLvcmhhY) | [Once All Is Said And Done, We Still Draw Breath](https://open.spotify.com/album/29QaGhF53qwxJJbrRNgF42) | 07:30 |
