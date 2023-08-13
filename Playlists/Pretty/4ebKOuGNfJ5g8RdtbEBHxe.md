@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 277 songs, 6 hr 27 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 278 songs, 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,3 +281,4 @@
 | 274 | [A Rush of Something, Somewhere](https://open.spotify.com/track/6kD7MKhaRqXkpl8NSsv5Ty) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [A Rush of Something, Somewhere](https://open.spotify.com/album/7CL0uKIXuF1VAy6QvvaaWD) | 04:44 |
 | 275 | [Ouroboros](https://open.spotify.com/track/3WANe5gkKJvOoVQ5nvYI7j) | [FORT](https://open.spotify.com/artist/6z1KGbnKxBGbJ6fLvcmhhY) | [Once All Is Said And Done, We Still Draw Breath](https://open.spotify.com/album/29QaGhF53qwxJJbrRNgF42) | 07:30 |
 | 276 | [F.R.E.E.](https://open.spotify.com/track/3syubJBSOA23Gj3ojxVoFG) | [Delayed Schedules](https://open.spotify.com/artist/2lVklP2whG8hFeQnfenH2k) | [F.R.E.E.](https://open.spotify.com/album/73rzJFHSBgXsKhXGsHPQ4g) | 04:02 |
+| 277 | [We'll Find the Light in Darkness](https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [We'll Find the Light in Darkness](https://open.spotify.com/album/7JOwJdBWGN0GAKcEf1qanb) | 04:41 |
