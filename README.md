@@ -5,7 +5,7 @@
 |[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 277 | 6 hr 31 min | 08/13/2023 | 
 |[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 143 | 7 hr 35 min | 09/01/2023 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 50 | 5 hr 17 min | 03/01/2023 | 
-|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 3 hr 50 min | 09/03/2023 | 
+|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 3 hr 4 min | 09/04/2023 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 06/25/2023 | 
 |[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 52 min | 08/31/2023 | 
 |[Front Page Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 100 | 5 hr 59 min | 09/03/2023 | 
@@ -15,5 +15,5 @@
 |[Songs That Excite The White Folk](/Playlists/Pretty/3MCgdDL3VM4sNHqSVJMDXO.md) | 628 | 1 day 15 hr | 08/24/2023 | 
 |[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 210 | 11 hr 49 min | 05/29/2023 | 
 |[The Best Cover Songs](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 200 | 11 hr 29 min | 08/25/2023 | 
-|[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 28 min | 09/01/2023 | 
+|[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 28 min | 09/04/2023 | 
 |[Today's Top Hits ](/Playlists/Pretty/37i9dQZF1DXcBWIGoYBM5M.md) | 50 | 2 hr 37 min | 09/02/2023 | 
