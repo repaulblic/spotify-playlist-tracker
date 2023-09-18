@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 279 songs, 6 hr 34 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 280 songs, 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,3 +283,4 @@
 | 276 | [Clarity](https://open.spotify.com/track/0weJXVYj3ddYak8Cb6WxmH) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Box Breathing](https://open.spotify.com/album/6S7Yh71RdhHqHQb7mhVOsF) | 04:05 |
 | 277 | [People Have The Power](https://open.spotify.com/track/6eRD3WrQcxBvAhHBYfnqrt) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [The World & Everything In It](https://open.spotify.com/album/5HC8TbYw4gWIz1V3HrLNHT) | 04:26 |
 | 278 | [People Like People Like Them](https://open.spotify.com/track/3cJjR0oFNK04Ay2mgLmd22) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [The World & Everything In It](https://open.spotify.com/album/5HC8TbYw4gWIz1V3HrLNHT) | 04:43 |
+| 279 | [F.R.E.E.](https://open.spotify.com/track/2c0SmQ9BubPgAqNTZps6r4) | [Delayed Schedules](https://open.spotify.com/artist/2lVklP2whG8hFeQnfenH2k) | [M.E.L.T.](https://open.spotify.com/album/5BNKeKlEr9nIHMSyTfbH4b) | 04:02 |
