@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 281 songs, 6 hr 42 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 283 songs, 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,3 +285,5 @@
 | 278 | [People Like People Like Them](https://open.spotify.com/track/3cJjR0oFNK04Ay2mgLmd22) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [The World & Everything In It](https://open.spotify.com/album/5HC8TbYw4gWIz1V3HrLNHT) | 04:43 |
 | 279 | [F.R.E.E.](https://open.spotify.com/track/2c0SmQ9BubPgAqNTZps6r4) | [Delayed Schedules](https://open.spotify.com/artist/2lVklP2whG8hFeQnfenH2k) | [M.E.L.T.](https://open.spotify.com/album/5BNKeKlEr9nIHMSyTfbH4b) | 04:02 |
 | 280 | [We've Arrived at the Burning Building](https://open.spotify.com/track/7vmv4QUPdDSM6cZNen8keb) | [Maybeshewill](https://open.spotify.com/artist/33qUIIydEBgWpe58IA0o61) | [No Feeling Is Final](https://open.spotify.com/album/42Reb04Pln4XkONjQGhm5C) | 03:36 |
+| 281 | [Awakening](https://open.spotify.com/track/6E7OJ7zDxCf7rkkwJ1ceD9) | [Six Days Of Calm](https://open.spotify.com/artist/5JWSWO9UdShEaknC9zISmo) | [Awakening](https://open.spotify.com/album/1WsnsN3JV8dyi6RCZlxmlK) | 06:21 |
+| 282 | [We Are](https://open.spotify.com/track/05wxgFgRZcMBGge15ysGdo) | [Lost in Kiev](https://open.spotify.com/artist/4VBq7oPj5Yi4Yfx4hopGY3) | [Rupture](https://open.spotify.com/album/4pmfgV1bCb8AsfrXbH7JSc) | 06:49 |
