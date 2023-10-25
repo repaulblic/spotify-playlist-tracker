@@ -3,12 +3,12 @@
 |---|---|---|---|
 |[18](/Playlists/Pretty/7DrLIIvXwjSRTAaQjmZtDC.md) | 32 | 1 hr 48 min | 09/03/2023 | 
 |[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 285 | 7 hr 8 min | 10/23/2023 | 
-|[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 127 | 6 hr 42 min | 10/24/2023 | 
+|[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 129 | 6 hr 50 min | 10/25/2023 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 40 | 4 hr 11 min | 10/20/2023 | 
-|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 3 hr 47 min | 10/24/2023 | 
+|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 3 hr 34 min | 10/25/2023 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 06/25/2023 | 
 |[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 52 min | 10/22/2023 | 
-|[Front Page Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 107 | 6 hr 27 min | 10/24/2023 | 
+|[Front Page Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 107 | 6 hr 27 min | 10/25/2023 | 
 |[Indie Pop Summer '21](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 41 | 2 hr 16 min | 03/30/2022 | 
 |[Inexcusable Bops](/Playlists/Pretty/1EsozxnoOIr5u6iMfmobfh.md) | 26 | 1 hr 22 min | 06/25/2023 | 
 |[jazz music to play in the background while cooking](/Playlists/Pretty/5TrM2C1a4McxIlFMgxgEHi.md) | 49 | 2 hr 30 min | 03/25/2023 | 
