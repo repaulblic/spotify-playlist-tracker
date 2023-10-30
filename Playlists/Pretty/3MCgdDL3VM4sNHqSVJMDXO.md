@@ -1,4 +1,4 @@
-### [Songs That Excite The White Folk](https://open.spotify.com/playlist/3MCgdDL3VM4sNHqSVJMDXO)
+### [](https://open.spotify.com/playlist/3MCgdDL3VM4sNHqSVJMDXO)
 
 > 
 > Created by [nstelter25](https://open.spotify.com/user/nstelter25) • 629 songs, 1 day 15 hr
