@@ -1,4 +1,4 @@
-### [Today's Top Hits ](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
 > Jung Kook is on top of the Hottest 50!<br>
 > Created by [Spotify](https://open.spotify.com/user/spotify) • 51 songs, 2 hr 38 min
