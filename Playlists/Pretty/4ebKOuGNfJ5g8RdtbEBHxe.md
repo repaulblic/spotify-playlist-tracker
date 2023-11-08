@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 287 songs, 7 hr 18 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 288 songs, 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -291,3 +291,4 @@
 | 284 | [More Than Anything](https://open.spotify.com/track/3RXl5zbZ0XbGa7laa8N065) | [Landing Cliffs](https://open.spotify.com/artist/6VBMW6HNZ6Wujh9c9AAtfT) | [More Than Anything](https://open.spotify.com/album/7wfsEqzlkkuH2V1iVBrqiq) | 05:33 |
 | 285 | [Aurora](https://open.spotify.com/track/0rT3hOa2l4XhMsjCYdV2Dt) | [Delayed Schedules](https://open.spotify.com/artist/2lVklP2whG8hFeQnfenH2k) | [M.E.L.T.](https://open.spotify.com/album/5BNKeKlEr9nIHMSyTfbH4b) | 03:45 |
 | 286 | [Everything for the Chance](https://open.spotify.com/track/1anApp5q9QcxC5urLd4sQh) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [Everything for the Chance](https://open.spotify.com/album/0bZyzMwMYnxOrfrLQmz3jF) | 09:55 |
+| 287 | [Ritual - Remaster 2019](https://open.spotify.com/track/5CuOK50eiDqRELEkRSkE6X) | [Vasudeva](https://open.spotify.com/artist/5uvVjg5SwNjvNE4w7HlGJC) | [Life in Cycles (Remaster 2019)](https://open.spotify.com/album/22S3IO6xlQvCrcgVl2Q8hp) | 01:46 |
