@@ -13,6 +13,7 @@
 |[Indie Pop Summer '21](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 41 | 2 hr 16 min | 03/30/2022 | 
 |[Inexcusable Bops](/Playlists/Pretty/1EsozxnoOIr5u6iMfmobfh.md) | 26 | 1 hr 22 min | 06/25/2023 | 
 |[jazz music to play in the background while cooking](/Playlists/Pretty/5TrM2C1a4McxIlFMgxgEHi.md) | 49 | 2 hr 30 min | 11/09/2023 | 
+|[Salsa Classics](/Playlists/Pretty/37i9dQZF1DX7SeoIaFyTmA.md) | 99 | 8 hr 26 min | Unknown | 
 |[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 210 | 11 hr 49 min | 05/29/2023 | 
 |[The Best Cover Songs](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 200 | 11 hr 29 min | 09/07/2023 | 
 |[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 25 min | 11/06/2023 | 
