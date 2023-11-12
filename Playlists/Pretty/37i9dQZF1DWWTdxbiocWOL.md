@@ -1,7 +1,7 @@
 ### [Calm Before the Storm](https://open.spotify.com/playlist/37i9dQZF1DWWTdxbiocWOL)
 
 > Thunder is coming.<br>
-> Created by [Spotify](https://open.spotify.com/user/spotify) • 41 songs, 4 hr 13 min
+> Created by [Spotify](https://open.spotify.com/user/spotify) • 41 songs, 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@
 | 14 | [Glósóli](https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 06:15 |
 | 15 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 06:47 |
 | 16 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 05:39 |
-| 17 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/6XfWE0VdiRbH9QWfyLibxW) | 06:44 |
-| 18 | [The First Fire](https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Red Forest](https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk) | 06:30 |
+| 17 | [The First Fire](https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Red Forest](https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk) | 06:30 |
+| 18 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/6XfWE0VdiRbH9QWfyLibxW) | 06:44 |
 | 19 | [Silent Flight, Sleeping Dawn - Remastered](https://open.spotify.com/track/0Dv3M0Ck4n9anoPu1VQ5fU) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind (Anniversary Edition)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 06:00 |
 | 20 | [Zaris](https://open.spotify.com/track/3lG9eYlhnipGfvAR4ZkBk7) | [Mooncake](https://open.spotify.com/artist/6DKVucXliE7U2RV52HF1YL) | [Zaris / Cast the Route](https://open.spotify.com/album/7s5TjksKTu7Ox6KMgHTqBt) | 05:15 |
 | 21 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 09:20 |
@@ -44,4 +44,4 @@
 | 37 | [Safety in Numbers](https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df) | [Jakob](https://open.spotify.com/artist/0SBEeMzVANjUpI6gTQdTic) | [Solace](https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL) | 07:53 |
 | 38 | [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory (Expanded And Remastered)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 04:52 |
 | 39 | [A Sixth Trumpet](https://open.spotify.com/track/0kqR9yoySq4IQSvEql8h4L) | [From Monument To Masses](https://open.spotify.com/artist/1U5hX2xotG9ilMOlgNekbq) | [On Little Known Frequencies](https://open.spotify.com/album/7lBdDIeIgMb1mWloh7N3Ea) | 05:35 |
-| 40 | [El Odio. Parte I](https://open.spotify.com/track/60oLFjfjcmDk0qPewtt5Tm) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [El Odio. Parte I](https://open.spotify.com/album/1H3Ps2PV4sNgbpTzZvuinS) | 08:05 |
+| 40 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 03:39 |
