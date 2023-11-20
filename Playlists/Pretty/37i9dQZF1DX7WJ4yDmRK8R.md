@@ -5,7 +5,7 @@
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [C’est La Vie](https://open.spotify.com/track/0FeULTkWtNrjU7WqnTfNv5) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/6heQzlRLjUmiAzezIzmuYg) | 03:10 |
+| 1 | [C’est La Vie](https://open.spotify.com/track/43gcln3SnwBCpKjy2gPOwN) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd presents C'est La Vie](https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN) | 03:10 |
 | 2 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 03:02 |
 | 3 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 03:10 |
 | 4 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 04:40 |
