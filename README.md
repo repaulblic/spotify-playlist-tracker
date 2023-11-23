@@ -6,7 +6,7 @@
 |[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 288 | 7 hr 23 min | 11/10/2023 | 
 |[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 134 | 7 hr 13 min | 11/22/2023 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 40 | 4 hr 9 min | 11/18/2023 | 
-|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 3 hr 45 min | 11/22/2023 | 
+|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 3 hr 39 min | 11/23/2023 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 06/25/2023 | 
 |[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 53 min | 11/07/2023 | 
 |[Front Page Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 134 | 8 hr 17 min | 11/22/2023 | 
