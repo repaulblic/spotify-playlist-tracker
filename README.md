@@ -6,9 +6,9 @@
 |[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 288 | 7 hr 23 min | 11/10/2023 | 
 |[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 134 | 7 hr 13 min | 11/22/2023 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 40 | 4 hr 9 min | 11/18/2023 | 
-|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 3 hr 39 min | 11/23/2023 | 
+|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 3 hr 56 min | 11/24/2023 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 06/25/2023 | 
-|[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 53 min | 11/07/2023 | 
+|[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 55 min | 11/24/2023 | 
 |[Front Page Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 134 | 8 hr 17 min | 11/22/2023 | 
 |[Indie Pop Summer '21](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 41 | 2 hr 16 min | 03/30/2022 | 
 |[Inexcusable Bops](/Playlists/Pretty/1EsozxnoOIr5u6iMfmobfh.md) | 26 | 1 hr 22 min | 06/25/2023 | 
@@ -16,5 +16,5 @@
 |[Salsa Classics](/Playlists/Pretty/37i9dQZF1DX7SeoIaFyTmA.md) | 99 | 8 hr 26 min | 11/12/2023 | 
 |[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 210 | 11 hr 49 min | 05/29/2023 | 
 |[The Best Cover Songs](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 200 | 11 hr 29 min | 09/07/2023 | 
-|[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 25 min | 11/20/2023 | 
+|[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 26 min | 11/24/2023 | 
 |[Today’s Top Hits](/Playlists/Pretty/37i9dQZF1DXcBWIGoYBM5M.md) | 50 | 2 hr 39 min | 11/18/2023 | 
