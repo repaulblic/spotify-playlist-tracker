@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 292 songs, 7 hr 48 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 293 songs, 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -293,6 +293,7 @@
 | 286 | [Everything for the Chance](https://open.spotify.com/track/1anApp5q9QcxC5urLd4sQh) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [Everything for the Chance](https://open.spotify.com/album/0bZyzMwMYnxOrfrLQmz3jF) | 09:55 |
 | 287 | [Ritual - Remaster 2019](https://open.spotify.com/track/5CuOK50eiDqRELEkRSkE6X) | [Vasudeva](https://open.spotify.com/artist/5uvVjg5SwNjvNE4w7HlGJC) | [Life in Cycles (Remaster 2019)](https://open.spotify.com/album/22S3IO6xlQvCrcgVl2Q8hp) | 01:46 |
 | 288 | [Someway/ Somehow](https://open.spotify.com/track/2Rwjf6pPFoZTlwq3T2d9Hv) | [Burning Bones](https://open.spotify.com/artist/2c4IDXIJlWtJ4vXFf9GUrE), [Joshua Zero](https://open.spotify.com/artist/14euJb6yC680b2OfCv2FEt) | [Someway / Somehow](https://open.spotify.com/album/07tc6s0GhIORHcxWFMDk8E) | 03:27 |
-| 289 | [Great White](https://open.spotify.com/track/1prsIP2S9Hu3nmMWqgI7GP) | [Treebeard](https://open.spotify.com/artist/2rybQ8mU0cEKKO3zoVRQ23) | [Great White](https://open.spotify.com/album/5Dc3l1EYvBTxgapOD0CKft) | 07:26 |
-| 290 | [While The World Sleeps](https://open.spotify.com/track/2NQNiHfsuezXdhrPw0mJGi) | [Baulta](https://open.spotify.com/artist/2V7ZQy6ygPbESsYnq7qsuv) | [Another Second Chance](https://open.spotify.com/album/5CgtBBdeEPxNPYpOrwV696) | 08:36 |
-| 291 | [Above the Fog (Pt.2)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 08:46 |
+| 289 | [Above the Fog (Pt.2)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 08:46 |
+| 290 | [Great White](https://open.spotify.com/track/1prsIP2S9Hu3nmMWqgI7GP) | [Treebeard](https://open.spotify.com/artist/2rybQ8mU0cEKKO3zoVRQ23) | [Great White](https://open.spotify.com/album/5Dc3l1EYvBTxgapOD0CKft) | 07:26 |
+| 291 | [While The World Sleeps](https://open.spotify.com/track/2NQNiHfsuezXdhrPw0mJGi) | [Baulta](https://open.spotify.com/artist/2V7ZQy6ygPbESsYnq7qsuv) | [Another Second Chance](https://open.spotify.com/album/5CgtBBdeEPxNPYpOrwV696) | 08:36 |
+| 292 | [New Day](https://open.spotify.com/track/7q8mkSDaRQEoVWBEt0kueu) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [The Half-World](https://open.spotify.com/album/5AxRlrminoDcymOT8YXFi6) | 05:42 |
