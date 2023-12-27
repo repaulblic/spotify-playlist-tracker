@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 293 songs, 7 hr 54 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 294 songs, 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,3 +297,4 @@
 | 290 | [Great White](https://open.spotify.com/track/1prsIP2S9Hu3nmMWqgI7GP) | [Treebeard](https://open.spotify.com/artist/2rybQ8mU0cEKKO3zoVRQ23) | [Great White](https://open.spotify.com/album/5Dc3l1EYvBTxgapOD0CKft) | 07:26 |
 | 291 | [While The World Sleeps](https://open.spotify.com/track/2NQNiHfsuezXdhrPw0mJGi) | [Baulta](https://open.spotify.com/artist/2V7ZQy6ygPbESsYnq7qsuv) | [Another Second Chance](https://open.spotify.com/album/5CgtBBdeEPxNPYpOrwV696) | 08:36 |
 | 292 | [New Day](https://open.spotify.com/track/7q8mkSDaRQEoVWBEt0kueu) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [The Half-World](https://open.spotify.com/album/5AxRlrminoDcymOT8YXFi6) | 05:42 |
+| 293 | [Distance](https://open.spotify.com/track/79ChKWW0eMSN3QNk3V19JD) | [Six Days Of Calm](https://open.spotify.com/artist/5JWSWO9UdShEaknC9zISmo) | [My Little, Safe Place](https://open.spotify.com/album/6m8eajIsqxdILXkX9xca1t) | 10:01 |
