@@ -3,10 +3,10 @@
 |---|---|---|---|
 |[Untitled](/Playlists/Pretty/3MCgdDL3VM4sNHqSVJMDXO.md) | 628 | 1 day 15 hr | 11/07/2023 | 
 |[18](/Playlists/Pretty/7DrLIIvXwjSRTAaQjmZtDC.md) | 32 | 1 hr 48 min | 09/03/2023 | 
-|[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 249 | 3 hr 45 min | 01/12/2024 | 
-|[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 100 | 5 hr 29 min | 01/13/2024 | 
+|[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 247 | 3 hr 30 min | 01/17/2024 | 
+|[big on the internet](/Playlists/Pretty/37i9dQZF1DX5Vy6DFOcx00.md) | 101 | 5 hr 31 min | 01/17/2024 | 
 |[Calm Before the Storm](/Playlists/Pretty/37i9dQZF1DWWTdxbiocWOL.md) | 40 | 4 hr 15 min | 01/09/2024 | 
-|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 36 min | 01/16/2024 | 
+|[Daily Mix 1](/Playlists/Pretty/37i9dQZF1E39Gzb56luQni.md) | 50 | 2 hr 38 min | 01/17/2024 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 06/25/2023 | 
 |[Energy Booster: Indie](/Playlists/Pretty/37i9dQZF1DX8hY56Fq3fM0.md) | 100 | 5 hr 54 min | 01/13/2024 | 
 |[Front Page Indie](/Playlists/Pretty/37i9dQZF1DX2Nc3B70tvx0.md) | 82 | 4 hr 57 min | 01/13/2024 | 
@@ -17,4 +17,4 @@
 |[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 210 | 11 hr 49 min | 12/16/2023 | 
 |[The Best Cover Songs](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 198 | 11 hr 24 min | 11/29/2023 | 
 |[The Essential Ska](/Playlists/Pretty/37i9dQZF1DX7WJ4yDmRK8R.md) | 100 | 5 hr 27 min | 01/08/2024 | 
-|[Today’s Top Hits](/Playlists/Pretty/37i9dQZF1DXcBWIGoYBM5M.md) | 50 | 2 hr 44 min | 01/13/2024 | 
+|[Today’s Top Hits](/Playlists/Pretty/37i9dQZF1DXcBWIGoYBM5M.md) | 50 | 2 hr 46 min | 01/17/2024 | 
