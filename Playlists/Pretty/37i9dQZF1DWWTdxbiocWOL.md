@@ -1,7 +1,7 @@
 ### [Calm Before the Storm](https://open.spotify.com/playlist/37i9dQZF1DWWTdxbiocWOL)
 
 > Thunder is coming.<br>
-> Created by [Spotify](https://open.spotify.com/user/spotify) • 41 songs, 4 hr 15 min
+> Created by [Spotify](https://open.spotify.com/user/spotify) • 41 songs, 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,19 +29,19 @@
 | 22 | [Unmake the Wild Light](https://open.spotify.com/track/7EmaLbhPGnQuw4riUkvlkp) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Wild Light](https://open.spotify.com/album/3a68UJXba5ejXgM5K8BUVF) | 06:23 |
 | 23 | [Job's Lament](https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 08:02 |
 | 24 | [Love in the Void](https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 05:03 |
-| 25 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 06:47 |
-| 26 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 04:25 |
+| 25 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 04:25 |
+| 26 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 06:47 |
 | 27 | [Glow](https://open.spotify.com/track/0LF29vtBiXGfFdLzq0dkdo) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 04:16 |
 | 28 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 06:59 |
 | 29 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 07:36 |
 | 30 | [The Only Moment We Were Alone](https://open.spotify.com/track/52icQiVSIbSG1VOA5FwRdB) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/1Kea0bYAee4cGaMY7KAcMl) | 10:14 |
 | 31 | [Radio Protector](https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Radio Protector](https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg) | 05:28 |
 | 32 | [The Letters We'll Never Send](https://open.spotify.com/track/4HrZYWhVwy6oOzn5BUPjIv) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [The Letters We'll Never Send](https://open.spotify.com/album/1X72RQSH32yVaSlTvrIlsL) | 06:50 |
-| 33 | [Children](https://open.spotify.com/track/6lgUuPNqAPnihWXs66mRVP) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [Children](https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE) | 04:34 |
-| 34 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 06:07 |
+| 33 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 06:07 |
+| 34 | [Children](https://open.spotify.com/track/6lgUuPNqAPnihWXs66mRVP) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [Children](https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE) | 04:34 |
 | 35 | [Safety in Numbers](https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df) | [Jakob](https://open.spotify.com/artist/0SBEeMzVANjUpI6gTQdTic) | [Solace](https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL) | 07:53 |
 | 36 | [From Embrace To Embrace](https://open.spotify.com/track/2AHejGSGKvO4qu4f26uyEa) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 06:23 |
 | 37 | [Alaska](https://open.spotify.com/track/4h0iGeA83sYvsngisIw92M) | [Kwoon](https://open.spotify.com/artist/1ctreRQSlu47UoP3po9zd2) | [Alaska](https://open.spotify.com/album/5hSPs0thai8mK30ivMFHeY) | 06:43 |
 | 38 | [We'll Find the Light in Darkness](https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [We'll Find the Light in Darkness](https://open.spotify.com/album/7JOwJdBWGN0GAKcEf1qanb) | 04:41 |
 | 39 | [Hexis](https://open.spotify.com/track/7hIWzzbMFypsYqwXTUY8K9) | [Carved Into the Sun](https://open.spotify.com/artist/5g6B8BImDEAOJxGNBNJFsJ) | [The Earth Fell Away](https://open.spotify.com/album/6yU7H3vYfeXC6HQJ97oRkj) | 08:40 |
-| 40 | [El Odio. Parte I](https://open.spotify.com/track/0NE9QEMV1ljhNC8WB6UqYC) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [Hex](https://open.spotify.com/album/13NnZjrIhPo1L9W4flldxv) | 08:05 |
+| 40 | [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory (Expanded And Remastered)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 04:52 |
