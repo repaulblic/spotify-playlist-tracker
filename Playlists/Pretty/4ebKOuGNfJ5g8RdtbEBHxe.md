@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 248 songs, 3 hr 30 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 249 songs, 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,3 +252,4 @@
 | 245 | [Distance](https://open.spotify.com/track/79ChKWW0eMSN3QNk3V19JD) | [Six Days Of Calm](https://open.spotify.com/artist/5JWSWO9UdShEaknC9zISmo) | [My Little, Safe Place](https://open.spotify.com/album/6m8eajIsqxdILXkX9xca1t) | 10:01 |
 | 246 | [Lost Soul](https://open.spotify.com/track/0whmXbTG3Q3FrxAjD23bb5) | [At the Grove](https://open.spotify.com/artist/2fTw74RIlSW2P5iwPPt1Em) | [Infinity](https://open.spotify.com/album/0tLQoxF56cx2JWDDZUqyd2) | 04:40 |
 | 247 | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/track/2G7Q744VubtyQbRI8EPkql) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/album/4WwMeHLLuwzQDRHdONy1gd) | 07:23 |
+| 248 | [Trail of Whispering Giants](https://open.spotify.com/track/3xjgL34w9NvQu7qpbMX4Wk) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Trail of Whispering Giants](https://open.spotify.com/album/2CqpbiWGVxDERpA6mNVSqC) | 07:59 |
