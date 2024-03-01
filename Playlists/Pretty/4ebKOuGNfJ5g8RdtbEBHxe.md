@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 249 songs, 3 hr 38 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 249 songs, 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,14 +242,14 @@
 | 235 | [Awakening](https://open.spotify.com/track/6E7OJ7zDxCf7rkkwJ1ceD9) | [Six Days Of Calm](https://open.spotify.com/artist/5JWSWO9UdShEaknC9zISmo) | [Awakening](https://open.spotify.com/album/1WsnsN3JV8dyi6RCZlxmlK) | 06:21 |
 | 236 | [We Are](https://open.spotify.com/track/05wxgFgRZcMBGge15ysGdo) | [Lost in Kiev](https://open.spotify.com/artist/4VBq7oPj5Yi4Yfx4hopGY3) | [Rupture](https://open.spotify.com/album/4pmfgV1bCb8AsfrXbH7JSc) | 06:49 |
 | 237 | [Jack](https://open.spotify.com/track/5I5eS9yKsi5B1ZrpOpg3RR) | [Monkey3](https://open.spotify.com/artist/31GFg2x20JkksUlQxN9BMe) | [39 Laps](https://open.spotify.com/album/7IUq84Pvcb2FIWddTHwWW4) | 09:09 |
-| 238 | [Better By Now](https://open.spotify.com/track/0642nKLqqVsMrhu43hO6wf) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [Better By Now](https://open.spotify.com/album/2ENIgkw7iFWhWPRK8WvSeJ) | 01:59 |
-| 239 | [Aurora](https://open.spotify.com/track/0rT3hOa2l4XhMsjCYdV2Dt) | [Delayed Schedules](https://open.spotify.com/artist/2lVklP2whG8hFeQnfenH2k) | [M.E.L.T.](https://open.spotify.com/album/5BNKeKlEr9nIHMSyTfbH4b) | 03:45 |
-| 240 | [Everything for the Chance](https://open.spotify.com/track/1anApp5q9QcxC5urLd4sQh) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [Everything for the Chance](https://open.spotify.com/album/0bZyzMwMYnxOrfrLQmz3jF) | 09:55 |
-| 241 | [Ritual - Remaster 2019](https://open.spotify.com/track/5CuOK50eiDqRELEkRSkE6X) | [Vasudeva](https://open.spotify.com/artist/5uvVjg5SwNjvNE4w7HlGJC) | [Life in Cycles (Remaster 2019)](https://open.spotify.com/album/22S3IO6xlQvCrcgVl2Q8hp) | 01:46 |
-| 242 | [Above the Fog (Pt.2)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 08:46 |
-| 243 | [Great White](https://open.spotify.com/track/1prsIP2S9Hu3nmMWqgI7GP) | [Treebeard](https://open.spotify.com/artist/2rybQ8mU0cEKKO3zoVRQ23) | [Great White](https://open.spotify.com/album/5Dc3l1EYvBTxgapOD0CKft) | 07:26 |
-| 244 | [New Day](https://open.spotify.com/track/7q8mkSDaRQEoVWBEt0kueu) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [The Half-World](https://open.spotify.com/album/5AxRlrminoDcymOT8YXFi6) | 05:42 |
-| 245 | [Distance](https://open.spotify.com/track/79ChKWW0eMSN3QNk3V19JD) | [Six Days Of Calm](https://open.spotify.com/artist/5JWSWO9UdShEaknC9zISmo) | [My Little, Safe Place](https://open.spotify.com/album/6m8eajIsqxdILXkX9xca1t) | 10:01 |
-| 246 | [Lost Soul](https://open.spotify.com/track/0whmXbTG3Q3FrxAjD23bb5) | [At the Grove](https://open.spotify.com/artist/2fTw74RIlSW2P5iwPPt1Em) | [Infinity](https://open.spotify.com/album/0tLQoxF56cx2JWDDZUqyd2) | 04:40 |
-| 247 | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/track/2G7Q744VubtyQbRI8EPkql) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/album/4WwMeHLLuwzQDRHdONy1gd) | 07:23 |
-| 248 | [Trail of Whispering Giants](https://open.spotify.com/track/3xjgL34w9NvQu7qpbMX4Wk) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Trail of Whispering Giants](https://open.spotify.com/album/2CqpbiWGVxDERpA6mNVSqC) | 07:59 |
+| 238 | [Aurora](https://open.spotify.com/track/0rT3hOa2l4XhMsjCYdV2Dt) | [Delayed Schedules](https://open.spotify.com/artist/2lVklP2whG8hFeQnfenH2k) | [M.E.L.T.](https://open.spotify.com/album/5BNKeKlEr9nIHMSyTfbH4b) | 03:45 |
+| 239 | [Everything for the Chance](https://open.spotify.com/track/1anApp5q9QcxC5urLd4sQh) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [Everything for the Chance](https://open.spotify.com/album/0bZyzMwMYnxOrfrLQmz3jF) | 09:55 |
+| 240 | [Ritual - Remaster 2019](https://open.spotify.com/track/5CuOK50eiDqRELEkRSkE6X) | [Vasudeva](https://open.spotify.com/artist/5uvVjg5SwNjvNE4w7HlGJC) | [Life in Cycles (Remaster 2019)](https://open.spotify.com/album/22S3IO6xlQvCrcgVl2Q8hp) | 01:46 |
+| 241 | [Above the Fog (Pt.2)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 08:46 |
+| 242 | [Great White](https://open.spotify.com/track/1prsIP2S9Hu3nmMWqgI7GP) | [Treebeard](https://open.spotify.com/artist/2rybQ8mU0cEKKO3zoVRQ23) | [Great White](https://open.spotify.com/album/5Dc3l1EYvBTxgapOD0CKft) | 07:26 |
+| 243 | [New Day](https://open.spotify.com/track/7q8mkSDaRQEoVWBEt0kueu) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [The Half-World](https://open.spotify.com/album/5AxRlrminoDcymOT8YXFi6) | 05:42 |
+| 244 | [Distance](https://open.spotify.com/track/79ChKWW0eMSN3QNk3V19JD) | [Six Days Of Calm](https://open.spotify.com/artist/5JWSWO9UdShEaknC9zISmo) | [My Little, Safe Place](https://open.spotify.com/album/6m8eajIsqxdILXkX9xca1t) | 10:01 |
+| 245 | [Lost Soul](https://open.spotify.com/track/0whmXbTG3Q3FrxAjD23bb5) | [At the Grove](https://open.spotify.com/artist/2fTw74RIlSW2P5iwPPt1Em) | [Infinity](https://open.spotify.com/album/0tLQoxF56cx2JWDDZUqyd2) | 04:40 |
+| 246 | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/track/2G7Q744VubtyQbRI8EPkql) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/album/4WwMeHLLuwzQDRHdONy1gd) | 07:23 |
+| 247 | [Trail of Whispering Giants](https://open.spotify.com/track/3xjgL34w9NvQu7qpbMX4Wk) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Trail of Whispering Giants](https://open.spotify.com/album/2CqpbiWGVxDERpA6mNVSqC) | 07:59 |
+| 248 | [Superblidiy](https://open.spotify.com/track/3ZuybOlI6sQzYX8KC5WJ4n) | [THE DOLPH LUNDGREN](https://open.spotify.com/artist/55ncJfWVdTdrRdDzq3FLq3) | [Strange Dogs: What to Do](https://open.spotify.com/album/4JI1f20zWiJPmdcfR7KLaH) | 08:37 |
