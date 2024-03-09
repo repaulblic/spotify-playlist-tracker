@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 249 songs, 3 hr 45 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 250 songs, 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,3 +253,4 @@
 | 246 | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/track/2G7Q744VubtyQbRI8EPkql) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/album/4WwMeHLLuwzQDRHdONy1gd) | 07:23 |
 | 247 | [Trail of Whispering Giants](https://open.spotify.com/track/3xjgL34w9NvQu7qpbMX4Wk) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Trail of Whispering Giants](https://open.spotify.com/album/2CqpbiWGVxDERpA6mNVSqC) | 07:59 |
 | 248 | [Superblidiy](https://open.spotify.com/track/3ZuybOlI6sQzYX8KC5WJ4n) | [THE DOLPH LUNDGREN](https://open.spotify.com/artist/55ncJfWVdTdrRdDzq3FLq3) | [Strange Dogs: What to Do](https://open.spotify.com/album/4JI1f20zWiJPmdcfR7KLaH) | 08:37 |
+| 249 | [Monarch](https://open.spotify.com/track/6SiKiXMXBVzQk9j7d3vLaC) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [Monarch](https://open.spotify.com/album/1eXM5EeEGXi5XIWNotT8Z4) | 03:14 |
