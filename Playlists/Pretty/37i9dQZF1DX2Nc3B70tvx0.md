@@ -1,6 +1,6 @@
 ### [Front Page Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> The best in modern indie. Cover: St. Vincent<br>
+> The best in modern indie. Cover: Waxahatchee<br>
 > Created by [Spotify](https://open.spotify.com/user/spotify) • 101 songs, 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
