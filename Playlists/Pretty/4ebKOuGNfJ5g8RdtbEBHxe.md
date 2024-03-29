@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 248 songs, 3 hr 40 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 249 songs, 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,3 +252,4 @@
 | 245 | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/track/2G7Q744VubtyQbRI8EPkql) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [As the Sea Breeze Hits My Lungs](https://open.spotify.com/album/4WwMeHLLuwzQDRHdONy1gd) | 07:23 |
 | 246 | [Trail of Whispering Giants](https://open.spotify.com/track/3xjgL34w9NvQu7qpbMX4Wk) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Trail of Whispering Giants](https://open.spotify.com/album/2CqpbiWGVxDERpA6mNVSqC) | 07:59 |
 | 247 | [Monarch](https://open.spotify.com/track/6SiKiXMXBVzQk9j7d3vLaC) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [Monarch](https://open.spotify.com/album/1eXM5EeEGXi5XIWNotT8Z4) | 03:14 |
+| 248 | [Departure](https://open.spotify.com/track/5JzLOUeK8w5fuQI0FnQNVX) | [Atonalita](https://open.spotify.com/artist/2CLaRQ53mA9nJsptXAHWQP), [The Glass Pavilion](https://open.spotify.com/artist/6jv5KVHdtAhLkPbySK9OF4) | [Collaboration of Souls](https://open.spotify.com/album/4eVXScCc0imeEIIYE0UKf8) | 11:12 |
