@@ -6,8 +6,8 @@
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Your Hand In Mine - Remastered](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place (Anniversary Edition)](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 08:17 |
-| 2 | [Triad](https://open.spotify.com/track/2D9rd6TIpqmDkog5Mx8kxl) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 06:35 |
-| 3 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 04:15 |
+| 2 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 04:15 |
+| 3 | [Triad](https://open.spotify.com/track/2D9rd6TIpqmDkog5Mx8kxl) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 06:35 |
 | 4 | [My Only Swerving](https://open.spotify.com/track/4q26ViixkilRLjl1MdLABS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 05:14 |
 | 5 | [They Move on Tracks of Never-Ending Light](https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 06:56 |
 | 6 | [Anything You Synthesize - Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 04:08 |
