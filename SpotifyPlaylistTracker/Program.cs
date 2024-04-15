@@ -47,8 +47,7 @@ namespace SpotifyPlaylistTracker
 
                 request = new RestRequest($"{playlistURL}/{id}", Method.GET);
                 request.AddHeader("Authorization", $"Bearer {response.Data.access_token}");
-                request.AddParameter("fields", "id,name,description,owner,snapshot_id,external_urls,tracks.items(added_at,track.name, track.track_number,track.id,track.album.name,track.duration_ms,track.album.external_urls.spotify,track.artists(name,external_urls),track.external_urls.spotify),tracks.total,tracks.next,tracks.previous");
-
+                
                 IRestResponse<Playlists> playlistResponse = restClient.Get<Playlists>(request);
 
                 if (!playlistResponse.IsSuccessful)
