@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 226 songs, 1 hr 18 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 228 songs, 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,3 +230,5 @@
 | 223 | [Rat Waltz](https://open.spotify.com/track/5LHIy2w8m3pTyK1ujrfsep) | [THE DOLPH LUNDGREN](https://open.spotify.com/artist/55ncJfWVdTdrRdDzq3FLq3) | [Strange Dogs: What to Do](https://open.spotify.com/album/4JI1f20zWiJPmdcfR7KLaH) | 04:23 |
 | 224 | [When It Rains I Feel Better](https://open.spotify.com/track/7Lg8fPO6qcTBKAC1OlhSZ7) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [When It Rains I Feel Better](https://open.spotify.com/album/23BQC1gaPaNraBIR6ft1ZZ) | 09:00 |
 | 225 | [Digital Flesh](https://open.spotify.com/track/71pA7Men9dSygZvC5l9sTF) | [Lost in Kiev](https://open.spotify.com/artist/4VBq7oPj5Yi4Yfx4hopGY3) | [Rupture](https://open.spotify.com/album/4pmfgV1bCb8AsfrXbH7JSc) | 06:29 |
+| 226 | [Watching the World Fall Apart Together](https://open.spotify.com/track/3I57fNtYdMrdLOcwGeXP8J) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA), [Atonalita](https://open.spotify.com/artist/2CLaRQ53mA9nJsptXAHWQP), [Jason Keisling](https://open.spotify.com/artist/11BnYiy4JkEXwZUVGBVnRH) | [The Lost Widow](https://open.spotify.com/album/0xWQ6Rfl3VzV0p80QG8Xd3) | 07:02 |
+| 227 | [Resting for Oblivion](https://open.spotify.com/track/1oSC9CSRdTZceqPz0RH8PX) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [The Lost Widow](https://open.spotify.com/album/0xWQ6Rfl3VzV0p80QG8Xd3) | 04:22 |
