@@ -1,7 +1,7 @@
 ### [Spring Cleaning 🧽 ](https://open.spotify.com/playlist/3R4JUoD8HBVxgAXGRHp6Q9)
 
 > 
-> Created by [Ellie Lane](https://open.spotify.com/user/ellie_lane96) • 215 songs, 12 hr 4 min
+> Created by [](https://open.spotify.com/user/null) • 215 songs, 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
