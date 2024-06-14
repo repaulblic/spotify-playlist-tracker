@@ -1,7 +1,7 @@
 ### [](https://open.spotify.com/playlist/3MCgdDL3VM4sNHqSVJMDXO)
 
 > 
-> Created by [](https://open.spotify.com/user/null) • 629 songs, 1 day 15 hr
+> Created by [nstelter25](https://open.spotify.com/user/nstelter25) • 629 songs, 1 day 15 hr
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
