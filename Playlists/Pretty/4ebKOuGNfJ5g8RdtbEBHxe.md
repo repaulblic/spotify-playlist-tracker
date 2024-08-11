@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 195 songs, 22 hr 4 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 196 songs, 22 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,5 @@
 | 191 | [Where the Light Bends](https://open.spotify.com/track/0wX6GWmD4J9j9boom1SdrV) | [Shy, Low](https://open.spotify.com/artist/1ntGppzJ3zwBDXx003EydC) | [Snake Behind the Sun](https://open.spotify.com/album/2tzIKVcv5DHWXiBujtmc4A) | 08:22 |
 | 192 | [Eurotrash](https://open.spotify.com/track/1MEByhy4FzTDJ9ZYrDeanB) | [Jason Achilles](https://open.spotify.com/artist/6ZmdI39EPLuZ7tcnaCIMnQ) | [Eurotrash](https://open.spotify.com/album/1OckDqyJJ4OxRlRvLkfyCy) | 06:38 |
 | 193 | [Moonlight Dream](https://open.spotify.com/track/14kn7pGDcRGxqsGQ0Stk3L) | [Anyone, Anywhere](https://open.spotify.com/artist/5JdGnmkv1FqLo8Yc3ttOQe) | [The Dying Art of Imperfection](https://open.spotify.com/album/7hGWTCiaExRnVAk4I8mZWd) | 06:53 |
-| 194 | [Mainstays and Shades of Gray](https://open.spotify.com/track/4iu3flrVB9QwwZEA36eCzf) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Mainstays and Shades of Gray](https://open.spotify.com/album/62toKszjMzLtPGyJiy33t5) | 05:44 |
+| 194 | [Journey](https://open.spotify.com/track/56KtFvImAjPV119ugsCJY1) | [Laconicmind](https://open.spotify.com/artist/3u3XAKMdaE7scHiuYCjdXp) | [Journey](https://open.spotify.com/album/1okN4kIlIx9ovAd8jyMZ6h) | 05:04 |
+| 195 | [Mainstays and Shades of Gray](https://open.spotify.com/track/4iu3flrVB9QwwZEA36eCzf) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Mainstays and Shades of Gray](https://open.spotify.com/album/62toKszjMzLtPGyJiy33t5) | 05:44 |
