@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 197 songs, 22 hr 14 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 198 songs, 22 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,3 +201,4 @@
 | 194 | [Journey](https://open.spotify.com/track/56KtFvImAjPV119ugsCJY1) | [Laconicmind](https://open.spotify.com/artist/3u3XAKMdaE7scHiuYCjdXp) | [Journey](https://open.spotify.com/album/1okN4kIlIx9ovAd8jyMZ6h) | 05:04 |
 | 195 | [Mainstays and Shades of Gray](https://open.spotify.com/track/4iu3flrVB9QwwZEA36eCzf) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Mainstays and Shades of Gray](https://open.spotify.com/album/62toKszjMzLtPGyJiy33t5) | 05:44 |
 | 196 | [Rat Waltz](https://open.spotify.com/track/5LHIy2w8m3pTyK1ujrfsep) | [THE DOLPH LUNDGREN](https://open.spotify.com/artist/55ncJfWVdTdrRdDzq3FLq3) | [Strange Dogs: What to Do](https://open.spotify.com/album/4JI1f20zWiJPmdcfR7KLaH) | 04:23 |
+| 197 | [Illuminate My Heart, My Darling!](https://open.spotify.com/track/4F6bGo3jphwegafBgNPZE4) | [Yndi Halda](https://open.spotify.com/artist/6fJ7oFpKH1xy1xE9Xx1vFJ) | [Enjoy Eternal Bliss](https://open.spotify.com/album/3V2hqMSF0oUvqSbSOkcx4G) | 17:31 |
