@@ -1,7 +1,7 @@
 ### [big on the internet](https://open.spotify.com/playlist/37i9dQZF1DX5Vy6DFOcx00)
 
 > iykyk<br>
-> Created by [Spotify](https://open.spotify.com/user/spotify) • 51 songs, 2 hr 31 min
+> Created by [Spotify](https://open.spotify.com/user/spotify) • 51 songs, 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@
 | 10 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 04:21 |
 | 11 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 02:37 |
 | 12 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 03:00 |
-| 13 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 02:23 |
-| 14 | [DIE FOR ME](https://open.spotify.com/track/0qKKAOF4kezKlvtyYyv12C) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DIE FOR ME](https://open.spotify.com/album/1rlrlI6iBRK1WV7KZaEhtA) | 03:26 |
-| 15 | [The Love Club](https://open.spotify.com/track/2HotTAoFiOYTeMZkNs1Ces) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 03:21 |
-| 16 | [Nasty Dog](https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln) | [Sir Mix-A-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Chief Boot Knocka](https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP) | 04:00 |
-| 17 | [Under Your Spell](https://open.spotify.com/track/2mj2HiJ3kJQ4mdCik25ea1) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Under Your Spell / Don't You Feel](https://open.spotify.com/album/28D6gMlaQ6wci0TgSScoRR) | 03:38 |
-| 18 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 03:10 |
-| 19 | [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 01:59 |
-| 20 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 03:32 |
+| 13 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 02:59 |
+| 14 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 02:23 |
+| 15 | [DIE FOR ME](https://open.spotify.com/track/0qKKAOF4kezKlvtyYyv12C) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DIE FOR ME](https://open.spotify.com/album/1rlrlI6iBRK1WV7KZaEhtA) | 03:26 |
+| 16 | [The Love Club](https://open.spotify.com/track/2HotTAoFiOYTeMZkNs1Ces) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 03:21 |
+| 17 | [Nasty Dog](https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln) | [Sir Mix-A-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Chief Boot Knocka](https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP) | 04:00 |
+| 18 | [Under Your Spell](https://open.spotify.com/track/2mj2HiJ3kJQ4mdCik25ea1) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Under Your Spell / Don't You Feel](https://open.spotify.com/album/28D6gMlaQ6wci0TgSScoRR) | 03:38 |
+| 19 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 03:10 |
+| 20 | [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 01:59 |
 | 21 | [Like a Prayer - Choir Version From “Deadpool & Wolverine”](https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo) | [I'll Take You There Choir](https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne) | [Deadpool & Wolverine: Madonna's "Like a Prayer" EP](https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0) | 02:32 |
 | 22 | [Mamushi (feat. Yuki Chiba)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 02:36 |
 | 23 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 02:51 |
