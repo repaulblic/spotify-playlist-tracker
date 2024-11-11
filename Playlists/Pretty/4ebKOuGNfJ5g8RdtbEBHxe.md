@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 201 songs, 22 hr 48 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 202 songs, 22 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,3 +205,4 @@
 | 198 | [Mainstays and Shades of Gray](https://open.spotify.com/track/4iu3flrVB9QwwZEA36eCzf) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Mainstays and Shades of Gray](https://open.spotify.com/album/62toKszjMzLtPGyJiy33t5) | 05:44 |
 | 199 | [Rat Waltz](https://open.spotify.com/track/5LHIy2w8m3pTyK1ujrfsep) | [THE DOLPH LUNDGREN](https://open.spotify.com/artist/55ncJfWVdTdrRdDzq3FLq3) | [Strange Dogs: What to Do](https://open.spotify.com/album/4JI1f20zWiJPmdcfR7KLaH) | 04:23 |
 | 200 | [Illuminate My Heart, My Darling!](https://open.spotify.com/track/4F6bGo3jphwegafBgNPZE4) | [Yndi Halda](https://open.spotify.com/artist/6fJ7oFpKH1xy1xE9Xx1vFJ) | [Enjoy Eternal Bliss](https://open.spotify.com/album/3V2hqMSF0oUvqSbSOkcx4G) | 17:31 |
+| 201 | [Infinitum](https://open.spotify.com/track/7yUQ3CvaA9okK2PWMECW4h) | [Exxasens](https://open.spotify.com/artist/7935eVYpj7jQM3mRJ3kGeX) | [INFINITUM](https://open.spotify.com/album/203ebVoUxRZOJ5HAEZtYB8) | 08:55 |
