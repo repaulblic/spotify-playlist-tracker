@@ -1,7 +1,7 @@
 ### [PUNK COVERS](https://open.spotify.com/playlist/7qYDPkTgFw2Z9goeMSgrVC)
 
 > Our Favorite Cover Songs From Some Of Our Favorite Bands - Punk, Metal,  Pop Punk, Alternative, Rock, Indie &amp; More <br>
-> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 139 songs, 7 hr 53 min
+> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 140 songs, 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,3 +143,4 @@
 | 136 | [I Wan'na Be Like You (The Monkey Song) - From "The Jungle Book"](https://open.spotify.com/track/6zMNLIFrUss4qklFUdpzjp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 03:19 |
 | 137 | [Rainbow Connection - From "The Muppet Movie"](https://open.spotify.com/track/37guUG3IuyJBo0poxQ54gc) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 03:24 |
 | 138 | [Black Hole Sun](https://open.spotify.com/track/64YmH8sLBdJV8pJyq6yGF2) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [Punk Goes 90's](https://open.spotify.com/album/41GnyK2xh3zQsw4Oc79Dpm) | 04:31 |
+| 139 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 03:53 |
