@@ -52,9 +52,9 @@ namespace SpotifyPlaylistTracker
 
                 if (!playlistResponse.IsSuccessful)
                 {
-                    Console.WriteLine("Get Playlist error");
+                    Console.WriteLine($"Get Playlist error. ID: {playlistId}");
                     Console.WriteLine(playlistResponse.Content);
-                    return;
+                    continue;
                 }
 
                 Playlists playlist = playlistResponse.Data;
