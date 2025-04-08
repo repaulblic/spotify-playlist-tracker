@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 217 songs, 0 hr 42 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 216 songs, 0 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,10 +214,9 @@
 | 207 | [Zaris](https://open.spotify.com/track/5PscMMBJQEosxLB6UPVJIe) | [Mooncake](https://open.spotify.com/artist/6DKVucXliE7U2RV52HF1YL) | [Zaris / Cast the Route](https://open.spotify.com/album/5Lo6bBTBkf9VPSepwJDV5X) | 05:15 |
 | 208 | [Where the Light Bends](https://open.spotify.com/track/0wX6GWmD4J9j9boom1SdrV) | [Shy, Low](https://open.spotify.com/artist/1ntGppzJ3zwBDXx003EydC) | [Snake Behind the Sun](https://open.spotify.com/album/2tzIKVcv5DHWXiBujtmc4A) | 08:22 |
 | 209 | [Moonlight Dream](https://open.spotify.com/track/14kn7pGDcRGxqsGQ0Stk3L) | [Anyone, Anywhere](https://open.spotify.com/artist/5JdGnmkv1FqLo8Yc3ttOQe) | [The Dying Art of Imperfection](https://open.spotify.com/album/7hGWTCiaExRnVAk4I8mZWd) | 06:53 |
-| 210 | [Journey](https://open.spotify.com/track/56KtFvImAjPV119ugsCJY1) | [Laconicmind](https://open.spotify.com/artist/3u3XAKMdaE7scHiuYCjdXp) | [Journey](https://open.spotify.com/album/1okN4kIlIx9ovAd8jyMZ6h) | 05:04 |
-| 211 | [Mainstays and Shades of Gray](https://open.spotify.com/track/4iu3flrVB9QwwZEA36eCzf) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Mainstays and Shades of Gray](https://open.spotify.com/album/62toKszjMzLtPGyJiy33t5) | 05:44 |
-| 212 | [Illuminate My Heart, My Darling!](https://open.spotify.com/track/4F6bGo3jphwegafBgNPZE4) | [Yndi Halda](https://open.spotify.com/artist/6fJ7oFpKH1xy1xE9Xx1vFJ) | [Enjoy Eternal Bliss](https://open.spotify.com/album/3V2hqMSF0oUvqSbSOkcx4G) | 17:31 |
-| 213 | [Rat Waltz](https://open.spotify.com/track/5LHIy2w8m3pTyK1ujrfsep) | [THE DOLPH LUNDGREN](https://open.spotify.com/artist/55ncJfWVdTdrRdDzq3FLq3) | [Strange Dogs: What to Do](https://open.spotify.com/album/4JI1f20zWiJPmdcfR7KLaH) | 04:23 |
-| 214 | [Infinitum](https://open.spotify.com/track/7yUQ3CvaA9okK2PWMECW4h) | [Exxasens](https://open.spotify.com/artist/7935eVYpj7jQM3mRJ3kGeX), [PSICOTRÒNIC SCAPES](https://open.spotify.com/artist/0p9WQDivK82UhBPfMD9YXl) | [INFINITUM](https://open.spotify.com/album/203ebVoUxRZOJ5HAEZtYB8) | 08:55 |
-| 215 | [Something Strange and Eternal](https://open.spotify.com/track/2r2NV86DH8Cqd1gWcQ3YOK) | [Black Narcissus](https://open.spotify.com/artist/6HeMBMDzJrHru47Q9wwVa3) | [Something Strange and Eternal](https://open.spotify.com/album/1KYAPZDKJd6XMkkfcoM0N0) | 07:13 |
-| 216 | [Dorsia](https://open.spotify.com/track/4qiumQlvxbqk3NYtkZ8Aj9) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Nightswimming](https://open.spotify.com/album/03ZB5B55OHyjoNmN6SXT8v) | 07:18 |
+| 210 | [Mainstays and Shades of Gray](https://open.spotify.com/track/4iu3flrVB9QwwZEA36eCzf) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Mainstays and Shades of Gray](https://open.spotify.com/album/62toKszjMzLtPGyJiy33t5) | 05:44 |
+| 211 | [Illuminate My Heart, My Darling!](https://open.spotify.com/track/4F6bGo3jphwegafBgNPZE4) | [Yndi Halda](https://open.spotify.com/artist/6fJ7oFpKH1xy1xE9Xx1vFJ) | [Enjoy Eternal Bliss](https://open.spotify.com/album/3V2hqMSF0oUvqSbSOkcx4G) | 17:31 |
+| 212 | [Rat Waltz](https://open.spotify.com/track/5LHIy2w8m3pTyK1ujrfsep) | [THE DOLPH LUNDGREN](https://open.spotify.com/artist/55ncJfWVdTdrRdDzq3FLq3) | [Strange Dogs: What to Do](https://open.spotify.com/album/4JI1f20zWiJPmdcfR7KLaH) | 04:23 |
+| 213 | [Infinitum](https://open.spotify.com/track/7yUQ3CvaA9okK2PWMECW4h) | [Exxasens](https://open.spotify.com/artist/7935eVYpj7jQM3mRJ3kGeX), [PSICOTRÒNIC SCAPES](https://open.spotify.com/artist/0p9WQDivK82UhBPfMD9YXl) | [INFINITUM](https://open.spotify.com/album/203ebVoUxRZOJ5HAEZtYB8) | 08:55 |
+| 214 | [Something Strange and Eternal](https://open.spotify.com/track/2r2NV86DH8Cqd1gWcQ3YOK) | [Black Narcissus](https://open.spotify.com/artist/6HeMBMDzJrHru47Q9wwVa3) | [Something Strange and Eternal](https://open.spotify.com/album/1KYAPZDKJd6XMkkfcoM0N0) | 07:13 |
+| 215 | [Dorsia](https://open.spotify.com/track/4qiumQlvxbqk3NYtkZ8Aj9) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Nightswimming](https://open.spotify.com/album/03ZB5B55OHyjoNmN6SXT8v) | 07:18 |
