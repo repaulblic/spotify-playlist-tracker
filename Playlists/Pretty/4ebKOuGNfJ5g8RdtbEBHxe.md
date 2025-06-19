@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 225 songs, 1 hr 31 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 226 songs, 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,3 +229,4 @@
 | 222 | [Dorsia](https://open.spotify.com/track/4qiumQlvxbqk3NYtkZ8Aj9) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Nightswimming](https://open.spotify.com/album/03ZB5B55OHyjoNmN6SXT8v) | 07:18 |
 | 223 | [Twilight](https://open.spotify.com/track/223sjpgHVOeHsSmvJZ3RE7) | [Clouds Indoor](https://open.spotify.com/artist/5p1Y1a5nA5iYrGhgTG8egU) | [Twilight](https://open.spotify.com/album/4RBt5e0WLpaq1Wkpdsu1sl) | 04:54 |
 | 224 | [Blodmåne](https://open.spotify.com/track/04gNwyT7MWvN5QslN9qZTY) | [Sire](https://open.spotify.com/artist/7g4utwKUY3R2Gg6RM9j91Z) | [Koyot](https://open.spotify.com/album/5TAsTMGoIyeriQP5kzSk9A) | 06:14 |
+| 225 | [These Depths Were Always Meant for Both of Us](https://open.spotify.com/track/6Gfnban03musJ9FJiRB5A2) | [A Swarm Of The Sun](https://open.spotify.com/artist/0WYYIH0BaJCvkYFIO5AVTN) | [The Rifts](https://open.spotify.com/album/6wiiNSWM18tZUTfZS68TPi) | 10:26 |
