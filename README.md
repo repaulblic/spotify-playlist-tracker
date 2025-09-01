@@ -9,5 +9,5 @@
 |[Inexcusable Bops](/Playlists/Pretty/1EsozxnoOIr5u6iMfmobfh.md) | 27 | 1 hr 25 min | 07/02/2024 | 
 |[PUNK COVERS](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 145 | 8 hr 16 min | 08/28/2025 | 
 |[Salsa](/Playlists/Pretty/0o2GXyncPfGLmGSiOqSINx.md) | 311 | 0 hr 6 min | 06/08/2025 | 
-|[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 214 | 12 hr 7 min | 08/31/2025 | 
+|[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 214 | 12 hr 4 min | 09/01/2025 | 
 |[jazz music to play in the background while cooking](/Playlists/Pretty/5TrM2C1a4McxIlFMgxgEHi.md) | 48 | 2 hr 27 min | 12/15/2024 | 
