@@ -1,7 +1,7 @@
 ### [PUNK COVERS](https://open.spotify.com/playlist/7qYDPkTgFw2Z9goeMSgrVC)
 
 > Our Favorite Cover Songs From Some Of Our Favorite Bands - Punk, Metal,  Pop Punk, Alternative, Rock, Indie &amp; More <br>
-> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 146 songs, 8 hr 16 min
+> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 144 songs, 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,10 +143,8 @@
 | 136 | [Supertouch](https://open.spotify.com/track/4ipf61uIAgDmbgPh0g2AAC) | [Outbreak](https://open.spotify.com/artist/6dDRmYAIiJDFVgwiKerUde) | [Eaten Alive](https://open.spotify.com/album/4ukLL5jLylC6BKiL7ySR0k) | 01:30 |
 | 137 | [Sin in My Heart](https://open.spotify.com/track/0ta8WwyYAL2BOc3PgRu4Wi) | [Gulch](https://open.spotify.com/artist/2EwbxYWItpLOIDc3TFHve6) | [Impenetrable Cerebral Fortress](https://open.spotify.com/album/4bfyHcprcCpzLWqgOsAu4r) | 03:24 |
 | 138 | [Another Girl Another Planet](https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q) | [blink-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 02:41 |
-| 139 | [Losing My Religion](https://open.spotify.com/track/4kl9TOroSishgTL2tAPA7l) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac), [Songs That Saved My Life](https://open.spotify.com/artist/5iSHjwO8V2QSAerrusSe3i) | [Songs That Saved My Life](https://open.spotify.com/album/7Dj6cHlK5TOe3s6hdUkxSQ) | 04:29 |
-| 140 | [Every Breath You Take](https://open.spotify.com/track/6vSrveqaBMifDzS9yirNQh) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [¡Policia! a Tribute to the Police](https://open.spotify.com/album/5GE0TFqdEApgbBmFrWh7XS) | 05:58 |
-| 141 | [Toxic](https://open.spotify.com/track/2yBYn36F2CzE1PI4fZAOGV) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [Punk Goes Pop, Vol. 2](https://open.spotify.com/album/4WM9SjaD45ceIPV8eUloP8) | 03:20 |
-| 142 | [I Wan'na Be Like You (The Monkey Song) - From "The Jungle Book"](https://open.spotify.com/track/6zMNLIFrUss4qklFUdpzjp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 03:19 |
-| 143 | [Rainbow Connection - From "The Muppet Movie"](https://open.spotify.com/track/37guUG3IuyJBo0poxQ54gc) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 03:24 |
-| 144 | [Black Hole Sun](https://open.spotify.com/track/64YmH8sLBdJV8pJyq6yGF2) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [Punk Goes 90's](https://open.spotify.com/album/41GnyK2xh3zQsw4Oc79Dpm) | 04:31 |
-| 145 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 03:53 |
+| 139 | [Every Breath You Take](https://open.spotify.com/track/6vSrveqaBMifDzS9yirNQh) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [¡Policia! a Tribute to the Police](https://open.spotify.com/album/5GE0TFqdEApgbBmFrWh7XS) | 05:58 |
+| 140 | [Toxic](https://open.spotify.com/track/2yBYn36F2CzE1PI4fZAOGV) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [Punk Goes Pop, Vol. 2](https://open.spotify.com/album/4WM9SjaD45ceIPV8eUloP8) | 03:20 |
+| 141 | [I Wan'na Be Like You (The Monkey Song) - From "The Jungle Book"](https://open.spotify.com/track/6zMNLIFrUss4qklFUdpzjp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 03:19 |
+| 142 | [Black Hole Sun](https://open.spotify.com/track/64YmH8sLBdJV8pJyq6yGF2) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [Punk Goes 90's](https://open.spotify.com/album/41GnyK2xh3zQsw4Oc79Dpm) | 04:31 |
+| 143 | [A forest](https://open.spotify.com/track/4yFtOel6HX7GVelWa3nMgj) | [Los Viejos](https://open.spotify.com/artist/3AS8HtsWG2bIRM7LqI8DUk) | [A forest](https://open.spotify.com/album/4lCX4J6yqCn2kIZlVrVlQA) | 04:27 |
