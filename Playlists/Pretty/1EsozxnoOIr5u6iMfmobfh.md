@@ -1,7 +1,7 @@
 ### [Inexcusable Bops](https://open.spotify.com/playlist/1EsozxnoOIr5u6iMfmobfh)
 
 > 
-> Created by [Hank Green](https://open.spotify.com/user/12159652660) • 28 songs, 1 hr 25 min
+> Created by [Hank Green](https://open.spotify.com/user/12159652660) • 29 songs, 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,3 +32,4 @@
 | 25 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 03:58 |
 | 26 | [Pathaka Guddi - Drill Remix](https://open.spotify.com/track/2dEhqOahFZgiCFA3V3M9Lp) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV), [Syned Beats](https://open.spotify.com/artist/1gKICB8ubSPQoWNCFZyrsT) | [Pathaka Guddi (Drill Remix)](https://open.spotify.com/album/7jyclFOozqAnRM8kb3FH9J) | 03:09 |
 | 27 | [Malatanghulu](https://open.spotify.com/track/7wAEsALVvqyTNZAoTuChV1) | [서이브](https://open.spotify.com/artist/3Sl8JLbi0kVTxW9Yh6AusV) | [Malatanghulu](https://open.spotify.com/album/4P75bhbZJEMUVlRW70USlf) | 02:35 |
+| 28 | [I Get Hurt](https://open.spotify.com/track/2x1aOd69h5iQKppOibsU4q) | [Victor Jones](https://open.spotify.com/artist/3qWUrXaaCWw9NohGOAKCbD) | [I Get Hurt](https://open.spotify.com/album/4roP8kG28XJlk0T3KTAKrk) | 02:50 |
