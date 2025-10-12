@@ -10,4 +10,4 @@
 |[PUNK COVERS](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 143 | 8 hr 8 min | 09/17/2025 | 
 |[Salsa](/Playlists/Pretty/0o2GXyncPfGLmGSiOqSINx.md) | 312 | 0 hr 10 min | 10/10/2025 | 
 |[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 214 | 12 hr 4 min | 09/04/2025 | 
-|[jazz music to play in the background while cooking](/Playlists/Pretty/5TrM2C1a4McxIlFMgxgEHi.md) | 51 | 2 hr 37 min | 10/11/2025 | 
+|[jazz music to play in the background while cooking](/Playlists/Pretty/5TrM2C1a4McxIlFMgxgEHi.md) | 50 | 2 hr 34 min | 10/12/2025 | 
