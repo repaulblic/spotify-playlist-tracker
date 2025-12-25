@@ -3,9 +3,10 @@
 |---|---|---|---|
 |[Untitled](/Playlists/Pretty/3MCgdDL3VM4sNHqSVJMDXO.md) | 628 | 1 day 15 hr | 11/10/2025 | 
 |[18](/Playlists/Pretty/7DrLIIvXwjSRTAaQjmZtDC.md) | 32 | 1 hr 48 min | 09/03/2023 | 
-|[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 229 | 2 hr 19 min | 11/24/2025 | 
+|[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 230 | 2 hr 22 min | 12/25/2025 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 10/22/2024 | 
 |[Indie Pop Summer '24](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 42 | 2 hr 18 min | 12/15/2024 | 
+|[Inexcusable Bops](/Playlists/Pretty/1EsozxnoOIr5u6iMfmobfh.md) | 30 | 1 hr 32 min | 10/07/2025 | 
 |[PUNK COVERS](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 144 | 8 hr 15 min | 12/19/2025 | 
 |[Salsa](/Playlists/Pretty/0o2GXyncPfGLmGSiOqSINx.md) | 312 | 0 hr 11 min | 11/16/2025 | 
 |[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 214 | 12 hr 4 min | 11/03/2025 | 
