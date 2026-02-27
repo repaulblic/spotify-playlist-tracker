@@ -1,7 +1,7 @@
 ### [PUNK COVERS](https://open.spotify.com/playlist/7qYDPkTgFw2Z9goeMSgrVC)
 
 > Our Favorite Cover Songs From Some Of Our Favorite Bands - Punk, Metal,  Pop Punk, Alternative, Rock, Indie &amp; More <br>
-> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 146 songs, 8 hr 18 min
+> Created by [Pure Noise Records](https://open.spotify.com/user/purenoiserecords) • 147 songs, 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,3 +150,4 @@
 | 143 | [I Wan'na Be Like You (The Monkey Song) - From "The Jungle Book"](https://open.spotify.com/track/6zMNLIFrUss4qklFUdpzjp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 03:19 |
 | 144 | [Black Hole Sun](https://open.spotify.com/track/64YmH8sLBdJV8pJyq6yGF2) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [Punk Goes 90's](https://open.spotify.com/album/41GnyK2xh3zQsw4Oc79Dpm) | 04:31 |
 | 145 | [A forest](https://open.spotify.com/track/4yFtOel6HX7GVelWa3nMgj) | [Los Viejos](https://open.spotify.com/artist/3AS8HtsWG2bIRM7LqI8DUk) | [A forest](https://open.spotify.com/album/4lCX4J6yqCn2kIZlVrVlQA) | 04:27 |
+| 146 | [Fell in Love with a Girl](https://open.spotify.com/track/3zXg8RrBODpynlbaLxGa6g) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Dead Formats, Vol. 1](https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI) | 01:46 |
