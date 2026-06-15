@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 204 songs, 23 hr 2 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 205 songs, 23 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,7 +204,8 @@
 | 197 | [Infinitum](https://open.spotify.com/track/7yUQ3CvaA9okK2PWMECW4h) | [Exxasens](https://open.spotify.com/artist/7935eVYpj7jQM3mRJ3kGeX), [PSICOTRÒNIC SCAPES](https://open.spotify.com/artist/0p9WQDivK82UhBPfMD9YXl) | [INFINITUM](https://open.spotify.com/album/203ebVoUxRZOJ5HAEZtYB8) | 08:55 |
 | 198 | [Something Strange and Eternal](https://open.spotify.com/track/2r2NV86DH8Cqd1gWcQ3YOK) | [Black Narcissus](https://open.spotify.com/artist/6HeMBMDzJrHru47Q9wwVa3) | [Something Strange and Eternal](https://open.spotify.com/album/1KYAPZDKJd6XMkkfcoM0N0) | 07:13 |
 | 199 | [Dorsia](https://open.spotify.com/track/4qiumQlvxbqk3NYtkZ8Aj9) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Nightswimming](https://open.spotify.com/album/03ZB5B55OHyjoNmN6SXT8v) | 07:18 |
-| 200 | [Twilight](https://open.spotify.com/track/223sjpgHVOeHsSmvJZ3RE7) | [Clouds Indoor](https://open.spotify.com/artist/5p1Y1a5nA5iYrGhgTG8egU) | [Twilight](https://open.spotify.com/album/4RBt5e0WLpaq1Wkpdsu1sl) | 04:54 |
-| 201 | [Blodmåne](https://open.spotify.com/track/04gNwyT7MWvN5QslN9qZTY) | [Sire](https://open.spotify.com/artist/7g4utwKUY3R2Gg6RM9j91Z) | [Koyot](https://open.spotify.com/album/5TAsTMGoIyeriQP5kzSk9A) | 06:14 |
-| 202 | [These Depths Were Always Meant for Both of Us](https://open.spotify.com/track/6Gfnban03musJ9FJiRB5A2) | [A Swarm Of The Sun](https://open.spotify.com/artist/0WYYIH0BaJCvkYFIO5AVTN) | [The Rifts](https://open.spotify.com/album/6wiiNSWM18tZUTfZS68TPi) | 10:26 |
-| 203 | [Ego and Archetype](https://open.spotify.com/track/0TFQxA86m9r9xkdGak8dZR) | [Aphéa](https://open.spotify.com/artist/3Thkh2qoVIPpNRvg63KafO) | [Ego and Archetype](https://open.spotify.com/album/6tCHVRT6v3GLvJtqEvvl0O) | 05:44 |
+| 200 | [For My Children, the Night Shall Never Come](https://open.spotify.com/track/24zRo4tXw4WEZ49WSPmtma) | [The Moon Is Down](https://open.spotify.com/artist/17GkdVcJnJnFVyzNkRzLJu) | [For My Children, the Night Shall Never Come](https://open.spotify.com/album/4G2nWnP6nwyQaIYiXXTv9p) | 04:24 |
+| 201 | [Twilight](https://open.spotify.com/track/223sjpgHVOeHsSmvJZ3RE7) | [Clouds Indoor](https://open.spotify.com/artist/5p1Y1a5nA5iYrGhgTG8egU) | [Twilight](https://open.spotify.com/album/4RBt5e0WLpaq1Wkpdsu1sl) | 04:54 |
+| 202 | [Blodmåne](https://open.spotify.com/track/04gNwyT7MWvN5QslN9qZTY) | [Sire](https://open.spotify.com/artist/7g4utwKUY3R2Gg6RM9j91Z) | [Koyot](https://open.spotify.com/album/5TAsTMGoIyeriQP5kzSk9A) | 06:14 |
+| 203 | [These Depths Were Always Meant for Both of Us](https://open.spotify.com/track/6Gfnban03musJ9FJiRB5A2) | [A Swarm Of The Sun](https://open.spotify.com/artist/0WYYIH0BaJCvkYFIO5AVTN) | [The Rifts](https://open.spotify.com/album/6wiiNSWM18tZUTfZS68TPi) | 10:26 |
+| 204 | [Ego and Archetype](https://open.spotify.com/track/0TFQxA86m9r9xkdGak8dZR) | [Aphéa](https://open.spotify.com/artist/3Thkh2qoVIPpNRvg63KafO) | [Ego and Archetype](https://open.spotify.com/album/6tCHVRT6v3GLvJtqEvvl0O) | 05:44 |
