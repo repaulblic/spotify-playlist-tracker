@@ -7,7 +7,7 @@
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 10/22/2024 | 
 |[Indie Pop Summer '24](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 42 | 2 hr 18 min | 06/03/2026 | 
 |[Inexcusable Bops](/Playlists/Pretty/1EsozxnoOIr5u6iMfmobfh.md) | 30 | 1 hr 32 min | 10/07/2025 | 
-|[PUNK COVERS](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 148 | 8 hr 27 min | 05/21/2026 | 
+|[PUNK COVERS](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 150 | 8 hr 34 min | 06/16/2026 | 
 |[Salsa](/Playlists/Pretty/0o2GXyncPfGLmGSiOqSINx.md) | 314 | 0 hr 17 min | 06/05/2026 | 
 |[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 214 | 12 hr 4 min | 06/03/2026 | 
 |[jazz music to play in the background while cooking](/Playlists/Pretty/5TrM2C1a4McxIlFMgxgEHi.md) | 48 | 2 hr 27 min | 10/14/2025 | 
