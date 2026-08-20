@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 238 songs, 2 hr 1 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 240 songs, 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,3 +242,5 @@
 | 235 | [Eternal Transmission](https://open.spotify.com/track/2JpFsnyO3r9eJHaz4nk5dr) | [EchoBravo](https://open.spotify.com/artist/64rsHQDa4UTZQpQY7ciZQp) | [Awakening Of Dreams](https://open.spotify.com/album/0XviruuwNylaWIlu6Ea9Cs) | 04:48 |
 | 236 | [Affirmations](https://open.spotify.com/track/3BctsP4KrIy3mRZEpOe0u6) | [Dyadd](https://open.spotify.com/artist/5StdCotLxIp4qH9Tdv86om) | [The Songs That Came to Me to Help You Sleep](https://open.spotify.com/album/5M3IprjhkkCKA9w6ztB0VC) | 03:06 |
 | 237 | [Okay, Breathe](https://open.spotify.com/track/1H8kvkkqMeEQ00jC5fN4ig) | [peejmudd](https://open.spotify.com/artist/0tuhxuNW3xvDSbL48lXLn9) | [Okay, Breathe](https://open.spotify.com/album/1jPSDsvt0jKEAKUfM4bMkH) | 10:23 |
+| 238 | [Dyblad](https://open.spotify.com/track/69K0WJmZZGZYxNZ4CHYAlC) | [Göl](https://open.spotify.com/artist/7KoBFRbxSP8llVPROxKMQz) | [Dyblad](https://open.spotify.com/album/1hni9rUeRjt57HtxEjt79b) | 04:37 |
+| 239 | [Thethys Ocean](https://open.spotify.com/track/6RdayMnbG1Q9bVs7NwBgcC) | [Why Have Enemies](https://open.spotify.com/artist/0W6FB70yNIg7olLszsB7oO) | [e/scapes](https://open.spotify.com/album/1g8QlUpxs4MAB6Bgcgybrq) | 03:43 |
