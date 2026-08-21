@@ -3,11 +3,11 @@
 |---|---|---|---|
 |[Untitled](/Playlists/Pretty/3MCgdDL3VM4sNHqSVJMDXO.md) | 628 | 1 day 15 hr | 06/27/2026 | 
 |[18](/Playlists/Pretty/7DrLIIvXwjSRTAaQjmZtDC.md) | 32 | 1 hr 48 min | 09/03/2023 | 
-|[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 239 | 2 hr 9 min | 08/20/2026 | 
+|[Best of Post-Rock](/Playlists/Pretty/4ebKOuGNfJ5g8RdtbEBHxe.md) | 241 | 2 hr 17 min | 08/21/2026 | 
 |[Desert Island Ska](/Playlists/Pretty/7AodoCcN7r6zCDut0GnG8g.md) | 162 | 9 hr 36 min | 10/22/2024 | 
 |[Indie Pop Summer '24](/Playlists/Pretty/4BcXTPzIirZmyzp2jj1k5n.md) | 42 | 2 hr 18 min | 06/03/2026 | 
 |[Inexcusable Bops](/Playlists/Pretty/1EsozxnoOIr5u6iMfmobfh.md) | 30 | 1 hr 32 min | 10/07/2025 | 
 |[PUNK COVERS](/Playlists/Pretty/7qYDPkTgFw2Z9goeMSgrVC.md) | 151 | 8 hr 38 min | 07/16/2026 | 
-|[Salsa](/Playlists/Pretty/0o2GXyncPfGLmGSiOqSINx.md) | 318 | 0 hr 32 min | 08/16/2026 | 
+|[Salsa](/Playlists/Pretty/0o2GXyncPfGLmGSiOqSINx.md) | 319 | 0 hr 35 min | 08/21/2026 | 
 |[Spring Cleaning 🧽 ](/Playlists/Pretty/3R4JUoD8HBVxgAXGRHp6Q9.md) | 199 | 11 hr 16 min | 07/31/2026 | 
 |[jazz music to play in the background while cooking](/Playlists/Pretty/5TrM2C1a4McxIlFMgxgEHi.md) | 48 | 2 hr 27 min | 10/14/2025 | 
