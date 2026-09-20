@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 255 songs, 2 hr 55 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 253 songs, 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,8 +254,6 @@
 | 247 | [Lunar Witness](https://open.spotify.com/track/6PN04u6d4WEeYjk7D993m6) | [EchoBravo](https://open.spotify.com/artist/64rsHQDa4UTZQpQY7ciZQp) | [Awakening Of Dreams](https://open.spotify.com/album/0XviruuwNylaWIlu6Ea9Cs) | 04:53 |
 | 248 | [The Last Shore](https://open.spotify.com/track/0G8TVfxMVjG2aFNM7Qp1lE) | [EchoBravo](https://open.spotify.com/artist/64rsHQDa4UTZQpQY7ciZQp) | [Awakening Of Dreams](https://open.spotify.com/album/0XviruuwNylaWIlu6Ea9Cs) | 05:12 |
 | 249 | [Some Seem to Vanish](https://open.spotify.com/track/62h6Fg6irir3sjKXxczDo1) | [KOVETS](https://open.spotify.com/artist/7IJKXP9tVEGVC0Iwusyxyb), [Mikael Tobias](https://open.spotify.com/artist/3QMFlcDNQhX49dmqk1l0mc) | [Some Seem to Vanish](https://open.spotify.com/album/1evVpK6vKrZ2KAy4s8r50W) | 04:47 |
-| 250 | [Dyblad](https://open.spotify.com/track/69K0WJmZZGZYxNZ4CHYAlC) | [Göl](https://open.spotify.com/artist/7KoBFRbxSP8llVPROxKMQz) | [Dyblad](https://open.spotify.com/album/1hni9rUeRjt57HtxEjt79b) | 04:37 |
-| 251 | [Thethys Ocean](https://open.spotify.com/track/6RdayMnbG1Q9bVs7NwBgcC) | [Why Have Enemies](https://open.spotify.com/artist/0W6FB70yNIg7olLszsB7oO) | [e/scapes](https://open.spotify.com/album/1g8QlUpxs4MAB6Bgcgybrq) | 03:43 |
-| 252 | [Long Way To Go](https://open.spotify.com/track/5mqUvHDfffiuIJ683mpeCD) | [Rockets & Clouds](https://open.spotify.com/artist/5an5E7Y0L4sWBQvDpMvtUi) | [Rockets & Clouds](https://open.spotify.com/album/1ADEUPx6LQpyXnamB9ckBl) | 04:11 |
-| 253 | [Fractures](https://open.spotify.com/track/4TyGeZgnPlIUgnqkNv5biq) | [Quarteen](https://open.spotify.com/artist/1wve1nP1eDCSdo8bUtjf82) | [Fractures](https://open.spotify.com/album/6grTM2LY28v9V2W7OBIWX5) | 03:43 |
-| 254 | [sunday oh monday](https://open.spotify.com/track/7jnJCL0vqcTkJGtHQJ5hfw) | [Youth Valley](https://open.spotify.com/artist/0kHMttxwA2rMClpAh9M34X) | [sunday oh monday](https://open.spotify.com/album/2zBwOnhN6SoBcX1ph7dPTT) | 03:31 |
+| 250 | [Long Way To Go](https://open.spotify.com/track/5mqUvHDfffiuIJ683mpeCD) | [Rockets & Clouds](https://open.spotify.com/artist/5an5E7Y0L4sWBQvDpMvtUi) | [Rockets & Clouds](https://open.spotify.com/album/1ADEUPx6LQpyXnamB9ckBl) | 04:11 |
+| 251 | [Fractures](https://open.spotify.com/track/4TyGeZgnPlIUgnqkNv5biq) | [Quarteen](https://open.spotify.com/artist/1wve1nP1eDCSdo8bUtjf82) | [Fractures](https://open.spotify.com/album/6grTM2LY28v9V2W7OBIWX5) | 03:43 |
+| 252 | [sunday oh monday](https://open.spotify.com/track/7jnJCL0vqcTkJGtHQJ5hfw) | [Youth Valley](https://open.spotify.com/artist/0kHMttxwA2rMClpAh9M34X) | [sunday oh monday](https://open.spotify.com/album/2zBwOnhN6SoBcX1ph7dPTT) | 03:31 |
