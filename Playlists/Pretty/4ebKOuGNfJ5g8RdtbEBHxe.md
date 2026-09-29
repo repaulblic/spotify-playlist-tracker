@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock and all the related genres. Also the most memorable tracks and the best new ones! Credits: Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Music Selection by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 249 songs, 2 hr 41 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 248 songs, 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,5 +251,4 @@
 | 244 | [Ego and Archetype](https://open.spotify.com/track/0TFQxA86m9r9xkdGak8dZR) | [Aphéa](https://open.spotify.com/artist/3Thkh2qoVIPpNRvg63KafO) | [Ego and Archetype](https://open.spotify.com/album/6tCHVRT6v3GLvJtqEvvl0O) | 05:44 |
 | 245 | [Moon Machine](https://open.spotify.com/track/0IcSNVimfYdfNA0sYcUM2p) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [The Hidden Hand](https://open.spotify.com/album/2KiQN7FeBS56DsxhaPHwmO) | 07:58 |
 | 246 | [There Was Nothing Left](https://open.spotify.com/track/2NT7tvc77crZfxoGckhsu1) | [Hereafter](https://open.spotify.com/artist/7FzZf6YIg39FUCqxHAQHwG) | [There Was Nothing Left](https://open.spotify.com/album/3M5juyUJC3N2M5YnQRc0Vr) | 07:21 |
-| 247 | [Long Way To Go](https://open.spotify.com/track/5mqUvHDfffiuIJ683mpeCD) | [Rockets & Clouds](https://open.spotify.com/artist/5an5E7Y0L4sWBQvDpMvtUi) | [Rockets & Clouds](https://open.spotify.com/album/1ADEUPx6LQpyXnamB9ckBl) | 04:11 |
-| 248 | [sunday oh monday](https://open.spotify.com/track/7jnJCL0vqcTkJGtHQJ5hfw) | [Youth Valley](https://open.spotify.com/artist/0kHMttxwA2rMClpAh9M34X) | [sunday oh monday](https://open.spotify.com/album/2zBwOnhN6SoBcX1ph7dPTT) | 03:31 |
+| 247 | [sunday oh monday](https://open.spotify.com/track/7jnJCL0vqcTkJGtHQJ5hfw) | [Youth Valley](https://open.spotify.com/artist/0kHMttxwA2rMClpAh9M34X) | [sunday oh monday](https://open.spotify.com/album/2zBwOnhN6SoBcX1ph7dPTT) | 03:31 |
