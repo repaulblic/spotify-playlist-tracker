@@ -5,8 +5,8 @@
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Collab](https://open.spotify.com/track/61lyAGlyT5DOYWVtJ3OdLz) | [Post Rock Community](https://open.spotify.com/artist/2Pcw4hXyhUXI5lAxdjDvww) | [Collab](https://open.spotify.com/album/4rfmp4tcSWXavXohMvBexj) | 06:49 |
-| 2 | [Decline of Classicism](https://open.spotify.com/track/3x2ize73zit8RkAeTgWsRQ) | [there were others](https://open.spotify.com/artist/3Ffc2HZc2fxJy85ZbXprMG) | [Decline of Classicism](https://open.spotify.com/album/2UZdIZG8RtqVIDAZwlurT7) | 06:22 |
+| 1 | [Decline of Classicism](https://open.spotify.com/track/3x2ize73zit8RkAeTgWsRQ) | [there were others](https://open.spotify.com/artist/3Ffc2HZc2fxJy85ZbXprMG) | [Decline of Classicism](https://open.spotify.com/album/2UZdIZG8RtqVIDAZwlurT7) | 06:22 |
+| 2 | [Collab](https://open.spotify.com/track/61lyAGlyT5DOYWVtJ3OdLz) | [Post Rock Community](https://open.spotify.com/artist/2Pcw4hXyhUXI5lAxdjDvww) | [Collab](https://open.spotify.com/album/4rfmp4tcSWXavXohMvBexj) | 06:49 |
 | 3 | [Collab 2](https://open.spotify.com/track/6BUvum6dn8mlXvDb97ORzR) | [Post Rock Community](https://open.spotify.com/artist/2Pcw4hXyhUXI5lAxdjDvww) | [Collab 2](https://open.spotify.com/album/26UfGi7fmVCjTIWW0EOIiR) | 08:00 |
 | 4 | [Colliding Satellites](https://open.spotify.com/track/2taTMGznKYDIEFdMnzeb0J) | [Lost In A Detail](https://open.spotify.com/artist/34r6y8dP4yPVLnMt1v1D32) | [Eyes On The Stars, Feet On The Ground](https://open.spotify.com/album/1zpMlgBze8Djhf1dfy2UTV) | 05:51 |
 | 5 | [Discobox](https://open.spotify.com/track/5ZqROfA4ov0AmGxXyJvFBT) | [Threefiftysixam](https://open.spotify.com/artist/58Sv70VCHAi9z3RpcpgLX1) | [Eleven](https://open.spotify.com/album/4GlN7T9nlIrzLVRYaRL5p8) | 05:34 |
