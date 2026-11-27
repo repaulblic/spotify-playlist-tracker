@@ -1,7 +1,7 @@
 ### [Best of Post-Rock](https://open.spotify.com/playlist/4ebKOuGNfJ5g8RdtbEBHxe)
 
 > This playlist features the best collection of post-rock, shoegaze, space rock and all the related genres. Photo by Jakub Kriz - Design by Ergi Shkëlzeni - Selected by Post Rock Community<br>
-> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 219 songs, 22 hr 44 min
+> Created by [Post Rock Community](https://open.spotify.com/user/20oxoq89bzf5r8uf5x54v3k8a) • 219 songs, 22 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,27 +16,27 @@
 | 9 | [X (Cities)](https://open.spotify.com/track/7lZfIrfAlT3w2xh4v2Gug3) | [False Hope for the Savage](https://open.spotify.com/artist/6B5KL9AKxa3sL2Z8jkZNrT) | [X (Cities)](https://open.spotify.com/album/4EjwbnbpwvESYjE9GoXWFR) | 04:10 |
 | 10 | [Descent](https://open.spotify.com/track/2M0xWKsBSFyHs0JkWn6xfl) | [Slowrun](https://open.spotify.com/artist/7nqKIKExc0adNOIF2jj6or) | [Mirage](https://open.spotify.com/album/60iHfVotzur6C27kMhn3Bw) | 06:32 |
 | 11 | [Berggeister](https://open.spotify.com/track/32Ry6wQCtEEov3ZeieNuqr) | [Levitain](https://open.spotify.com/artist/0v93NdargIGVdkJ3IABZjB) | [Berggeister](https://open.spotify.com/album/0QSVk4q3fNKwC13wdD8RIu) | 10:25 |
-| 12 | [Procession](https://open.spotify.com/track/6npKzXwVgKqg0doBAuG0g6) | [in:tides](https://open.spotify.com/artist/3G9KwClMXgqUH7Y2DVZX2u) | [Procession](https://open.spotify.com/album/10rwf4uILfs7VZzPt3SRuO) | 04:42 |
+| 12 | [A Reverie](https://open.spotify.com/track/2RYwlogIDtt9BEMi3DYCBh) | [in:tides](https://open.spotify.com/artist/3G9KwClMXgqUH7Y2DVZX2u) | [in:tides](https://open.spotify.com/album/1QDg6TorYnWPkqp7VwIXVd) | 08:32 |
 | 13 | [Light at the Breakwater](https://open.spotify.com/track/1MJprKMBBsth4oNP2GI2Xj) | [The Depth Curve](https://open.spotify.com/artist/6EAGq2T9VIgzMULT1z9m2D) | [Low Water Line](https://open.spotify.com/album/3tOZh1DqUgtFMaEZVAcVBc) | 04:06 |
 | 14 | [Zeroin](https://open.spotify.com/track/6NefezzituO0EOv7aSFPmL) | [Details](https://open.spotify.com/artist/72xWXRGJW9fsNUebQG7dzx) | [Zeroin](https://open.spotify.com/album/66PYPWyOgl4ZdeiMhjpoOR) | 05:03 |
 | 15 | [Apparitions](https://open.spotify.com/track/259GUTomO12Obdd6NYhns1) | [in:tides](https://open.spotify.com/artist/3G9KwClMXgqUH7Y2DVZX2u) | [Apparitions](https://open.spotify.com/album/4ryXf6NM6ScCdJNdLr6Pj8) | 05:12 |
 | 16 | [pckUP](https://open.spotify.com/track/7KDIjs4cmkcQPF0IgHZsPo) | [Greg Perkins](https://open.spotify.com/artist/45I48SrYq7CFwTQnh6vBL4) | [pckUP](https://open.spotify.com/album/0tQS9qKRTbxAKxb6Mf0SDv) | 04:08 |
 | 17 | [Dauðr Manteion](https://open.spotify.com/track/3ObGcqsFRvx65N5KvDcE0m) | [Prism Paradox](https://open.spotify.com/artist/0pru4s1HskEog0ebfwFnQJ) | [Veiled Refractions](https://open.spotify.com/album/3VUF4EzwdtyFzkBndvM4yo) | 06:28 |
 | 18 | [Water Divides The Tide - Redux](https://open.spotify.com/track/3sfWjP1ldJ5VGKmT5krplI) | [Telepathy](https://open.spotify.com/artist/7tgHFZQScvUy74xbYvKp3q) | [Water Divides The Tide (Redux)](https://open.spotify.com/album/5bTBjrZZkRTTLtAFocvUW4) | 08:13 |
-| 19 | [pckUP](https://open.spotify.com/track/7KDIjs4cmkcQPF0IgHZsPo) | [Greg Perkins](https://open.spotify.com/artist/45I48SrYq7CFwTQnh6vBL4) | [pckUP](https://open.spotify.com/album/0tQS9qKRTbxAKxb6Mf0SDv) | 04:08 |
+| 19 | [Procession](https://open.spotify.com/track/6npKzXwVgKqg0doBAuG0g6) | [in:tides](https://open.spotify.com/artist/3G9KwClMXgqUH7Y2DVZX2u) | [Procession](https://open.spotify.com/album/10rwf4uILfs7VZzPt3SRuO) | 04:42 |
 | 20 | [Mononeuropathy](https://open.spotify.com/track/63KC4lrnoOHi84h37ruU4I) | [Ever Onward](https://open.spotify.com/artist/7gWmemTuraI3UMUfc5xEzJ) | [Mononeuropathy](https://open.spotify.com/album/797aPkqWF393miTcLWcHWP) | 05:26 |
 | 21 | [Submersion](https://open.spotify.com/track/3RPOSi6Q3hBu6edxFH1ZBm) | [Abîmes Marécageux](https://open.spotify.com/artist/7HG62jfxx1OgrovuAk3V42) | [Submersion](https://open.spotify.com/album/2mP5ebjjwuL35WTxB544UV) | 04:40 |
-| 22 | [Zeroin](https://open.spotify.com/track/6NefezzituO0EOv7aSFPmL) | [Details](https://open.spotify.com/artist/72xWXRGJW9fsNUebQG7dzx) | [Zeroin](https://open.spotify.com/album/66PYPWyOgl4ZdeiMhjpoOR) | 05:03 |
-| 23 | [Brightness Circle](https://open.spotify.com/track/0owvUBlOFrYxsQee5qCFSp) | [Soft Collapse](https://open.spotify.com/artist/6wdLP0Qw84KklbYTPUqyqQ) | [Brightness Circle](https://open.spotify.com/album/0EijRzhFC33HBucAQSaYpb) | 03:04 |
+| 22 | [pckUP](https://open.spotify.com/track/7KDIjs4cmkcQPF0IgHZsPo) | [Greg Perkins](https://open.spotify.com/artist/45I48SrYq7CFwTQnh6vBL4) | [pckUP](https://open.spotify.com/album/0tQS9qKRTbxAKxb6Mf0SDv) | 04:08 |
+| 23 | [Zeroin](https://open.spotify.com/track/6NefezzituO0EOv7aSFPmL) | [Details](https://open.spotify.com/artist/72xWXRGJW9fsNUebQG7dzx) | [Zeroin](https://open.spotify.com/album/66PYPWyOgl4ZdeiMhjpoOR) | 05:03 |
 | 24 | [Manifold](https://open.spotify.com/track/5GfWiKrtw70YWQGP6sq4Vu) | [IKAD!](https://open.spotify.com/artist/25YUq06Et6Xi1twUw7QyKk) | [Manifold](https://open.spotify.com/album/3XgZSzxxQ9Eu7w3B8mM26b) | 05:57 |
-| 25 | [Origins Beneath](https://open.spotify.com/track/21VXEVz6NdrTPZf8iw5waR) | [Sidus](https://open.spotify.com/artist/4CNRuXgqHX6TqGXqmkA2s5) | [Lotus](https://open.spotify.com/album/73YOm1OzzXOEwVpb8IO98i) | 06:47 |
+| 25 | [Brightness Circle](https://open.spotify.com/track/0owvUBlOFrYxsQee5qCFSp) | [Soft Collapse](https://open.spotify.com/artist/6wdLP0Qw84KklbYTPUqyqQ) | [Brightness Circle](https://open.spotify.com/album/0EijRzhFC33HBucAQSaYpb) | 03:04 |
 | 26 | [Holocene - Instrumental](https://open.spotify.com/track/1si7TRC70k9RNhV02V03xY) | [Jacob Montague](https://open.spotify.com/artist/3CJqcROIuvaZDEyxPN6woq) | [Holocene (Instrumental)](https://open.spotify.com/album/1ZaWwa0mtaKn5pXsmz69lt) | 04:16 |
 | 27 | [Hammer Smashed Faith](https://open.spotify.com/track/5mVoZ07tPglvfK3Bl04Kq7) | [Coilshift](https://open.spotify.com/artist/0dyUnSCSltAcPtQ2frMQWC) | [Hammer Smashed Faith](https://open.spotify.com/album/6HCyGVcgUdzRlGfyqktlja) | 03:32 |
-| 28 | [Metanoia](https://open.spotify.com/track/43fmxh11UdT63aXCtbgUBU) | [Suntyde](https://open.spotify.com/artist/3iquVOcPpqwOc2p4RyqjBY) | [Metanoia](https://open.spotify.com/album/2C1uJjrcn8Zs9dwmkyiNFk) | 03:49 |
+| 28 | [Origins Beneath](https://open.spotify.com/track/21VXEVz6NdrTPZf8iw5waR) | [Sidus](https://open.spotify.com/artist/4CNRuXgqHX6TqGXqmkA2s5) | [Lotus](https://open.spotify.com/album/73YOm1OzzXOEwVpb8IO98i) | 06:47 |
 | 29 | [catch you if you fall](https://open.spotify.com/track/3LiPfhjBgpLNOJAkROHoIW) | [wegoingnowhere](https://open.spotify.com/artist/795rISGAdr37811dggiXgt) | [catch you if you fall](https://open.spotify.com/album/05biLqxev2OBx7nqDB4RlM) | 04:37 |
 | 30 | [Die Kaltschatten](https://open.spotify.com/track/7irLDSYLlCCRhDgCOr5B5v) | [Elusive Arizona](https://open.spotify.com/artist/1RMxlv7GugPSN52ihyIGIi) | [Momentaufnahmen](https://open.spotify.com/album/5mdHL0wp536u8vdaroyv1R) | 07:29 |
-| 31 | [Mishima/Closing](https://open.spotify.com/track/4f3OoZLtSlU2iFMtGbi7eW) | [Slothlore](https://open.spotify.com/artist/6W6BthNk2BMrz2KRkvMGmo) | [Mishima/Closing](https://open.spotify.com/album/5NdFfkMN4qtXx4nEh3RfHZ) | 02:31 |
-| 32 | [exhale](https://open.spotify.com/track/0ED28l8fu3bKrLGQsmS9DY) | [Dan Van Nard](https://open.spotify.com/artist/52i0CppXTYAwNzEuGvgSvH) | [restless](https://open.spotify.com/album/6g72ui9BB3Cs8JRPVSjmHx) | 07:37 |
+| 31 | [Metanoia](https://open.spotify.com/track/43fmxh11UdT63aXCtbgUBU) | [Suntyde](https://open.spotify.com/artist/3iquVOcPpqwOc2p4RyqjBY) | [Metanoia](https://open.spotify.com/album/2C1uJjrcn8Zs9dwmkyiNFk) | 03:49 |
+| 32 | [Mishima/Closing](https://open.spotify.com/track/4f3OoZLtSlU2iFMtGbi7eW) | [Slothlore](https://open.spotify.com/artist/6W6BthNk2BMrz2KRkvMGmo) | [Mishima/Closing](https://open.spotify.com/album/5NdFfkMN4qtXx4nEh3RfHZ) | 02:31 |
 | 33 | [Burning Your Bridges At Both Ends](https://open.spotify.com/track/1OwQ1xS0tReAKpIDVr56sj) | [Our Fair City](https://open.spotify.com/artist/5DVwUyM7DDdMZ9NzNWUirF) | [A Most Clever Disaster](https://open.spotify.com/album/1YAsqSybqvhG8Vt91MqLAD) | 02:32 |
 | 34 | [Kelvin Waves Goodbye](https://open.spotify.com/track/5kXaMo3FS4Z0Il2rGQQLU9) | [Svntax Error](https://open.spotify.com/artist/5okWs7qI8YE8QtnKEl1t8p) | [The Vanishing Existence](https://open.spotify.com/album/0C6lm0E7rR1wDhXeJalESL) | 06:44 |
 | 35 | [Lost In Space](https://open.spotify.com/track/3wgnptDAPUKSWZtqi2xJcA) | [Daniel Benyamin](https://open.spotify.com/artist/58FviSG7J3QiK9r4L0V3sH) | [Lost In Space](https://open.spotify.com/album/094HwK1fY7N42XXzBlzFhK) | 04:13 |
